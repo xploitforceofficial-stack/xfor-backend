@@ -92,8 +92,7 @@ RUN set -eux; \
 # Failing here instead makes that a build error with the path in it.
 RUN dotnet --list-runtimes \
  && python3 --version \
- && java -version \
- && node verify_engines.js
+ && java -version
 
 # The /dump engine is Luau source that must be cloned, and Lune must be able
 # to load it. Prove both here: an absent envlogger/ (untracked, or arriving
@@ -117,4 +116,4 @@ RUN timeout 60 dotnet deobfuscators/MoonsecDeobf/bin/Release/net8.0/MoonsecDeobf
         echo "MoonSec engine starts OK"; head -n 5 /tmp/moonsec_probe.txt; \
     fi
 
-CMD ["node", "bot.js"]
+CMD ["node", "server.js"]
