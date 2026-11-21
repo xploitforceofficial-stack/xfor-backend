@@ -85,7 +85,7 @@ function classifyEntry(raw) {
     let s = String(raw || '').trim().toLowerCase();
     if (!s) return null;
 
-    s = s.replace(/^[a-z][a-z0-9+.-]*:\/\
+    s = s.replace(/^[a-z][a-z0-9+.-]*:\/\//i, '');
     s = s.replace(/^[^/@\s]*@/, '');
     s = s.split(/[/?#\\]/)[0];
 
