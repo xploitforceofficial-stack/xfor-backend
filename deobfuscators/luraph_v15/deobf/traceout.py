@@ -26,7 +26,7 @@ def take_strings(body):
     return body, None
 
 def header(input_path, notes=()):
-    h = ("-- omnidbf reconstruction (observed behaviour)\n"
+    h = ("-- Community XploitForce reconstruction (observed behaviour)\n"
          "-- source: %s\n"
          "-- NOTE: rebuilt from what the script actually did at runtime, so any\n"
          "--       branch it never took is absent and the conditions it branched\n"

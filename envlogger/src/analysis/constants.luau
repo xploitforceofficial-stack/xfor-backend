@@ -915,7 +915,7 @@ end
 
 function Constants.render(report: Report): string
 	local lines: { string } = {}
-	lines[#lines + 1] = "-- fuhed at OmniDBF .gg/odbf"
+	lines[#lines + 1] = "-- Deobfuscated by Community XploitForce"
 	lines[#lines + 1] = ""
 
 	local kindRank: { [string]: number } = { webhook = 0, url = 1, key = 2, hash = 3, string = 4, number = 5 }

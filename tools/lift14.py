@@ -541,7 +541,7 @@ def main() -> int:
     total = sum(len(v) for v in order.values())
     print('chains=%d slots=%d leaves=%d' % (len(order), total, len(leaves)))
     parts = []
-    parts.append('-- Deobfuscated by OmniDBF (Luraph v14.7 lifter v1)')
+    parts.append('-- Deobfuscated by Community XploitForce (Luraph v14.7 lifter v1)')
     parts.append('-- Detected obfuscation: Luraph v14.7')
     parts.append('-- program: %d functions (chains), %d instructions' % (len(order), total))
     parts.append('-- style: v15-like readable Luau; registers as d[r], control as while-dispatch.')

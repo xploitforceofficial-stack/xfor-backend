@@ -82,7 +82,7 @@ function peelEnvelope(content) {
     return out;
 }
 
-const HEADER_LINE = /^--\s*(fuhed at OmniDBF|run id\s+[0-9a-f]+)\s*$/i;
+const HEADER_LINE = /^--\s*(fuhed at OmniDBF|Deobfuscated by Community XploitForce|run id\s+[0-9a-f]+)\s*$/i;
 const TRACE_LINE = /^--\s*(vm trace:|opcodes executed:|execution profile:|op\s+\S+\s+a=)/i;
 const UI_HIERARCHY = /^--\s*UI HIERARCHY\s*$/i;
 const NOTE_LINE = /^--\s*(damn,|runtime error:|the nil did not|truncated|killed at)/i;

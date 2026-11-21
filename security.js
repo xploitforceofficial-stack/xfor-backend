@@ -8,8 +8,8 @@ const http = require('http');
 const https = require('https');
 const zlib = require('zlib');
 
-const BLOCKLIST_FILE = process.env.OMNIDBF_BLOCKLIST
-    ? path.resolve(process.env.OMNIDBF_BLOCKLIST)
+const BLOCKLIST_FILE = process.env.XFOR_BLOCKLIST
+    ? path.resolve(process.env.XFOR_BLOCKLIST)
     : path.join(__dirname, 'badlinks.json');
 
 const BUILTIN_BLOCKED = [
@@ -319,7 +319,7 @@ function asu(raw, opts = {}) {
         if (blocked.blocked) {
 
             const via = blocked.rule && blocked.rule !== host ? ` (matches \`${blocked.rule}\`)` : '';
-            return bad(`\`${host}\` is on the OmniDBF blocklist${via}`, blocked.rule);
+            return bad(`\`${host}\` is on the Community XploitForce blocklist${via}`, blocked.rule);
         }
         for (const suffix of host.split('.').map((_, i, arr) => arr.slice(i).join('.'))) {
             if (REFLECTOR_HOSTS.has(suffix)) {
@@ -398,7 +398,7 @@ function gg(rawUrl, options = {}) {
             lookup: safeLookup,
 
             headers: {
-                'User-Agent': options.userAgent || 'Mozilla/5.0 (compatible; OmniDBF)',
+                'User-Agent': options.userAgent || 'Mozilla/5.0 (compatible; Community XploitForce)',
                 'Accept': '*/*',
                 'Accept-Encoding': 'identity',
                 'Connection': 'close',

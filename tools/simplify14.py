@@ -1573,7 +1573,7 @@ def main() -> int:
         return 2
     total = sum(len(v) for v in order.values())
     print("chains=%d slots=%d leaves=%d" % (len(order), total, len(leaves)))
-    parts = ["-- Deobfuscated by OmniDBF (Luraph v14.7 simplifier v1)",
+    parts = ["-- Deobfuscated by Community XploitForce (Luraph v14.7 simplifier v1)",
              "-- Detected obfuscation: Luraph v14.7",
              "-- program: %d functions (chains), %d instructions" % (len(order), total),
              "-- each chain below is the simulated user code; [[partial]] marks",

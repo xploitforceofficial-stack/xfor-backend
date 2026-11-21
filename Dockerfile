@@ -1,4 +1,5 @@
-# OmniDBF - Node + .NET 8 & 9 + Python + Lune
+# XFOR Backend - Community XploitForce Engine
+# Node + .NET 8 & 9 + Python + Lune
 # Supports: Prometheus, LuaObfuscator, MoonSec V3, Hercules, IronBrew 2,
 #           77fuscator, Clyde, Ironveil V1, PSU, MoonVeil, Goofyscator,
 #           Luraph v15
@@ -100,7 +101,7 @@ RUN dotnet --list-runtimes \
 RUN test -f envlogger/src/main.luau \
  && printf 'print("ok")\n' > /tmp/dumpprobe.lua \
  && cd envlogger && timeout 60 lune run src/main -- env /tmp/dumpprobe.lua --timeout 10 --out /tmp/dumpprobe.out \
- && grep -q 'fuhed at OmniDBF' /tmp/dumpprobe.out \
+ && grep -q 'Community XploitForce' /tmp/dumpprobe.out \
  && echo "dump engine starts OK"
 
 # The MoonSec engine is the one that broke in production, so prove the assembly

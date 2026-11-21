@@ -5,7 +5,7 @@ local MAX_HEX_BYTES = 2097152
 
 local Report = {}
 
-local HEADER = "-- fuhed at OmniDBF .gg/odbf"
+local HEADER = "-- Deobfuscated by Community XploitForce"
 
 local RUNTIME_WARNING = "-- damn, this script was generated on runtime and its output will be trash"
 

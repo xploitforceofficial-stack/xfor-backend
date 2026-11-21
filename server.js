@@ -45,7 +45,7 @@ function checkObfRateLimit(userKey) {
 app.get('/', (req, res) => {
     res.json({
         status: 'online',
-        service: 'XFOR Backend & OmniDBF Engine',
+        service: 'XFOR Backend & Community XploitForce Engine',
         uptime: process.uptime(),
         timestamp: new Date().toISOString()
     });
