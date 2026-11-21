@@ -101,7 +101,7 @@ RUN dotnet --list-runtimes \
 RUN test -f envlogger/src/main.luau \
  && printf 'print("ok")\n' > /tmp/dumpprobe.lua \
  && cd envlogger && timeout 60 lune run src/main -- env /tmp/dumpprobe.lua --timeout 10 --out /tmp/dumpprobe.out \
- && grep -q 'Community XploitForce' /tmp/dumpprobe.out \
+ && grep -q 'deobf by XploitForce community' /tmp/dumpprobe.out \
  && echo "dump engine starts OK"
 
 # The MoonSec engine is the one that broke in production, so prove the assembly

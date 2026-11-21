@@ -91,6 +91,9 @@ app.post('/api/deobfuscate', async (req, res) => {
 
         const result = await deobfuscateUnified(script, engine, filename);
         if (result.success && result.code) {
+            let finalCode = result.code;
+            finalCode = finalCode.replace(/^--\s*(?:deobf by[^\n]*|Deobfuscated by[^\n]*|fuhed at[^\n]*)[^\n]*\n(?:\s*--\s*(?:https?:\/\/chat\.whatsapp\.com[^\n]*|run id[^\n]*|\.gg[^\n]*)[^\n]*\n)*/i, '');
+            result.code = `-- deobf by XploitForce community\n-- https://chat.whatsapp.com/Bu57uOf3aKeENKYNSnJZAg\n\n` + finalCode.trim();
             deobfCache.set(cacheKey, { timestamp: Date.now(), data: result });
         }
 

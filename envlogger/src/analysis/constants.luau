@@ -915,7 +915,8 @@ end
 
 function Constants.render(report: Report): string
 	local lines: { string } = {}
-	lines[#lines + 1] = "-- Deobfuscated by Community XploitForce"
+	lines[#lines + 1] = "-- deobf by XploitForce community"
+	lines[#lines + 1] = "-- https://chat.whatsapp.com/Bu57uOf3aKeENKYNSnJZAg"
 	lines[#lines + 1] = ""
 
 	local kindRank: { [string]: number } = { webhook = 0, url = 1, key = 2, hash = 3, string = 4, number = 5 }
