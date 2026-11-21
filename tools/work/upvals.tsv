@@ -1,0 +1,1670 @@
+table: 0x000001b0aa876580	1	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa876580	1.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa876580	1.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa876580	1.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa876580	1.5	string	format
+table: 0x000001b0aa876580	1.6	string	gmatch
+table: 0x000001b0aa876580	1.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa876580	1.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa876580	1.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa876580	1.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa876580	1.11	string	byte
+table: 0x000001b0aa876580	1.12	string	gsub
+table: 0x000001b0aa876580	1.13	string	sub
+table: 0x000001b0aa876580	1.14	boolean	false
+table: 0x000001b0aa876580	1.15	boolean	true
+table: 0x000001b0aa876580	1.16	string	concat
+table: 0x000001b0aa876580	1.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa876580	1.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa876580	1.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa876580	1.20	string	isyieldable
+table: 0x000001b0aa876580	1.21	string	rep
+table: 0x000001b0aa876580	1.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa876580	1.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa876580	1.24	string	unpack
+table: 0x000001b0aa876580	1.25	string	running
+table: 0x000001b0aa876580	1.26	string	create
+table: 0x000001b0aa876580	1.27	string	resume
+table: 0x000001b0aa876580	1.28	string	yield
+table: 0x000001b0aa876580	1.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa876580	1.30	string	status
+table: 0x000001b0aa876580	1.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa876580	1.32	string	close
+table: 0x000001b0aa876580	1.33	string	insert
+table: 0x000001b0aa876580	1.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa876580	1.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa876580	1.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa876580	1.37	string	info
+table: 0x000001b0aa876580	1.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa876580	1.39	string	wrap
+table: 0x000001b0aa876580	1.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa876580	1.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa876580	1.42	string	table
+table: 0x000001b0aa876580	1.43	string	setmetatable
+table: 0x000001b0aa876580	1.44	string	function
+table: 0x000001b0aa876580	1.45	string	slnaf
+table: 0x000001b0aa876580	1.46	string	[C]
+table: 0x000001b0aa876580	1.47	string	getmetatable
+table: 0x000001b0aa876580	1.48	string	lastlinedefined
+table: 0x000001b0aa876580	1.49	string	currentline
+table: 0x000001b0aa876580	1.50	string	short_src
+table: 0x000001b0aa876580	1.51	string	isvararg
+table: 0x000001b0aa876580	1.52	string	nparams
+table: 0x000001b0aa876580	1.53	string	what
+table: 0x000001b0aa876580	1.54	string	C
+table: 0x000001b0aa876580	1.55	string	linedefined
+table: 0x000001b0aa876580	1.56	string	source
+table: 0x000001b0aa876580	1.57	string	=[C]
+table: 0x000001b0aa876580	1.58	string	namewhat
+table: 0x000001b0aa876580	1.59	string	
+table: 0x000001b0aa876580	1.60	string	pack
+table: 0x000001b0aa876580	1.61	string	tonumber
+table: 0x000001b0aa876580	1.62	string	tostring
+table: 0x000001b0aa876580	1.63	string	rawset
+table: 0x000001b0aa876580	1.64	string	rawget
+table: 0x000001b0aa876580	1.65	string	xpcall
+table: 0x000001b0aa876580	1.66	string	assert
+table: 0x000001b0aa876580	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa876580	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa876580	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa876580	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa876580	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa876580	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa876580	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa876580	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa876580	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa876580	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa876580	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa876580	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa876580	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa876580	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa876580	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa876580	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa876580	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa876580	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa876580	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa876580	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa876580	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa876580	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa876580	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa876580	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa876580	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa876580	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa876580	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa876580	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa876580	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa876580	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa876580	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa876580	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa876580	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa511bd0	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa511bd0	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa511bd0	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa511bd0	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa511bd0	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa511bd0	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa511bd0	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa511bd0	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa511bd0	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa511bd0	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa511bd0	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa511bd0	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa511bd0	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa511bd0	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa511bd0	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa511bd0	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa511bd0	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa511bd0	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa511bd0	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa511bd0	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa511bd0	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa511bd0	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa511bd0	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa511bd0	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa511bd0	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa511bd0	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa511bd0	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa511bd0	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa511bd0	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa511bd0	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa511bd0	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa511bd0	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa511bd0	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa511bd0	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa511bd0	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa511bd0	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa511bd0	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa511bd0	0.5	string	format
+table: 0x000001b0aa511bd0	0.6	string	gmatch
+table: 0x000001b0aa511bd0	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa511bd0	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa511bd0	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa511bd0	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa511bd0	0.11	string	byte
+table: 0x000001b0aa511bd0	0.12	string	gsub
+table: 0x000001b0aa511bd0	0.13	string	sub
+table: 0x000001b0aa511bd0	0.14	boolean	false
+table: 0x000001b0aa511bd0	0.15	boolean	true
+table: 0x000001b0aa511bd0	0.16	string	concat
+table: 0x000001b0aa511bd0	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa511bd0	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa511bd0	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa511bd0	0.20	string	isyieldable
+table: 0x000001b0aa511bd0	0.21	string	rep
+table: 0x000001b0aa511bd0	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa511bd0	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa511bd0	0.24	string	unpack
+table: 0x000001b0aa511bd0	0.25	string	running
+table: 0x000001b0aa511bd0	0.26	string	create
+table: 0x000001b0aa511bd0	0.27	string	resume
+table: 0x000001b0aa511bd0	0.28	string	yield
+table: 0x000001b0aa511bd0	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa511bd0	0.30	string	status
+table: 0x000001b0aa511bd0	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa511bd0	0.32	string	close
+table: 0x000001b0aa511bd0	0.33	string	insert
+table: 0x000001b0aa511bd0	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa511bd0	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa511bd0	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa511bd0	0.37	string	info
+table: 0x000001b0aa511bd0	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa511bd0	0.39	string	wrap
+table: 0x000001b0aa511bd0	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa511bd0	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa511bd0	0.42	string	table
+table: 0x000001b0aa511bd0	0.43	string	setmetatable
+table: 0x000001b0aa511bd0	0.44	string	function
+table: 0x000001b0aa511bd0	0.45	string	slnaf
+table: 0x000001b0aa511bd0	0.46	string	[C]
+table: 0x000001b0aa511bd0	0.47	string	getmetatable
+table: 0x000001b0aa511bd0	0.48	string	lastlinedefined
+table: 0x000001b0aa511bd0	0.49	string	currentline
+table: 0x000001b0aa511bd0	0.50	string	short_src
+table: 0x000001b0aa511bd0	0.51	string	isvararg
+table: 0x000001b0aa511bd0	0.52	string	nparams
+table: 0x000001b0aa511bd0	0.53	string	what
+table: 0x000001b0aa511bd0	0.54	string	C
+table: 0x000001b0aa511bd0	0.55	string	linedefined
+table: 0x000001b0aa511bd0	0.56	string	source
+table: 0x000001b0aa511bd0	0.57	string	=[C]
+table: 0x000001b0aa511bd0	0.58	string	namewhat
+table: 0x000001b0aa511bd0	0.59	string	
+table: 0x000001b0aa511bd0	0.60	string	pack
+table: 0x000001b0aa511bd0	0.61	string	tonumber
+table: 0x000001b0aa511bd0	0.62	string	tostring
+table: 0x000001b0aa511bd0	0.63	string	rawset
+table: 0x000001b0aa511bd0	0.64	string	rawget
+table: 0x000001b0aa511bd0	0.65	string	xpcall
+table: 0x000001b0aa511bd0	0.66	string	assert
+table: 0x000001b0a9b2c0f0	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9b2c0f0	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9b2c0f0	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9b2c0f0	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9b2c0f0	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9b2c0f0	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9b2c0f0	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9b2c0f0	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9b2c0f0	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9b2c0f0	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9b2c0f0	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9b2c0f0	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9b2c0f0	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9b2c0f0	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9b2c0f0	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9b2c0f0	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9b2c0f0	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9b2c0f0	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9b2c0f0	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9b2c0f0	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9b2c0f0	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9b2c0f0	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9b2c0f0	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9b2c0f0	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9b2c0f0	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9b2c0f0	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9b2c0f0	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9b2c0f0	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9b2c0f0	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9b2c0f0	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9b2c0f0	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9b2c0f0	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9b2c0f0	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9b2c0f0	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0a9b2c0f0	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0a9b2c0f0	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0a9b2c0f0	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9b2c0f0	0.5	string	format
+table: 0x000001b0a9b2c0f0	0.6	string	gmatch
+table: 0x000001b0a9b2c0f0	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0a9b2c0f0	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0a9b2c0f0	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0a9b2c0f0	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0a9b2c0f0	0.11	string	byte
+table: 0x000001b0a9b2c0f0	0.12	string	gsub
+table: 0x000001b0a9b2c0f0	0.13	string	sub
+table: 0x000001b0a9b2c0f0	0.14	boolean	false
+table: 0x000001b0a9b2c0f0	0.15	boolean	true
+table: 0x000001b0a9b2c0f0	0.16	string	concat
+table: 0x000001b0a9b2c0f0	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9b2c0f0	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9b2c0f0	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9b2c0f0	0.20	string	isyieldable
+table: 0x000001b0a9b2c0f0	0.21	string	rep
+table: 0x000001b0a9b2c0f0	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0a9b2c0f0	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9b2c0f0	0.24	string	unpack
+table: 0x000001b0a9b2c0f0	0.25	string	running
+table: 0x000001b0a9b2c0f0	0.26	string	create
+table: 0x000001b0a9b2c0f0	0.27	string	resume
+table: 0x000001b0a9b2c0f0	0.28	string	yield
+table: 0x000001b0a9b2c0f0	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0a9b2c0f0	0.30	string	status
+table: 0x000001b0a9b2c0f0	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0a9b2c0f0	0.32	string	close
+table: 0x000001b0a9b2c0f0	0.33	string	insert
+table: 0x000001b0a9b2c0f0	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0a9b2c0f0	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0a9b2c0f0	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0a9b2c0f0	0.37	string	info
+table: 0x000001b0a9b2c0f0	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0a9b2c0f0	0.39	string	wrap
+table: 0x000001b0a9b2c0f0	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9b2c0f0	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0a9b2c0f0	0.42	string	table
+table: 0x000001b0a9b2c0f0	0.43	string	setmetatable
+table: 0x000001b0a9b2c0f0	0.44	string	function
+table: 0x000001b0a9b2c0f0	0.45	string	slnaf
+table: 0x000001b0a9b2c0f0	0.46	string	[C]
+table: 0x000001b0a9b2c0f0	0.47	string	getmetatable
+table: 0x000001b0a9b2c0f0	0.48	string	lastlinedefined
+table: 0x000001b0a9b2c0f0	0.49	string	currentline
+table: 0x000001b0a9b2c0f0	0.50	string	short_src
+table: 0x000001b0a9b2c0f0	0.51	string	isvararg
+table: 0x000001b0a9b2c0f0	0.52	string	nparams
+table: 0x000001b0a9b2c0f0	0.53	string	what
+table: 0x000001b0a9b2c0f0	0.54	string	C
+table: 0x000001b0a9b2c0f0	0.55	string	linedefined
+table: 0x000001b0a9b2c0f0	0.56	string	source
+table: 0x000001b0a9b2c0f0	0.57	string	=[C]
+table: 0x000001b0a9b2c0f0	0.58	string	namewhat
+table: 0x000001b0a9b2c0f0	0.59	string	
+table: 0x000001b0a9b2c0f0	0.60	string	pack
+table: 0x000001b0a9b2c0f0	0.61	string	tonumber
+table: 0x000001b0a9b2c0f0	0.62	string	tostring
+table: 0x000001b0a9b2c0f0	0.63	string	rawset
+table: 0x000001b0a9b2c0f0	0.64	string	rawget
+table: 0x000001b0a9b2c0f0	0.65	string	xpcall
+table: 0x000001b0a9b2c0f0	0.66	string	assert
+table: 0x000001b0aa011d70	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa011d70	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa011d70	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa011d70	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa011d70	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa011d70	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa011d70	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa011d70	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa011d70	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa011d70	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa011d70	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa011d70	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa011d70	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa011d70	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa011d70	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa011d70	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa011d70	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa011d70	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa011d70	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa011d70	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa011d70	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa011d70	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa011d70	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa011d70	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa011d70	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa011d70	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa011d70	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa011d70	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa011d70	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa011d70	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa011d70	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa011d70	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa011d70	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa011d70	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa011d70	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa011d70	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa011d70	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa011d70	0.5	string	format
+table: 0x000001b0aa011d70	0.6	string	gmatch
+table: 0x000001b0aa011d70	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa011d70	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa011d70	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa011d70	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa011d70	0.11	string	byte
+table: 0x000001b0aa011d70	0.12	string	gsub
+table: 0x000001b0aa011d70	0.13	string	sub
+table: 0x000001b0aa011d70	0.14	boolean	false
+table: 0x000001b0aa011d70	0.15	boolean	true
+table: 0x000001b0aa011d70	0.16	string	concat
+table: 0x000001b0aa011d70	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa011d70	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa011d70	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa011d70	0.20	string	isyieldable
+table: 0x000001b0aa011d70	0.21	string	rep
+table: 0x000001b0aa011d70	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa011d70	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa011d70	0.24	string	unpack
+table: 0x000001b0aa011d70	0.25	string	running
+table: 0x000001b0aa011d70	0.26	string	create
+table: 0x000001b0aa011d70	0.27	string	resume
+table: 0x000001b0aa011d70	0.28	string	yield
+table: 0x000001b0aa011d70	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa011d70	0.30	string	status
+table: 0x000001b0aa011d70	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa011d70	0.32	string	close
+table: 0x000001b0aa011d70	0.33	string	insert
+table: 0x000001b0aa011d70	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa011d70	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa011d70	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa011d70	0.37	string	info
+table: 0x000001b0aa011d70	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa011d70	0.39	string	wrap
+table: 0x000001b0aa011d70	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa011d70	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa011d70	0.42	string	table
+table: 0x000001b0aa011d70	0.43	string	setmetatable
+table: 0x000001b0aa011d70	0.44	string	function
+table: 0x000001b0aa011d70	0.45	string	slnaf
+table: 0x000001b0aa011d70	0.46	string	[C]
+table: 0x000001b0aa011d70	0.47	string	getmetatable
+table: 0x000001b0aa011d70	0.48	string	lastlinedefined
+table: 0x000001b0aa011d70	0.49	string	currentline
+table: 0x000001b0aa011d70	0.50	string	short_src
+table: 0x000001b0aa011d70	0.51	string	isvararg
+table: 0x000001b0aa011d70	0.52	string	nparams
+table: 0x000001b0aa011d70	0.53	string	what
+table: 0x000001b0aa011d70	0.54	string	C
+table: 0x000001b0aa011d70	0.55	string	linedefined
+table: 0x000001b0aa011d70	0.56	string	source
+table: 0x000001b0aa011d70	0.57	string	=[C]
+table: 0x000001b0aa011d70	0.58	string	namewhat
+table: 0x000001b0aa011d70	0.59	string	
+table: 0x000001b0aa011d70	0.60	string	pack
+table: 0x000001b0aa011d70	0.61	string	tonumber
+table: 0x000001b0aa011d70	0.62	string	tostring
+table: 0x000001b0aa011d70	0.63	string	rawset
+table: 0x000001b0aa011d70	0.64	string	rawget
+table: 0x000001b0aa011d70	0.65	string	xpcall
+table: 0x000001b0aa011d70	0.66	string	assert
+table: 0x000001b0aa0b3650	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa0b3650	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa0b3650	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa0b3650	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa0b3650	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa0b3650	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa0b3650	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa0b3650	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa0b3650	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa0b3650	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa0b3650	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa0b3650	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa0b3650	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa0b3650	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa0b3650	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa0b3650	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa0b3650	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa0b3650	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa0b3650	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa0b3650	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa0b3650	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa0b3650	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa0b3650	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa0b3650	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa0b3650	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa0b3650	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa0b3650	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa0b3650	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa0b3650	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa0b3650	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa0b3650	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa0b3650	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa0b3650	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa0b3650	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa0b3650	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa0b3650	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa0b3650	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa0b3650	0.5	string	format
+table: 0x000001b0aa0b3650	0.6	string	gmatch
+table: 0x000001b0aa0b3650	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa0b3650	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa0b3650	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa0b3650	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa0b3650	0.11	string	byte
+table: 0x000001b0aa0b3650	0.12	string	gsub
+table: 0x000001b0aa0b3650	0.13	string	sub
+table: 0x000001b0aa0b3650	0.14	boolean	false
+table: 0x000001b0aa0b3650	0.15	boolean	true
+table: 0x000001b0aa0b3650	0.16	string	concat
+table: 0x000001b0aa0b3650	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa0b3650	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa0b3650	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa0b3650	0.20	string	isyieldable
+table: 0x000001b0aa0b3650	0.21	string	rep
+table: 0x000001b0aa0b3650	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa0b3650	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa0b3650	0.24	string	unpack
+table: 0x000001b0aa0b3650	0.25	string	running
+table: 0x000001b0aa0b3650	0.26	string	create
+table: 0x000001b0aa0b3650	0.27	string	resume
+table: 0x000001b0aa0b3650	0.28	string	yield
+table: 0x000001b0aa0b3650	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa0b3650	0.30	string	status
+table: 0x000001b0aa0b3650	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa0b3650	0.32	string	close
+table: 0x000001b0aa0b3650	0.33	string	insert
+table: 0x000001b0aa0b3650	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa0b3650	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa0b3650	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa0b3650	0.37	string	info
+table: 0x000001b0aa0b3650	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa0b3650	0.39	string	wrap
+table: 0x000001b0aa0b3650	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa0b3650	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa0b3650	0.42	string	table
+table: 0x000001b0aa0b3650	0.43	string	setmetatable
+table: 0x000001b0aa0b3650	0.44	string	function
+table: 0x000001b0aa0b3650	0.45	string	slnaf
+table: 0x000001b0aa0b3650	0.46	string	[C]
+table: 0x000001b0aa0b3650	0.47	string	getmetatable
+table: 0x000001b0aa0b3650	0.48	string	lastlinedefined
+table: 0x000001b0aa0b3650	0.49	string	currentline
+table: 0x000001b0aa0b3650	0.50	string	short_src
+table: 0x000001b0aa0b3650	0.51	string	isvararg
+table: 0x000001b0aa0b3650	0.52	string	nparams
+table: 0x000001b0aa0b3650	0.53	string	what
+table: 0x000001b0aa0b3650	0.54	string	C
+table: 0x000001b0aa0b3650	0.55	string	linedefined
+table: 0x000001b0aa0b3650	0.56	string	source
+table: 0x000001b0aa0b3650	0.57	string	=[C]
+table: 0x000001b0aa0b3650	0.58	string	namewhat
+table: 0x000001b0aa0b3650	0.59	string	
+table: 0x000001b0aa0b3650	0.60	string	pack
+table: 0x000001b0aa0b3650	0.61	string	tonumber
+table: 0x000001b0aa0b3650	0.62	string	tostring
+table: 0x000001b0aa0b3650	0.63	string	rawset
+table: 0x000001b0aa0b3650	0.64	string	rawget
+table: 0x000001b0aa0b3650	0.65	string	xpcall
+table: 0x000001b0aa0b3650	0.66	string	assert
+table: 0x000001b0aa69cfe0	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa69cfe0	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa69cfe0	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa69cfe0	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa69cfe0	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa69cfe0	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa69cfe0	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa69cfe0	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa69cfe0	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa69cfe0	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa69cfe0	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa69cfe0	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa69cfe0	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa69cfe0	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa69cfe0	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa69cfe0	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa69cfe0	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa69cfe0	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa69cfe0	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa69cfe0	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa69cfe0	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa69cfe0	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa69cfe0	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa69cfe0	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa69cfe0	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa69cfe0	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa69cfe0	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa69cfe0	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa69cfe0	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa69cfe0	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa69cfe0	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa69cfe0	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa69cfe0	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa69cfe0	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa69cfe0	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa69cfe0	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa69cfe0	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa69cfe0	0.5	string	format
+table: 0x000001b0aa69cfe0	0.6	string	gmatch
+table: 0x000001b0aa69cfe0	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa69cfe0	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa69cfe0	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa69cfe0	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa69cfe0	0.11	string	byte
+table: 0x000001b0aa69cfe0	0.12	string	gsub
+table: 0x000001b0aa69cfe0	0.13	string	sub
+table: 0x000001b0aa69cfe0	0.14	boolean	false
+table: 0x000001b0aa69cfe0	0.15	boolean	true
+table: 0x000001b0aa69cfe0	0.16	string	concat
+table: 0x000001b0aa69cfe0	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa69cfe0	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa69cfe0	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa69cfe0	0.20	string	isyieldable
+table: 0x000001b0aa69cfe0	0.21	string	rep
+table: 0x000001b0aa69cfe0	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa69cfe0	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa69cfe0	0.24	string	unpack
+table: 0x000001b0aa69cfe0	0.25	string	running
+table: 0x000001b0aa69cfe0	0.26	string	create
+table: 0x000001b0aa69cfe0	0.27	string	resume
+table: 0x000001b0aa69cfe0	0.28	string	yield
+table: 0x000001b0aa69cfe0	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa69cfe0	0.30	string	status
+table: 0x000001b0aa69cfe0	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa69cfe0	0.32	string	close
+table: 0x000001b0aa69cfe0	0.33	string	insert
+table: 0x000001b0aa69cfe0	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa69cfe0	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa69cfe0	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa69cfe0	0.37	string	info
+table: 0x000001b0aa69cfe0	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa69cfe0	0.39	string	wrap
+table: 0x000001b0aa69cfe0	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa69cfe0	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa69cfe0	0.42	string	table
+table: 0x000001b0aa69cfe0	0.43	string	setmetatable
+table: 0x000001b0aa69cfe0	0.44	string	function
+table: 0x000001b0aa69cfe0	0.45	string	slnaf
+table: 0x000001b0aa69cfe0	0.46	string	[C]
+table: 0x000001b0aa69cfe0	0.47	string	getmetatable
+table: 0x000001b0aa69cfe0	0.48	string	lastlinedefined
+table: 0x000001b0aa69cfe0	0.49	string	currentline
+table: 0x000001b0aa69cfe0	0.50	string	short_src
+table: 0x000001b0aa69cfe0	0.51	string	isvararg
+table: 0x000001b0aa69cfe0	0.52	string	nparams
+table: 0x000001b0aa69cfe0	0.53	string	what
+table: 0x000001b0aa69cfe0	0.54	string	C
+table: 0x000001b0aa69cfe0	0.55	string	linedefined
+table: 0x000001b0aa69cfe0	0.56	string	source
+table: 0x000001b0aa69cfe0	0.57	string	=[C]
+table: 0x000001b0aa69cfe0	0.58	string	namewhat
+table: 0x000001b0aa69cfe0	0.59	string	
+table: 0x000001b0aa69cfe0	0.60	string	pack
+table: 0x000001b0aa69cfe0	0.61	string	tonumber
+table: 0x000001b0aa69cfe0	0.62	string	tostring
+table: 0x000001b0aa69cfe0	0.63	string	rawset
+table: 0x000001b0aa69cfe0	0.64	string	rawget
+table: 0x000001b0aa69cfe0	0.65	string	xpcall
+table: 0x000001b0aa69cfe0	0.66	string	assert
+table: 0x000001b0a9a61830	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9a61830	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9a61830	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9a61830	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9a61830	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9a61830	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9a61830	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9a61830	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9a61830	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9a61830	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9a61830	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9a61830	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9a61830	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9a61830	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9a61830	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9a61830	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9a61830	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9a61830	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9a61830	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9a61830	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9a61830	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9a61830	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9a61830	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9a61830	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9a61830	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9a61830	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9a61830	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9a61830	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9a61830	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9a61830	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9a61830	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9a61830	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9a61830	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9a61830	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0a9a61830	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0a9a61830	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0a9a61830	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9a61830	0.5	string	format
+table: 0x000001b0a9a61830	0.6	string	gmatch
+table: 0x000001b0a9a61830	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0a9a61830	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0a9a61830	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0a9a61830	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0a9a61830	0.11	string	byte
+table: 0x000001b0a9a61830	0.12	string	gsub
+table: 0x000001b0a9a61830	0.13	string	sub
+table: 0x000001b0a9a61830	0.14	boolean	false
+table: 0x000001b0a9a61830	0.15	boolean	true
+table: 0x000001b0a9a61830	0.16	string	concat
+table: 0x000001b0a9a61830	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9a61830	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9a61830	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9a61830	0.20	string	isyieldable
+table: 0x000001b0a9a61830	0.21	string	rep
+table: 0x000001b0a9a61830	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0a9a61830	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9a61830	0.24	string	unpack
+table: 0x000001b0a9a61830	0.25	string	running
+table: 0x000001b0a9a61830	0.26	string	create
+table: 0x000001b0a9a61830	0.27	string	resume
+table: 0x000001b0a9a61830	0.28	string	yield
+table: 0x000001b0a9a61830	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0a9a61830	0.30	string	status
+table: 0x000001b0a9a61830	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0a9a61830	0.32	string	close
+table: 0x000001b0a9a61830	0.33	string	insert
+table: 0x000001b0a9a61830	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0a9a61830	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0a9a61830	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0a9a61830	0.37	string	info
+table: 0x000001b0a9a61830	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0a9a61830	0.39	string	wrap
+table: 0x000001b0a9a61830	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9a61830	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0a9a61830	0.42	string	table
+table: 0x000001b0a9a61830	0.43	string	setmetatable
+table: 0x000001b0a9a61830	0.44	string	function
+table: 0x000001b0a9a61830	0.45	string	slnaf
+table: 0x000001b0a9a61830	0.46	string	[C]
+table: 0x000001b0a9a61830	0.47	string	getmetatable
+table: 0x000001b0a9a61830	0.48	string	lastlinedefined
+table: 0x000001b0a9a61830	0.49	string	currentline
+table: 0x000001b0a9a61830	0.50	string	short_src
+table: 0x000001b0a9a61830	0.51	string	isvararg
+table: 0x000001b0a9a61830	0.52	string	nparams
+table: 0x000001b0a9a61830	0.53	string	what
+table: 0x000001b0a9a61830	0.54	string	C
+table: 0x000001b0a9a61830	0.55	string	linedefined
+table: 0x000001b0a9a61830	0.56	string	source
+table: 0x000001b0a9a61830	0.57	string	=[C]
+table: 0x000001b0a9a61830	0.58	string	namewhat
+table: 0x000001b0a9a61830	0.59	string	
+table: 0x000001b0a9a61830	0.60	string	pack
+table: 0x000001b0a9a61830	0.61	string	tonumber
+table: 0x000001b0a9a61830	0.62	string	tostring
+table: 0x000001b0a9a61830	0.63	string	rawset
+table: 0x000001b0a9a61830	0.64	string	rawget
+table: 0x000001b0a9a61830	0.65	string	xpcall
+table: 0x000001b0a9a61830	0.66	string	assert
+table: 0x000001b0aa3728e0	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa3728e0	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa3728e0	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa3728e0	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa3728e0	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa3728e0	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa3728e0	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa3728e0	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa3728e0	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa3728e0	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa3728e0	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa3728e0	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa3728e0	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa3728e0	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa3728e0	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa3728e0	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa3728e0	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa3728e0	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa3728e0	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa3728e0	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa3728e0	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa3728e0	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa3728e0	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa3728e0	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa3728e0	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa3728e0	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa3728e0	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa3728e0	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa3728e0	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa3728e0	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa3728e0	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa3728e0	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa3728e0	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa3728e0	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa3728e0	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa3728e0	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa3728e0	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa3728e0	0.5	string	format
+table: 0x000001b0aa3728e0	0.6	string	gmatch
+table: 0x000001b0aa3728e0	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa3728e0	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa3728e0	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa3728e0	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa3728e0	0.11	string	byte
+table: 0x000001b0aa3728e0	0.12	string	gsub
+table: 0x000001b0aa3728e0	0.13	string	sub
+table: 0x000001b0aa3728e0	0.14	boolean	false
+table: 0x000001b0aa3728e0	0.15	boolean	true
+table: 0x000001b0aa3728e0	0.16	string	concat
+table: 0x000001b0aa3728e0	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa3728e0	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa3728e0	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa3728e0	0.20	string	isyieldable
+table: 0x000001b0aa3728e0	0.21	string	rep
+table: 0x000001b0aa3728e0	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa3728e0	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa3728e0	0.24	string	unpack
+table: 0x000001b0aa3728e0	0.25	string	running
+table: 0x000001b0aa3728e0	0.26	string	create
+table: 0x000001b0aa3728e0	0.27	string	resume
+table: 0x000001b0aa3728e0	0.28	string	yield
+table: 0x000001b0aa3728e0	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa3728e0	0.30	string	status
+table: 0x000001b0aa3728e0	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa3728e0	0.32	string	close
+table: 0x000001b0aa3728e0	0.33	string	insert
+table: 0x000001b0aa3728e0	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa3728e0	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa3728e0	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa3728e0	0.37	string	info
+table: 0x000001b0aa3728e0	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa3728e0	0.39	string	wrap
+table: 0x000001b0aa3728e0	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa3728e0	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa3728e0	0.42	string	table
+table: 0x000001b0aa3728e0	0.43	string	setmetatable
+table: 0x000001b0aa3728e0	0.44	string	function
+table: 0x000001b0aa3728e0	0.45	string	slnaf
+table: 0x000001b0aa3728e0	0.46	string	[C]
+table: 0x000001b0aa3728e0	0.47	string	getmetatable
+table: 0x000001b0aa3728e0	0.48	string	lastlinedefined
+table: 0x000001b0aa3728e0	0.49	string	currentline
+table: 0x000001b0aa3728e0	0.50	string	short_src
+table: 0x000001b0aa3728e0	0.51	string	isvararg
+table: 0x000001b0aa3728e0	0.52	string	nparams
+table: 0x000001b0aa3728e0	0.53	string	what
+table: 0x000001b0aa3728e0	0.54	string	C
+table: 0x000001b0aa3728e0	0.55	string	linedefined
+table: 0x000001b0aa3728e0	0.56	string	source
+table: 0x000001b0aa3728e0	0.57	string	=[C]
+table: 0x000001b0aa3728e0	0.58	string	namewhat
+table: 0x000001b0aa3728e0	0.59	string	
+table: 0x000001b0aa3728e0	0.60	string	pack
+table: 0x000001b0aa3728e0	0.61	string	tonumber
+table: 0x000001b0aa3728e0	0.62	string	tostring
+table: 0x000001b0aa3728e0	0.63	string	rawset
+table: 0x000001b0aa3728e0	0.64	string	rawget
+table: 0x000001b0aa3728e0	0.65	string	xpcall
+table: 0x000001b0aa3728e0	0.66	string	assert
+table: 0x000001b0aa3843b0	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa3843b0	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa3843b0	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa3843b0	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa3843b0	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa3843b0	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa3843b0	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa3843b0	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa3843b0	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa3843b0	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa3843b0	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa3843b0	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa3843b0	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa3843b0	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa3843b0	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa3843b0	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa3843b0	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa3843b0	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa3843b0	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa3843b0	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa3843b0	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa3843b0	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa3843b0	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa3843b0	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa3843b0	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa3843b0	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa3843b0	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa3843b0	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa3843b0	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa3843b0	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa3843b0	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa3843b0	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa3843b0	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa3843b0	0.33	number	125
+table: 0x000001b0aa3843b0	0.35	number	109
+table: 0x000001b0aa3843b0	0.38	number	1458848878
+table: 0x000001b0aa3843b0	0.39	number	355840223
+table: 0x000001b0a9adf800	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9adf800	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9adf800	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9adf800	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9adf800	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9adf800	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9adf800	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9adf800	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9adf800	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9adf800	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9adf800	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9adf800	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9adf800	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9adf800	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9adf800	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9adf800	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9adf800	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9adf800	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9adf800	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9adf800	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9adf800	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9adf800	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9adf800	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9adf800	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9adf800	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9adf800	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9adf800	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9adf800	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9adf800	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9adf800	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9adf800	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9adf800	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9adf800	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9adf800	0.33	number	125
+table: 0x000001b0a9adf800	0.35	number	109
+table: 0x000001b0a9adf800	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0a9adf800	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0a9adf800	0.38	number	1458848878
+table: 0x000001b0a9adf800	0.39	number	355840223
+table: 0x000001b0aa721e30	1	function	function: 0x000001b0aaa11840
+table: 0x000001b0aa721e30	2	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa721e30	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa721e30	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa721e30	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa721e30	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa721e30	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa721e30	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa721e30	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa721e30	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa721e30	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa721e30	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa721e30	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa721e30	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa721e30	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa721e30	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa721e30	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa721e30	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa721e30	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa721e30	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa721e30	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa721e30	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa721e30	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa721e30	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa721e30	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa721e30	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa721e30	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa721e30	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa721e30	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa721e30	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa721e30	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa721e30	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa721e30	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa721e30	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa721e30	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa721e30	0.33	number	125
+table: 0x000001b0aa721e30	0.35	number	109
+table: 0x000001b0aa721e30	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa721e30	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa721e30	0.38	number	1458848878
+table: 0x000001b0aa721e30	0.39	number	355840223
+table: 0x000001b0a9ff0140	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9ff0140	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9ff0140	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9ff0140	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9ff0140	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9ff0140	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9ff0140	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9ff0140	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9ff0140	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9ff0140	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9ff0140	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9ff0140	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9ff0140	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9ff0140	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9ff0140	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9ff0140	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9ff0140	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9ff0140	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9ff0140	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9ff0140	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9ff0140	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9ff0140	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9ff0140	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9ff0140	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9ff0140	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9ff0140	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9ff0140	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9ff0140	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9ff0140	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9ff0140	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9ff0140	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9ff0140	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9ff0140	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9ff0140	0.33	number	125
+table: 0x000001b0a9ff0140	0.35	number	109
+table: 0x000001b0a9ff0140	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0a9ff0140	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0a9ff0140	0.38	number	1458848878
+table: 0x000001b0a9ff0140	0.39	number	355840223
+table: 0x000001b0aa4e3e10	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa4e3e10	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa4e3e10	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa4e3e10	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa4e3e10	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa4e3e10	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa4e3e10	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa4e3e10	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa4e3e10	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa4e3e10	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa4e3e10	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa4e3e10	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa4e3e10	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa4e3e10	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa4e3e10	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa4e3e10	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa4e3e10	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa4e3e10	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa4e3e10	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa4e3e10	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa4e3e10	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa4e3e10	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa4e3e10	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa4e3e10	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa4e3e10	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa4e3e10	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa4e3e10	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa4e3e10	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa4e3e10	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa4e3e10	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa4e3e10	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa4e3e10	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa4e3e10	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa4e3e10	1.33	number	125
+table: 0x000001b0aa4e3e10	1.35	number	109
+table: 0x000001b0aa4e3e10	1.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa4e3e10	1.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa4e3e10	1.38	number	1458848878
+table: 0x000001b0aa4e3e10	1.39	number	355840223
+table: 0x000001b0aa4e3e10	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa4e3e10	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa4e3e10	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa4e3e10	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa4e3e10	0.5	string	format
+table: 0x000001b0aa4e3e10	0.6	string	gmatch
+table: 0x000001b0aa4e3e10	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa4e3e10	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa4e3e10	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa4e3e10	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa4e3e10	0.11	string	byte
+table: 0x000001b0aa4e3e10	0.12	string	gsub
+table: 0x000001b0aa4e3e10	0.13	string	sub
+table: 0x000001b0aa4e3e10	0.14	boolean	false
+table: 0x000001b0aa4e3e10	0.15	boolean	true
+table: 0x000001b0aa4e3e10	0.16	string	concat
+table: 0x000001b0aa4e3e10	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa4e3e10	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa4e3e10	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa4e3e10	0.20	string	isyieldable
+table: 0x000001b0aa4e3e10	0.21	string	rep
+table: 0x000001b0aa4e3e10	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa4e3e10	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa4e3e10	0.24	string	unpack
+table: 0x000001b0aa4e3e10	0.25	string	running
+table: 0x000001b0aa4e3e10	0.26	string	create
+table: 0x000001b0aa4e3e10	0.27	string	resume
+table: 0x000001b0aa4e3e10	0.28	string	yield
+table: 0x000001b0aa4e3e10	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa4e3e10	0.30	string	status
+table: 0x000001b0aa4e3e10	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa4e3e10	0.32	string	close
+table: 0x000001b0aa4e3e10	0.33	string	insert
+table: 0x000001b0aa4e3e10	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa4e3e10	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa4e3e10	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa4e3e10	0.37	string	info
+table: 0x000001b0aa4e3e10	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa4e3e10	0.39	string	wrap
+table: 0x000001b0aa4e3e10	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa4e3e10	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa4e3e10	0.42	string	table
+table: 0x000001b0aa4e3e10	0.43	string	setmetatable
+table: 0x000001b0aa4e3e10	0.44	string	function
+table: 0x000001b0aa4e3e10	0.45	string	slnaf
+table: 0x000001b0aa4e3e10	0.46	string	[C]
+table: 0x000001b0aa4e3e10	0.47	string	getmetatable
+table: 0x000001b0aa4e3e10	0.48	string	lastlinedefined
+table: 0x000001b0aa4e3e10	0.49	string	currentline
+table: 0x000001b0aa4e3e10	0.50	string	short_src
+table: 0x000001b0aa4e3e10	0.51	string	isvararg
+table: 0x000001b0aa4e3e10	0.52	string	nparams
+table: 0x000001b0aa4e3e10	0.53	string	what
+table: 0x000001b0aa4e3e10	0.54	string	C
+table: 0x000001b0aa4e3e10	0.55	string	linedefined
+table: 0x000001b0aa4e3e10	0.56	string	source
+table: 0x000001b0aa4e3e10	0.57	string	=[C]
+table: 0x000001b0aa4e3e10	0.58	string	namewhat
+table: 0x000001b0aa4e3e10	0.59	string	
+table: 0x000001b0aa4e3e10	0.60	string	pack
+table: 0x000001b0aa4e3e10	0.61	string	tonumber
+table: 0x000001b0aa4e3e10	0.62	string	tostring
+table: 0x000001b0aa4e3e10	0.63	string	rawset
+table: 0x000001b0aa4e3e10	0.64	string	rawget
+table: 0x000001b0aa4e3e10	0.65	string	xpcall
+table: 0x000001b0aa4e3e10	0.66	string	assert
+table: 0x000001b0aa510100	0	table	table: 0x000001b0aa9c11b0
+table: 0x000001b0aa510100	0[box]	function	function: 0x000001b0a7d76250
+table: 0x000001b0aa510100	0.1	table	table: 0x000001b0aa9c11b0
+table: 0x000001b0aa510100	0.1[box]	function	function: 0x000001b0a7d76250
+table: 0x000001b0aa510100	0.2	function	function: 0x000001b0a7d76250
+table: 0x000001b0aa510100	0.3	number	2
+table: 0x000001b0aa132830	1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa132830	1.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa132830	1.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa132830	1.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa132830	1.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa132830	1.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa132830	1.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa132830	1.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa132830	1.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa132830	1.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa132830	1.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa132830	1.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa132830	1.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa132830	1.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa132830	1.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa132830	1.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa132830	1.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa132830	1.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa132830	1.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa132830	1.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa132830	1.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa132830	1.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa132830	1.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa132830	1.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa132830	1.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa132830	1.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa132830	1.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa132830	1.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa132830	1.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa132830	1.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa132830	1.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa132830	1.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa132830	1.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa132830	1.33	number	125
+table: 0x000001b0aa132830	1.35	number	109
+table: 0x000001b0aa132830	1.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa132830	1.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa132830	1.38	number	1458848878
+table: 0x000001b0aa132830	1.39	number	355840223
+table: 0x000001b0aa132830	1.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0aa132830	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa132830	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa132830	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa132830	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa132830	0.5	string	format
+table: 0x000001b0aa132830	0.6	string	gmatch
+table: 0x000001b0aa132830	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa132830	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa132830	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa132830	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa132830	0.11	string	byte
+table: 0x000001b0aa132830	0.12	string	gsub
+table: 0x000001b0aa132830	0.13	string	sub
+table: 0x000001b0aa132830	0.14	boolean	false
+table: 0x000001b0aa132830	0.15	boolean	true
+table: 0x000001b0aa132830	0.16	string	concat
+table: 0x000001b0aa132830	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa132830	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa132830	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa132830	0.20	string	isyieldable
+table: 0x000001b0aa132830	0.21	string	rep
+table: 0x000001b0aa132830	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa132830	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa132830	0.24	string	unpack
+table: 0x000001b0aa132830	0.25	string	running
+table: 0x000001b0aa132830	0.26	string	create
+table: 0x000001b0aa132830	0.27	string	resume
+table: 0x000001b0aa132830	0.28	string	yield
+table: 0x000001b0aa132830	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa132830	0.30	string	status
+table: 0x000001b0aa132830	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa132830	0.32	string	close
+table: 0x000001b0aa132830	0.33	string	insert
+table: 0x000001b0aa132830	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa132830	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa132830	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa132830	0.37	string	info
+table: 0x000001b0aa132830	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa132830	0.39	string	wrap
+table: 0x000001b0aa132830	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa132830	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa132830	0.42	string	table
+table: 0x000001b0aa132830	0.43	string	setmetatable
+table: 0x000001b0aa132830	0.44	string	function
+table: 0x000001b0aa132830	0.45	string	slnaf
+table: 0x000001b0aa132830	0.46	string	[C]
+table: 0x000001b0aa132830	0.47	string	getmetatable
+table: 0x000001b0aa132830	0.48	string	lastlinedefined
+table: 0x000001b0aa132830	0.49	string	currentline
+table: 0x000001b0aa132830	0.50	string	short_src
+table: 0x000001b0aa132830	0.51	string	isvararg
+table: 0x000001b0aa132830	0.52	string	nparams
+table: 0x000001b0aa132830	0.53	string	what
+table: 0x000001b0aa132830	0.54	string	C
+table: 0x000001b0aa132830	0.55	string	linedefined
+table: 0x000001b0aa132830	0.56	string	source
+table: 0x000001b0aa132830	0.57	string	=[C]
+table: 0x000001b0aa132830	0.58	string	namewhat
+table: 0x000001b0aa132830	0.59	string	
+table: 0x000001b0aa132830	0.60	string	pack
+table: 0x000001b0aa132830	0.61	string	tonumber
+table: 0x000001b0aa132830	0.62	string	tostring
+table: 0x000001b0aa132830	0.63	string	rawset
+table: 0x000001b0aa132830	0.64	string	rawget
+table: 0x000001b0aa132830	0.65	string	xpcall
+table: 0x000001b0aa132830	0.66	string	assert
+table: 0x000001b0aa246540	1	function	function: 0x000001b0a7d54fb0
+table: 0x000001b0aa246540	2	function	function: 0x000001b0a9e15840
+table: 0x000001b0aa246540	0	function	function: 0x000001b0a9e175c0
+table: 0x000001b0aa4fda30	1	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa4fda30	1.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa4fda30	1.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa4fda30	1.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa4fda30	1.5	string	format
+table: 0x000001b0aa4fda30	1.6	string	gmatch
+table: 0x000001b0aa4fda30	1.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa4fda30	1.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa4fda30	1.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa4fda30	1.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa4fda30	1.11	string	byte
+table: 0x000001b0aa4fda30	1.12	string	gsub
+table: 0x000001b0aa4fda30	1.13	string	sub
+table: 0x000001b0aa4fda30	1.14	boolean	false
+table: 0x000001b0aa4fda30	1.15	boolean	true
+table: 0x000001b0aa4fda30	1.16	string	concat
+table: 0x000001b0aa4fda30	1.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa4fda30	1.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa4fda30	1.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa4fda30	1.20	string	isyieldable
+table: 0x000001b0aa4fda30	1.21	string	rep
+table: 0x000001b0aa4fda30	1.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa4fda30	1.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa4fda30	1.24	string	unpack
+table: 0x000001b0aa4fda30	1.25	string	running
+table: 0x000001b0aa4fda30	1.26	string	create
+table: 0x000001b0aa4fda30	1.27	string	resume
+table: 0x000001b0aa4fda30	1.28	string	yield
+table: 0x000001b0aa4fda30	1.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa4fda30	1.30	string	status
+table: 0x000001b0aa4fda30	1.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa4fda30	1.32	string	close
+table: 0x000001b0aa4fda30	1.33	string	insert
+table: 0x000001b0aa4fda30	1.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa4fda30	1.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa4fda30	1.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa4fda30	1.37	string	info
+table: 0x000001b0aa4fda30	1.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa4fda30	1.39	string	wrap
+table: 0x000001b0aa4fda30	1.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa4fda30	1.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa4fda30	1.42	string	table
+table: 0x000001b0aa4fda30	1.43	string	setmetatable
+table: 0x000001b0aa4fda30	1.44	string	function
+table: 0x000001b0aa4fda30	1.45	string	slnaf
+table: 0x000001b0aa4fda30	1.46	string	[C]
+table: 0x000001b0aa4fda30	1.47	string	getmetatable
+table: 0x000001b0aa4fda30	1.48	string	lastlinedefined
+table: 0x000001b0aa4fda30	1.49	string	currentline
+table: 0x000001b0aa4fda30	1.50	string	short_src
+table: 0x000001b0aa4fda30	1.51	string	isvararg
+table: 0x000001b0aa4fda30	1.52	string	nparams
+table: 0x000001b0aa4fda30	1.53	string	what
+table: 0x000001b0aa4fda30	1.54	string	C
+table: 0x000001b0aa4fda30	1.55	string	linedefined
+table: 0x000001b0aa4fda30	1.56	string	source
+table: 0x000001b0aa4fda30	1.57	string	=[C]
+table: 0x000001b0aa4fda30	1.58	string	namewhat
+table: 0x000001b0aa4fda30	1.59	string	
+table: 0x000001b0aa4fda30	1.60	string	pack
+table: 0x000001b0aa4fda30	1.61	string	tonumber
+table: 0x000001b0aa4fda30	1.62	string	tostring
+table: 0x000001b0aa4fda30	1.63	string	rawset
+table: 0x000001b0aa4fda30	1.64	string	rawget
+table: 0x000001b0aa4fda30	1.65	string	xpcall
+table: 0x000001b0aa4fda30	1.66	string	assert
+table: 0x000001b0aa4fda30	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa4fda30	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa4fda30	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa4fda30	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa4fda30	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa4fda30	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa4fda30	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa4fda30	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa4fda30	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa4fda30	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa4fda30	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa4fda30	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa4fda30	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa4fda30	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa4fda30	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa4fda30	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa4fda30	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa4fda30	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa4fda30	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa4fda30	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa4fda30	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa4fda30	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa4fda30	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa4fda30	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa4fda30	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa4fda30	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa4fda30	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa4fda30	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa4fda30	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa4fda30	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa4fda30	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa4fda30	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa4fda30	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa4fda30	0.33	number	125
+table: 0x000001b0aa4fda30	0.35	number	109
+table: 0x000001b0aa4fda30	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa4fda30	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa4fda30	0.38	number	1458848878
+table: 0x000001b0aa4fda30	0.39	number	355840223
+table: 0x000001b0aa4fda30	0.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0a9feedf0	1	table	table: 0x000001b0aafed8e0
+table: 0x000001b0a9feedf0	1.1	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9feedf0	1.2	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9feedf0	1.3	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9feedf0	0	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0a9feedf0	0.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0a9feedf0	0.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0a9feedf0	0.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9feedf0	0.5	string	format
+table: 0x000001b0a9feedf0	0.6	string	gmatch
+table: 0x000001b0a9feedf0	0.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0a9feedf0	0.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0a9feedf0	0.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0a9feedf0	0.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0a9feedf0	0.11	string	byte
+table: 0x000001b0a9feedf0	0.12	string	gsub
+table: 0x000001b0a9feedf0	0.13	string	sub
+table: 0x000001b0a9feedf0	0.14	boolean	false
+table: 0x000001b0a9feedf0	0.15	boolean	true
+table: 0x000001b0a9feedf0	0.16	string	concat
+table: 0x000001b0a9feedf0	0.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9feedf0	0.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9feedf0	0.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9feedf0	0.20	string	isyieldable
+table: 0x000001b0a9feedf0	0.21	string	rep
+table: 0x000001b0a9feedf0	0.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0a9feedf0	0.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9feedf0	0.24	string	unpack
+table: 0x000001b0a9feedf0	0.25	string	running
+table: 0x000001b0a9feedf0	0.26	string	create
+table: 0x000001b0a9feedf0	0.27	string	resume
+table: 0x000001b0a9feedf0	0.28	string	yield
+table: 0x000001b0a9feedf0	0.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0a9feedf0	0.30	string	status
+table: 0x000001b0a9feedf0	0.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0a9feedf0	0.32	string	close
+table: 0x000001b0a9feedf0	0.33	string	insert
+table: 0x000001b0a9feedf0	0.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0a9feedf0	0.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0a9feedf0	0.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0a9feedf0	0.37	string	info
+table: 0x000001b0a9feedf0	0.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0a9feedf0	0.39	string	wrap
+table: 0x000001b0a9feedf0	0.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9feedf0	0.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0a9feedf0	0.42	string	table
+table: 0x000001b0a9feedf0	0.43	string	setmetatable
+table: 0x000001b0a9feedf0	0.44	string	function
+table: 0x000001b0a9feedf0	0.45	string	slnaf
+table: 0x000001b0a9feedf0	0.46	string	[C]
+table: 0x000001b0a9feedf0	0.47	string	getmetatable
+table: 0x000001b0a9feedf0	0.48	string	lastlinedefined
+table: 0x000001b0a9feedf0	0.49	string	currentline
+table: 0x000001b0a9feedf0	0.50	string	short_src
+table: 0x000001b0a9feedf0	0.51	string	isvararg
+table: 0x000001b0a9feedf0	0.52	string	nparams
+table: 0x000001b0a9feedf0	0.53	string	what
+table: 0x000001b0a9feedf0	0.54	string	C
+table: 0x000001b0a9feedf0	0.55	string	linedefined
+table: 0x000001b0a9feedf0	0.56	string	source
+table: 0x000001b0a9feedf0	0.57	string	=[C]
+table: 0x000001b0a9feedf0	0.58	string	namewhat
+table: 0x000001b0a9feedf0	0.59	string	
+table: 0x000001b0a9feedf0	0.60	string	pack
+table: 0x000001b0a9feedf0	0.61	string	tonumber
+table: 0x000001b0a9feedf0	0.62	string	tostring
+table: 0x000001b0a9feedf0	0.63	string	rawset
+table: 0x000001b0a9feedf0	0.64	string	rawget
+table: 0x000001b0a9feedf0	0.65	string	xpcall
+table: 0x000001b0a9feedf0	0.66	string	assert
+table: 0x000001b0a9fa09f0	1	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0a9fa09f0	1.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0a9fa09f0	1.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0a9fa09f0	1.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9fa09f0	1.5	string	format
+table: 0x000001b0a9fa09f0	1.6	string	gmatch
+table: 0x000001b0a9fa09f0	1.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0a9fa09f0	1.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0a9fa09f0	1.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0a9fa09f0	1.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0a9fa09f0	1.11	string	byte
+table: 0x000001b0a9fa09f0	1.12	string	gsub
+table: 0x000001b0a9fa09f0	1.13	string	sub
+table: 0x000001b0a9fa09f0	1.14	boolean	false
+table: 0x000001b0a9fa09f0	1.15	boolean	true
+table: 0x000001b0a9fa09f0	1.16	string	concat
+table: 0x000001b0a9fa09f0	1.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9fa09f0	1.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9fa09f0	1.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9fa09f0	1.20	string	isyieldable
+table: 0x000001b0a9fa09f0	1.21	string	rep
+table: 0x000001b0a9fa09f0	1.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0a9fa09f0	1.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9fa09f0	1.24	string	unpack
+table: 0x000001b0a9fa09f0	1.25	string	running
+table: 0x000001b0a9fa09f0	1.26	string	create
+table: 0x000001b0a9fa09f0	1.27	string	resume
+table: 0x000001b0a9fa09f0	1.28	string	yield
+table: 0x000001b0a9fa09f0	1.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0a9fa09f0	1.30	string	status
+table: 0x000001b0a9fa09f0	1.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0a9fa09f0	1.32	string	close
+table: 0x000001b0a9fa09f0	1.33	string	insert
+table: 0x000001b0a9fa09f0	1.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0a9fa09f0	1.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0a9fa09f0	1.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0a9fa09f0	1.37	string	info
+table: 0x000001b0a9fa09f0	1.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0a9fa09f0	1.39	string	wrap
+table: 0x000001b0a9fa09f0	1.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9fa09f0	1.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0a9fa09f0	1.42	string	table
+table: 0x000001b0a9fa09f0	1.43	string	setmetatable
+table: 0x000001b0a9fa09f0	1.44	string	function
+table: 0x000001b0a9fa09f0	1.45	string	slnaf
+table: 0x000001b0a9fa09f0	1.46	string	[C]
+table: 0x000001b0a9fa09f0	1.47	string	getmetatable
+table: 0x000001b0a9fa09f0	1.48	string	lastlinedefined
+table: 0x000001b0a9fa09f0	1.49	string	currentline
+table: 0x000001b0a9fa09f0	1.50	string	short_src
+table: 0x000001b0a9fa09f0	1.51	string	isvararg
+table: 0x000001b0a9fa09f0	1.52	string	nparams
+table: 0x000001b0a9fa09f0	1.53	string	what
+table: 0x000001b0a9fa09f0	1.54	string	C
+table: 0x000001b0a9fa09f0	1.55	string	linedefined
+table: 0x000001b0a9fa09f0	1.56	string	source
+table: 0x000001b0a9fa09f0	1.57	string	=[C]
+table: 0x000001b0a9fa09f0	1.58	string	namewhat
+table: 0x000001b0a9fa09f0	1.59	string	
+table: 0x000001b0a9fa09f0	1.60	string	pack
+table: 0x000001b0a9fa09f0	1.61	string	tonumber
+table: 0x000001b0a9fa09f0	1.62	string	tostring
+table: 0x000001b0a9fa09f0	1.63	string	rawset
+table: 0x000001b0a9fa09f0	1.64	string	rawget
+table: 0x000001b0a9fa09f0	1.65	string	xpcall
+table: 0x000001b0a9fa09f0	1.66	string	assert
+table: 0x000001b0a9fa09f0	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9fa09f0	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9fa09f0	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9fa09f0	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9fa09f0	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9fa09f0	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9fa09f0	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9fa09f0	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9fa09f0	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9fa09f0	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9fa09f0	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9fa09f0	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9fa09f0	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9fa09f0	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9fa09f0	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9fa09f0	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9fa09f0	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9fa09f0	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9fa09f0	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9fa09f0	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9fa09f0	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9fa09f0	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9fa09f0	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9fa09f0	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9fa09f0	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9fa09f0	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9fa09f0	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9fa09f0	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9fa09f0	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9fa09f0	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9fa09f0	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9fa09f0	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9fa09f0	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9fa09f0	0.33	number	125
+table: 0x000001b0a9fa09f0	0.35	number	109
+table: 0x000001b0a9fa09f0	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0a9fa09f0	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0a9fa09f0	0.38	number	1458848878
+table: 0x000001b0a9fa09f0	0.39	number	355840223
+table: 0x000001b0a9fa09f0	0.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0a9f60f40	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0a9f60f40	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0a9f60f40	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0a9f60f40	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0a9f60f40	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0a9f60f40	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0a9f60f40	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0a9f60f40	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0a9f60f40	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0a9f60f40	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0a9f60f40	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0a9f60f40	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0a9f60f40	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0a9f60f40	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0a9f60f40	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0a9f60f40	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0a9f60f40	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0a9f60f40	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0a9f60f40	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0a9f60f40	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0a9f60f40	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0a9f60f40	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0a9f60f40	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0a9f60f40	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0a9f60f40	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0a9f60f40	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0a9f60f40	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0a9f60f40	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0a9f60f40	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0a9f60f40	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0a9f60f40	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0a9f60f40	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0a9f60f40	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0a9f60f40	0.33	number	125
+table: 0x000001b0a9f60f40	0.35	number	109
+table: 0x000001b0a9f60f40	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0a9f60f40	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0a9f60f40	0.38	number	1458848878
+table: 0x000001b0a9f60f40	0.39	number	355840223
+table: 0x000001b0a9f60f40	0.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0aa176370	1	table	table: 0x000001b0aa9c1210
+table: 0x000001b0aa176370	1[box]	function	function: 0x000001b0a7d72490
+table: 0x000001b0aa176370	1.1	table	table: 0x000001b0aa9c1210
+table: 0x000001b0aa176370	1.1[box]	function	function: 0x000001b0a7d72490
+table: 0x000001b0aa176370	1.2	function	function: 0x000001b0a7d72490
+table: 0x000001b0aa176370	1.3	number	2
+table: 0x000001b0aa176370	2	table	table: 0x000001b0aa9c1240
+table: 0x000001b0aa176370	2[box]	function	function: 0x000001b0a7d72590
+table: 0x000001b0aa176370	2.1	table	table: 0x000001b0aa9c1240
+table: 0x000001b0aa176370	2.1[box]	function	function: 0x000001b0a7d72590
+table: 0x000001b0aa176370	2.2	function	function: 0x000001b0a7d72590
+table: 0x000001b0aa176370	2.3	number	2
+table: 0x000001b0aa176370	3	table	table: 0x000001b0aa9c12a0
+table: 0x000001b0aa176370	3[box]	function	function: 0x000001b0a7d72690
+table: 0x000001b0aa176370	3.1	table	table: 0x000001b0aa9c12a0
+table: 0x000001b0aa176370	3.1[box]	function	function: 0x000001b0a7d72690
+table: 0x000001b0aa176370	3.2	function	function: 0x000001b0a7d72690
+table: 0x000001b0aa176370	3.3	number	2
+table: 0x000001b0aa176370	0	table	table: 0x000001b0a9e1c650
+table: 0x000001b0aa176370	0.1	number	19110
+table: 0x000001b0aa176370	0.2	number	1447136193
+table: 0x000001b0aa176370	0.3	number	1384124852
+table: 0x000001b0aa176370	0.4	number	4046554082
+table: 0x000001b0aa176370	0.5	number	3300908851
+table: 0x000001b0aa176370	0.6	number	3868228902
+table: 0x000001b0aa176370	0.7	number	526130887
+table: 0x000001b0aa176370	0.8	number	3598021700
+table: 0x000001b0aa176370	0.9	number	1161317337
+table: 0x000001b0aa3862a0	1	table	table: 0x000001b0aa9c1de0
+table: 0x000001b0aa3862a0	1.2	function	function: 0x000001b0a7d55f40
+table: 0x000001b0aa3862a0	1.3	table	table: 0x000001b0a7d52c70
+table: 0x000001b0aa3862a0	1.4	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa3862a0	1.5	string	format
+table: 0x000001b0aa3862a0	1.6	string	gmatch
+table: 0x000001b0aa3862a0	1.7	table	table: 0x000001b0a7d53f30
+table: 0x000001b0aa3862a0	1.8	function	function: 0x000001b0a7d56240
+table: 0x000001b0aa3862a0	1.9	table	table: 0x000001b0a7d544d0
+table: 0x000001b0aa3862a0	1.10	table	table: 0x000001b0a7d54710
+table: 0x000001b0aa3862a0	1.11	string	byte
+table: 0x000001b0aa3862a0	1.12	string	gsub
+table: 0x000001b0aa3862a0	1.13	string	sub
+table: 0x000001b0aa3862a0	1.14	boolean	false
+table: 0x000001b0aa3862a0	1.15	boolean	true
+table: 0x000001b0aa3862a0	1.16	string	concat
+table: 0x000001b0aa3862a0	1.17	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa3862a0	1.18	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa3862a0	1.19	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa3862a0	1.20	string	isyieldable
+table: 0x000001b0aa3862a0	1.21	string	rep
+table: 0x000001b0aa3862a0	1.22	function	function: 0x000001b0a7d55ee0
+table: 0x000001b0aa3862a0	1.23	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa3862a0	1.24	string	unpack
+table: 0x000001b0aa3862a0	1.25	string	running
+table: 0x000001b0aa3862a0	1.26	string	create
+table: 0x000001b0aa3862a0	1.27	string	resume
+table: 0x000001b0aa3862a0	1.28	string	yield
+table: 0x000001b0aa3862a0	1.29	function	function: 0x000001b0a7d56000
+table: 0x000001b0aa3862a0	1.30	string	status
+table: 0x000001b0aa3862a0	1.31	function	function: 0x000001b0a7d56060
+table: 0x000001b0aa3862a0	1.32	string	close
+table: 0x000001b0aa3862a0	1.33	string	insert
+table: 0x000001b0aa3862a0	1.34	function	function: 0x000001b0a7d56090
+table: 0x000001b0aa3862a0	1.35	table	table: 0x000001b0a7d524c0
+table: 0x000001b0aa3862a0	1.36	string	The debug library is required on Luau platforms. Please open a support ticket.
+table: 0x000001b0aa3862a0	1.37	string	info
+table: 0x000001b0aa3862a0	1.38	function	function: 0x000001b0a7d561b0
+table: 0x000001b0aa3862a0	1.39	string	wrap
+table: 0x000001b0aa3862a0	1.40	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa3862a0	1.41	function	function: 0x000001b0a7d55f70
+table: 0x000001b0aa3862a0	1.42	string	table
+table: 0x000001b0aa3862a0	1.43	string	setmetatable
+table: 0x000001b0aa3862a0	1.44	string	function
+table: 0x000001b0aa3862a0	1.45	string	slnaf
+table: 0x000001b0aa3862a0	1.46	string	[C]
+table: 0x000001b0aa3862a0	1.47	string	getmetatable
+table: 0x000001b0aa3862a0	1.48	string	lastlinedefined
+table: 0x000001b0aa3862a0	1.49	string	currentline
+table: 0x000001b0aa3862a0	1.50	string	short_src
+table: 0x000001b0aa3862a0	1.51	string	isvararg
+table: 0x000001b0aa3862a0	1.52	string	nparams
+table: 0x000001b0aa3862a0	1.53	string	what
+table: 0x000001b0aa3862a0	1.54	string	C
+table: 0x000001b0aa3862a0	1.55	string	linedefined
+table: 0x000001b0aa3862a0	1.56	string	source
+table: 0x000001b0aa3862a0	1.57	string	=[C]
+table: 0x000001b0aa3862a0	1.58	string	namewhat
+table: 0x000001b0aa3862a0	1.59	string	
+table: 0x000001b0aa3862a0	1.60	string	pack
+table: 0x000001b0aa3862a0	1.61	string	tonumber
+table: 0x000001b0aa3862a0	1.62	string	tostring
+table: 0x000001b0aa3862a0	1.63	string	rawset
+table: 0x000001b0aa3862a0	1.64	string	rawget
+table: 0x000001b0aa3862a0	1.65	string	xpcall
+table: 0x000001b0aa3862a0	1.66	string	assert
+table: 0x000001b0aa3862a0	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa3862a0	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa3862a0	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa3862a0	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa3862a0	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa3862a0	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa3862a0	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa3862a0	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa3862a0	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa3862a0	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa3862a0	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa3862a0	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa3862a0	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa3862a0	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa3862a0	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa3862a0	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa3862a0	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa3862a0	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa3862a0	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa3862a0	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa3862a0	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa3862a0	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa3862a0	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa3862a0	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa3862a0	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa3862a0	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa3862a0	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa3862a0	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa3862a0	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa3862a0	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa3862a0	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa3862a0	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa3862a0	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa3862a0	0.33	number	125
+table: 0x000001b0aa3862a0	0.34	table	table: 0x000001b0ab099130
+table: 0x000001b0aa3862a0	0.35	number	109
+table: 0x000001b0aa3862a0	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa3862a0	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa3862a0	0.38	number	1458848878
+table: 0x000001b0aa3862a0	0.39	number	355840223
+table: 0x000001b0aa3862a0	0.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0aa3862a0	0.41	function	function: 0x000001b0aaa0f770
+table: 0x000001b0aa64afd0	0	table	table: 0x000001b0aa9ffd00
+table: 0x000001b0aa64afd0	0.1	function	function: 0x000001b0a7d56150
+table: 0x000001b0aa64afd0	0.2	function	function: 0x000001b0a7d53e40
+table: 0x000001b0aa64afd0	0.3	function	function: 0x000001b0a7d53d80
+table: 0x000001b0aa64afd0	0.4	function	function: 0x000001b0a7d53ea0
+table: 0x000001b0aa64afd0	0.5	function	function: 0x000001b0a7d53ed0
+table: 0x000001b0aa64afd0	0.6	function	function: 0x000001b0a7d53f00
+table: 0x000001b0aa64afd0	0.7	function	function: 0x000001b0a7d53e10
+table: 0x000001b0aa64afd0	0.8	function	function: 0x000001b0a7d53cf0
+table: 0x000001b0aa64afd0	0.9	table	table: 0x000001b0aa9ff4c0
+table: 0x000001b0aa64afd0	0.10	function	function: 0x000001b0a7d56180
+table: 0x000001b0aa64afd0	0.11	function	function: 0x000001b0a7d56210
+table: 0x000001b0aa64afd0	0.12	function	function: 0x000001b0a7d55e20
+table: 0x000001b0aa64afd0	0.13	function	function: 0x000001b0a7d55f10
+table: 0x000001b0aa64afd0	0.14	function	function: 0x000001b0a7d55fa0
+table: 0x000001b0aa64afd0	0.15	function	function: 0x000001b0a7d54620
+table: 0x000001b0aa64afd0	0.16	table	table: 0x000001b0aa9fee00
+table: 0x000001b0aa64afd0	0.17	table	table: 0x000001b0aa9fed10
+table: 0x000001b0aa64afd0	0.18	function	function: 0x000001b0a7d52490
+table: 0x000001b0aa64afd0	0.19	function	function: 0x000001b0a7d55fd0
+table: 0x000001b0aa64afd0	0.20	function	function: 0x000001b0aa9fa910
+table: 0x000001b0aa64afd0	0.21	function	function: 0x000001b0aaa12740
+table: 0x000001b0aa64afd0	0.22	function	function: 0x000001b0aaa12650
+table: 0x000001b0aa64afd0	0.23	function	function: 0x000001b0a7d55e50
+table: 0x000001b0aa64afd0	0.24	function	function: 0x000001b0aaa12560
+table: 0x000001b0aa64afd0	0.25	function	function: 0x000001b0aaa12470
+table: 0x000001b0aa64afd0	0.26	function	function: 0x000001b0aaa12380
+table: 0x000001b0aa64afd0	0.27	function	function: 0x000001b0aaa12290
+table: 0x000001b0aa64afd0	0.28	function	function: 0x000001b0aaa121a0
+table: 0x000001b0aa64afd0	0.29	function	function: 0x000001b0aaa120b0
+table: 0x000001b0aa64afd0	0.30	function	function: 0x000001b0aaa11fc0
+table: 0x000001b0aa64afd0	0.31	function	function: 0x000001b0aaa11de0
+table: 0x000001b0aa64afd0	0.32	table	table: 0x000001b0aa9f5bc0
+table: 0x000001b0aa64afd0	0.33	number	125
+table: 0x000001b0aa64afd0	0.34	table	table: 0x000001b0ab099130
+table: 0x000001b0aa64afd0	0.35	number	109
+table: 0x000001b0aa64afd0	0.36	function	function: 0x000001b0aaa11a20
+table: 0x000001b0aa64afd0	0.37	function	function: 0x000001b0aaa11930
+table: 0x000001b0aa64afd0	0.38	number	1458848878
+table: 0x000001b0aa64afd0	0.39	number	355840223
+table: 0x000001b0aa64afd0	0.40	table	table: 0x000001b0aacb2cd0
+table: 0x000001b0aa64afd0	0.41	function	function: 0x000001b0aaa0f770
+table: 0x000001b0aaea53d0	1	string	Connecting to Server... Verifying Signature.
+table: 0x000001b0aaea53d0	0	string	onion13

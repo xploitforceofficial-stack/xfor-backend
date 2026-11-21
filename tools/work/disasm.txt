@@ -1,0 +1,4222 @@
+===== chain 1 (645 slots)
+-- [1:1] op=94 i=0 w=0 D=150
+    G=150;
+-- [1:2] op=160 i=15 w=14 D=1129 O=108
+    d[14][108]=d[15];
+-- [1:3] op=41 i=945 w=14 D=477 O=YKghLef z=92
+    local p=(80);
+    (d[14])[92]="YKghLef";
+-- [1:4] op=188 i=15 w=120 D=0 f=table: 0x0000021c944ebb20
+    K=table: 0x0000021c944ebb20;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:5] op=160 i=15 w=14 D=714 O=190
+    d[14][190]=d[15];
+-- [1:6] op=94 i=0 w=0 D=11
+    G=11;
+-- [1:7] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:8] op=41 i=539 w=35 D=46 O=0 z=588
+    local p=(80);
+    (d[35])[588]=0;
+-- [1:9] op=41 i=1111 w=35 D=1044 O=587 z=194
+    local p=(80);
+    (d[35])[194]=587;
+-- [1:10] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:11] op=94 i=0 w=0 D=587
+    G=587;
+-- [1:12] op=188 i=15 w=2 D=0 f=table: 0x0000021c91ef3360
+    K=table: 0x0000021c91ef3360;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:13] op=160 i=15 w=14 D=956 O=177
+    d[14][177]=d[15];
+-- [1:14] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:15] op=174 i=1072 w=15 D=15 z=band
+    d[15]=d[15]["band"];
+    end
+-- [1:16] op=94 i=0 w=0 D=237
+    G=237;
+-- [1:17] op=94 i=0 w=0 D=486
+    G=486;
+-- [1:18] op=160 i=15 w=14 D=155 O=182
+    d[14][182]=d[15];
+-- [1:19] op=95 i=353 w=15 D=0 z=setmetatable
+    d[15]=(Z["setmetatable"]);
+-- [1:20] op=160 i=15 w=14 D=404 O=227
+    d[14][227]=d[15];
+-- [1:21] op=188 i=15 w=56 D=0 f=table: 0x0000021c93f32850
+    K=table: 0x0000021c93f32850;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:22] op=160 i=15 w=14 D=1025 O=119
+    d[14][119]=d[15];
+-- [1:23] op=95 i=241 w=15 D=0 z=loadstring
+    d[15]=(Z["loadstring"]);
+-- [1:24] op=160 i=15 w=14 D=965 O=78
+    d[14][78]=d[15];
+-- [1:25] op=94 i=0 w=0 D=356
+    G=356;
+-- [1:26] op=188 i=15 w=66 D=0 f=table: 0x0000021c93fc6b70
+    K=table: 0x0000021c93fc6b70;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:27] op=160 i=15 w=14 D=151 O=152
+    d[14][152]=d[15];
+-- [1:28] op=188 i=15 w=48 D=0 f=table: 0x0000021c93dbe520
+    K=table: 0x0000021c93dbe520;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:29] op=160 i=15 w=14 D=1028 O=220
+    d[14][220]=d[15];
+-- [1:30] op=94 i=0 w=0 D=135
+    G=135;
+-- [1:31] op=188 i=15 w=117 D=0 f=table: 0x0000021c944dc980
+    K=table: 0x0000021c944dc980;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:32] op=160 i=15 w=14 D=313 O=131
+    d[14][131]=d[15];
+-- [1:33] op=41 i=502 w=14 D=446 O=setfenv z=73
+    local p=(80);
+    (d[14])[73]="setfenv";
+-- [1:34] op=188 i=15 w=70 D=0 f=table: 0x0000021c9401bf00
+    K=table: 0x0000021c9401bf00;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:35] op=160 i=15 w=14 D=994 O=201
+    d[14][201]=d[15];
+-- [1:36] op=94 i=0 w=0 D=490
+    G=490;
+-- [1:37] op=160 i=15 w=14 D=304 O=171
+    d[14][171]=d[15];
+-- [1:38] op=188 i=15 w=115 D=0 f=table: 0x0000021c94474e30
+    K=table: 0x0000021c94474e30;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:39] op=160 i=15 w=14 D=595 O=224
+    d[14][224]=d[15];
+-- [1:40] op=41 i=78 w=14 D=1029 O=isyieldable z=20
+    local p=(80);
+    (d[14])[20]="isyieldable";
+-- [1:41] op=94 i=0 w=0 D=360
+    G=360;
+-- [1:42] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:43] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:44] op=41 i=104 w=31 D=4 O=41 z=101
+    local p=(80);
+    (d[31])[101]=41;
+-- [1:45] op=41 i=111 w=35 D=1218 O=486 z=17
+    local p=(80);
+    (d[35])[17]=486;
+-- [1:46] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:47] op=94 i=0 w=0 D=486
+    G=486;
+-- [1:48] op=160 i=15 w=14 D=227 O=153
+    d[14][153]=d[15];
+-- [1:49] op=188 i=15 w=130 D=0 f=table: 0x0000021c945d0440
+    K=table: 0x0000021c945d0440;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:50] op=160 i=15 w=14 D=752 O=145
+    d[14][145]=d[15];
+-- [1:51] op=160 i=0 w=14 D=59 O=1
+    d[14][1]=d[0];
+-- [1:52] op=94 i=0 w=0 D=65
+    G=65;
+-- [1:53] op=132 i=0 w=0 D=0
+    E,L=A[48](...);
+-- [1:54] op=29 i=13 w=0 D=2
+    local p=(80);
+    K=(2);q=0.0;
+    for p=K,K+(13-1.0)do(d)[p]=(L[W+q]);q+=1.0;end;
+-- [1:55] op=2 i=0 w=0 D=14
+    local p=(114);
+    (d)[14]=({});
+-- [1:56] op=188 i=15 w=86 D=0 f=table: 0x0000021c942173b0
+    K=table: 0x0000021c942173b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:57] op=160 i=15 w=14 D=1123 O=98
+    d[14][98]=d[15];
+-- [1:58] op=94 i=0 w=0 D=634
+    G=634;
+-- [1:59] op=160 i=15 w=14 D=289 O=18
+    d[14][18]=d[15];
+-- [1:60] op=188 i=15 w=42 D=0 f=table: 0x0000021c93d52be0
+    K=table: 0x0000021c93d52be0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:61] op=160 i=15 w=14 D=1198 O=162
+    d[14][162]=d[15];
+-- [1:62] op=188 i=15 w=101 D=0 f=table: 0x0000021c943d4d20
+    K=table: 0x0000021c943d4d20;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:63] op=160 i=15 w=14 D=1189 O=193
+    d[14][193]=d[15];
+-- [1:64] op=188 i=15 w=107 D=0 f=table: 0x0000021c943e8c20
+    K=table: 0x0000021c943e8c20;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:65] op=94 i=0 w=0 D=614
+    G=614;
+-- [1:66] op=41 i=524 w=14 D=353 O=setmetatable z=43
+    local p=(80);
+    (d[14])[43]="setmetatable";
+-- [1:67] op=41 i=980 w=14 D=144 O=getinfo z=80
+    local p=(80);
+    (d[14])[80]="getinfo";
+-- [1:68] op=65 i=14 w=14 D=613 O=0
+    if not(-A[31]) then
+    else
+    N,r=M,230/-180;
+    return 232;
+    end
+    K=(14);q=(d[14]);d[K+1.0]=(q);(d)[K]=(q[0]);
+    end
+-- [1:69] op=145 i=0 w=14 D=0
+    for M,p in I do if not(M>=1.0)then else if A[17]==A[42]then else p[1]=(p);end;
+    (p)[2]=(d[M]);
+    if A[41]~=A[4]then else while A[48]do A[10]=(A[25]- -206);end;
+    end;
+    p[3]=(2);(I)[M]=nil;end;
+    end;
+    ;K=14;
+    return d[K](d[K+1.0]);
+-- [1:70] op=94 i=0 w=0 D=644
+    G=644;
+-- [1:71] op=160 i=15 w=14 D=553 O=110
+    d[14][110]=d[15];
+-- [1:72] op=41 i=543 w=14 D=437 O=resume z=27
+    local p=(80);
+    (d[14])[27]="resume";
+-- [1:73] op=41 i=698 w=14 D=675 O=char z=77
+    local p=(80);
+    (d[14])[77]="char";
+-- [1:74] op=94 i=0 w=0 D=503
+    G=503;
+-- [1:75] op=160 i=15 w=14 D=666 O=155
+    d[14][155]=d[15];
+-- [1:76] op=188 i=15 w=4 D=0 f=table: 0x0000021c93e27ab0
+    K=table: 0x0000021c93e27ab0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:77] op=160 i=15 w=14 D=263 O=135
+    d[14][135]=d[15];
+-- [1:78] op=188 i=15 w=9 D=0 f=table: 0x0000021c93e52fb0
+    K=table: 0x0000021c93e52fb0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:79] op=160 i=15 w=14 D=857 O=147
+    d[14][147]=d[15];
+-- [1:80] op=94 i=0 w=0 D=178
+    G=178;
+-- [1:81] op=188 i=15 w=3 D=0 f=table: 0x0000021c93e29040
+    K=table: 0x0000021c93e29040;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:82] op=160 i=15 w=14 D=1206 O=213
+    d[14][213]=d[15];
+-- [1:83] op=41 i=398 w=14 D=169 O=slnaf z=45
+    local p=(80);
+    (d[14])[45]="slnaf";
+-- [1:84] op=41 i=449 w=14 D=150 O=rawset z=63
+    local p=(80);
+    (d[14])[63]="rawset";
+-- [1:85] op=95 i=856 w=15 D=0 z=typeof
+    d[15]=(Z["typeof"]);
+-- [1:86] op=160 i=15 w=14 D=16 O=22
+    d[14][22]=d[15];
+-- [1:87] op=95 i=877 w=15 D=0 z=unpack
+    d[15]=(Z["unpack"]);
+-- [1:88] op=160 i=15 w=14 D=360 O=95
+    d[14][95]=d[15];
+-- [1:89] op=95 i=877 w=15 D=0 z=unpack
+    d[15]=(Z["unpack"]);
+-- [1:90] op=94 i=0 w=0 D=623
+    G=623;
+-- [1:91] op=160 i=15 w=14 D=973 O=109
+    d[14][109]=d[15];
+-- [1:92] op=188 i=15 w=62 D=0 f=table: 0x0000021c93f7dd90
+    K=table: 0x0000021c93f7dd90;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:93] op=160 i=15 w=14 D=1100 O=186
+    d[14][186]=d[15];
+-- [1:94] op=95 i=262 w=15 D=0 z=coroutine
+    d[15]=(Z["coroutine"]);
+-- [1:95] op=160 i=15 w=14 D=32 O=10
+    d[14][10]=d[15];
+-- [1:96] op=188 i=15 w=72 D=0 f=table: 0x0000021c9403af30
+    K=table: 0x0000021c9403af30;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:97] op=160 i=15 w=14 D=482 O=181
+    d[14][181]=d[15];
+-- [1:98] op=41 i=1215 w=14 D=851 O=insert z=33
+    local p=(80);
+    (d[14])[33]="insert";
+-- [1:99] op=41 i=1006 w=14 D=625 O=[C] z=46
+    local p=(80);
+    (d[14])[46]="[C]";
+-- [1:100] op=94 i=0 w=0 D=610
+    G=610;
+-- [1:101] op=41 i=501 w=14 D=845 O=source z=56
+    local p=(80);
+    (d[14])[56]="source";
+-- [1:102] op=188 i=15 w=102 D=0 f=table: 0x0000021c943d4870
+    K=table: 0x0000021c943d4870;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:103] op=160 i=15 w=14 D=431 O=121
+    d[14][121]=d[15];
+-- [1:104] op=188 i=15 w=89 D=0 f=table: 0x0000021c94254690
+    K=table: 0x0000021c94254690;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:105] op=160 i=15 w=14 D=223 O=111
+    d[14][111]=d[15];
+-- [1:106] op=188 i=15 w=71 D=0 f=table: 0x0000021c9403de40
+    K=table: 0x0000021c9403de40;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:107] op=94 i=0 w=0 D=188
+    G=188;
+-- [1:108] op=160 i=15 w=14 D=275 O=138
+    d[14][138]=d[15];
+-- [1:109] op=95 i=1034 w=15 D=0 z=tostring
+    d[15]=(Z["tostring"]);
+-- [1:110] op=160 i=15 w=14 D=27 O=2
+    d[14][2]=d[15];
+-- [1:111] op=95 i=867 w=15 D=0 z=next
+    d[15]=(Z["next"]);
+-- [1:112] op=160 i=15 w=14 D=15 O=4
+    d[14][4]=d[15];
+-- [1:113] op=188 i=15 w=58 D=0 f=table: 0x0000021c93f3bb30
+    K=table: 0x0000021c93f3bb30;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:114] op=94 i=0 w=0 D=251
+    G=251;
+-- [1:115] op=188 i=15 w=131 D=0 f=table: 0x0000021c945fb3b0
+    K=table: 0x0000021c945fb3b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:116] op=160 i=15 w=14 D=548 O=223
+    d[14][223]=d[15];
+-- [1:117] op=188 i=15 w=145 D=0 f=table: 0x0000021c947251b0
+    K=table: 0x0000021c947251b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:118] op=94 i=0 w=0 D=312
+    G=312;
+-- [1:119] op=188 i=15 w=74 D=0 f=table: 0x0000021c9406b7c0
+    K=table: 0x0000021c9406b7c0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:120] op=160 i=15 w=14 D=1119 O=146
+    d[14][146]=d[15];
+-- [1:121] op=41 i=443 w=14 D=664 O=what z=53
+    local p=(80);
+    (d[14])[53]="what";
+-- [1:122] op=188 i=15 w=57 D=0 f=table: 0x0000021c93f32460
+    K=table: 0x0000021c93f32460;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:123] op=160 i=15 w=14 D=318 O=195
+    d[14][195]=d[15];
+-- [1:124] op=94 i=0 w=0 D=401
+    G=401;
+-- [1:125] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:126] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:127] op=41 i=2 w=31 D=270 O=188 z=31
+    local p=(80);
+    (d[31])[31]=188;
+-- [1:128] op=41 i=981 w=35 D=14 O=80 z=208
+    local p=(80);
+    (d[35])[208]=80;
+-- [1:129] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:130] op=94 i=0 w=0 D=80
+    G=80;
+-- [1:131] op=41 i=92 w=14 D=833 O=gmatch z=6
+    local p=(80);
+    (d[14])[6]="gmatch";
+-- [1:132] op=41 i=54 w=14 D=990 O=info z=37
+    local p=(80);
+    (d[14])[37]="info";
+-- [1:133] op=41 i=143 w=14 D=863 O=isvararg z=51
+    local p=(80);
+    (d[14])[51]="isvararg";
+-- [1:134] op=188 i=15 w=150 D=0 f=table: 0x0000021c947a85d0
+    K=table: 0x0000021c947a85d0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:135] op=94 i=0 w=0 D=469
+    G=469;
+-- [1:136] op=188 i=15 w=126 D=0 f=table: 0x0000021c9457faa0
+    K=table: 0x0000021c9457faa0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:137] op=160 i=15 w=14 D=660 O=188
+    d[14][188]=d[15];
+-- [1:138] op=188 i=15 w=106 D=0 f=table: 0x0000021c943e9070
+    K=table: 0x0000021c943e9070;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:139] op=160 i=15 w=14 D=1074 O=140
+    d[14][140]=d[15];
+-- [1:140] op=188 i=15 w=25 D=0 f=table: 0x0000021c93c98560
+    K=table: 0x0000021c93c98560;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:141] op=94 i=0 w=0 D=146
+    G=146;
+-- [1:142] op=188 i=15 w=151 D=0 f=table: 0x0000021c947c74e0
+    K=table: 0x0000021c947c74e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:143] op=160 i=15 w=14 D=441 O=219
+    d[14][219]=d[15];
+-- [1:144] op=188 i=15 w=161 D=0 f=table: 0x0000021c948853a0
+    K=table: 0x0000021c948853a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:145] op=160 i=15 w=14 D=796 O=202
+    d[14][202]=d[15];
+-- [1:146] op=94 i=0 w=0 D=514
+    G=514;
+-- [1:147] op=160 i=15 w=14 D=1024 O=144
+    d[14][144]=d[15];
+-- [1:148] op=41 i=646 w=14 D=598 O=getmetatable z=47
+    local p=(80);
+    (d[14])[47]="getmetatable";
+-- [1:149] op=188 i=15 w=31 D=0 f=table: 0x0000021c93cd7400
+    K=table: 0x0000021c93cd7400;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:150] op=94 i=0 w=0 D=17
+    G=17;
+-- [1:151] op=94 i=0 w=0 D=230
+    G=230;
+-- [1:152] op=188 i=15 w=45 D=0 f=table: 0x0000021c93d88840
+    K=table: 0x0000021c93d88840;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:153] op=160 i=15 w=14 D=301 O=99
+    d[14][99]=d[15];
+-- [1:154] op=188 i=15 w=52 D=0 f=table: 0x0000021c93ef6700
+    K=table: 0x0000021c93ef6700;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:155] op=160 i=15 w=14 D=684 O=105
+    d[14][105]=d[15];
+-- [1:156] op=41 i=777 w=14 D=916 O=type z=69
+    local p=(80);
+    (d[14])[69]="type";
+-- [1:157] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:158] op=94 i=0 w=0 D=528
+    G=528;
+-- [1:159] op=41 i=695 w=14 D=440 O=pcall z=70
+    local p=(80);
+    (d[14])[70]="pcall";
+-- [1:160] op=188 i=15 w=26 D=0 f=table: 0x0000021c93c97030
+    K=table: 0x0000021c93c97030;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:161] op=160 i=15 w=14 D=183 O=103
+    d[14][103]=d[15];
+-- [1:162] op=188 i=15 w=83 D=0 f=table: 0x0000021c94209bb0
+    K=table: 0x0000021c94209bb0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:163] op=160 i=15 w=14 D=932 O=128
+    d[14][128]=d[15];
+-- [1:164] op=94 i=0 w=0 D=25
+    G=25;
+-- [1:165] op=188 i=15 w=76 D=0 f=table: 0x0000021c940837f0
+    K=table: 0x0000021c940837f0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:166] op=161 i=18 w=128 D=59
+    K=d;
+-- [1:167] op=134 i=196 w=14 D=1181 O=120
+    return;
+    if A[35]==A[26] then
+    else
+    q=14;K=(K[q]);q=120;
+    end
+-- [1:168] op=137 i=15 w=185 D=235
+    return;
+    n=(d);g=15;
+-- [1:169] op=6 i=178 w=27 D=31
+    local p=(114);
+    n=n[g];(K)[q]=n;
+-- [1:170] op=188 i=15 w=67 D=0 f=table: 0x0000021c93fc38a0
+    K=table: 0x0000021c93fc38a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:171] op=160 i=15 w=14 D=1155 O=160
+    d[14][160]=d[15];
+-- [1:172] op=94 i=0 w=0 D=387
+    G=387;
+-- [1:173] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:174] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:175] op=41 i=293 w=31 D=111 O=17 z=262
+    local p=(80);
+    (d[31])[262]=17;
+-- [1:176] op=41 i=19 w=35 D=450 O=644 z=70
+    local p=(80);
+    (d[35])[70]=644;
+-- [1:177] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:178] op=94 i=0 w=0 D=644
+    G=644;
+-- [1:179] op=188 i=15 w=22 D=0 f=table: 0x0000021c941b2fe0
+    K=table: 0x0000021c941b2fe0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:180] op=160 i=15 w=14 D=163 O=126
+    d[14][126]=d[15];
+-- [1:181] op=188 i=15 w=49 D=0 f=table: 0x0000021c93ea9090
+    K=table: 0x0000021c93ea9090;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:182] op=160 i=15 w=14 D=1140 O=114
+    d[14][114]=d[15];
+-- [1:183] op=188 i=15 w=84 D=0 f=table: 0x0000021c94223530
+    K=table: 0x0000021c94223530;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:184] op=160 i=15 w=14 D=1175 O=96
+    d[14][96]=d[15];
+-- [1:185] op=41 i=329 w=14 D=551 O=currentline z=49
+    local p=(80);
+    (d[14])[49]="currentline";
+-- [1:186] op=188 i=15 w=79 D=0 f=table: 0x0000021c940bbb70
+    K=table: 0x0000021c940bbb70;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:187] op=160 i=15 w=14 D=1091 O=173
+    d[14][173]=d[15];
+-- [1:188] op=94 i=0 w=0 D=555
+    G=555;
+-- [1:189] op=94 i=0 w=0 D=508
+    G=508;
+-- [1:190] op=41 i=701 w=14 D=224 O=C z=54
+    local p=(80);
+    (d[14])[54]="C";
+-- [1:191] op=188 i=15 w=50 D=0 f=table: 0x0000021c93ed0710
+    K=table: 0x0000021c93ed0710;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:192] op=160 i=15 w=14 D=220 O=172
+    d[14][172]=d[15];
+-- [1:193] op=94 i=0 w=0 D=457
+    G=457;
+-- [1:194] op=94 i=0 w=0 D=587
+    G=587;
+-- [1:195] op=160 i=15 w=14 D=228 O=170
+    d[14][170]=d[15];
+-- [1:196] op=95 i=556 w=15 D=0 z=table
+    d[15]=(Z["table"]);
+-- [1:197] op=160 i=15 w=14 D=74 O=9
+    d[14][9]=d[15];
+-- [1:198] op=41 i=85 w=14 D=686 O=gsub z=12
+    local p=(80);
+    (d[14])[12]="gsub";
+-- [1:199] op=41 i=922 w=14 D=726 O=The debug library is required on Luau platforms. Please open a support ticket. z=36
+    local p=(80);
+    (d[14])[36]="The debug library is required on Luau platforms. Please open a support ticket.";
+-- [1:200] op=188 i=15 w=47 D=0 f=table: 0x0000021c93dbec10
+    K=table: 0x0000021c93dbec10;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:201] op=160 i=15 w=14 D=419 O=189
+    d[14][189]=d[15];
+-- [1:202] op=94 i=0 w=0 D=291
+    G=291;
+-- [1:203] op=160 i=15 w=14 D=271 O=198
+    d[14][198]=d[15];
+-- [1:204] op=41 i=55 w=14 D=391 O=false z=14
+    local p=(80);
+    (d[14])[14]="false";
+-- [1:205] op=95 i=583 w=15 D=0 z=select
+    d[15]=(Z["select"]);
+-- [1:206] op=160 i=15 w=14 D=418 O=29
+    d[14][29]=d[15];
+-- [1:207] op=94 i=0 w=0 D=158
+    G=158;
+-- [1:208] op=94 i=0 w=0 D=80
+    G=80;
+-- [1:209] op=160 i=15 w=14 D=1071 O=149
+    d[14][149]=d[15];
+-- [1:210] op=115 i=242 w=14 D=101
+    K=(d);q=14;
+-- [1:211] op=84 i=121 w=15 D=159
+    K=(K[q]);
+    end
+-- [1:212] op=130 i=606 w=64 D=878 O=string z=81
+    q=(81);n="string";K[q]=n;
+-- [1:213] op=188 i=15 w=75 D=0 f=table: 0x0000021c94069810
+    K=table: 0x0000021c94069810;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:214] op=94 i=0 w=0 D=74
+    G=74;
+-- [1:215] op=188 i=15 w=61 D=0 f=table: 0x0000021c93f7fbc0
+    K=table: 0x0000021c93f7fbc0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:216] op=160 i=15 w=14 D=754 O=118
+    d[14][118]=d[15];
+-- [1:217] op=188 i=15 w=39 D=0 f=table: 0x0000021c93d15450
+    K=table: 0x0000021c93d15450;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:218] op=160 i=15 w=14 D=724 O=133
+    d[14][133]=d[15];
+-- [1:219] op=94 i=0 w=0 D=496
+    G=496;
+-- [1:220] op=7 i=0 w=560 D=25
+    local p=(114);
+    if not(d[25]) then
+    else
+    G=560;
+    end
+-- [1:221] op=94 i=0 w=0 D=372
+    G=372;
+-- [1:222] op=41 i=1065 w=14 D=279 O=rep z=21
+    local p=(80);
+    (d[14])[21]="rep";
+-- [1:223] op=188 i=15 w=155 D=0 f=table: 0x0000021c94817da0
+    K=table: 0x0000021c94817da0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:224] op=160 i=15 w=14 D=680 O=168
+    d[14][168]=d[15];
+-- [1:225] op=41 i=63 w=14 D=673 O=format z=5
+    local p=(80);
+    (d[14])[5]="format";
+-- [1:226] op=95 i=463 w=15 D=0 z=getfenv
+    d[15]=(Z["getfenv"]);
+-- [1:227] op=160 i=15 w=14 D=618 O=38
+    d[14][38]=d[15];
+-- [1:228] op=41 i=564 w=14 D=1034 O=tostring z=62
+    local p=(80);
+    (d[14])[62]="tostring";
+-- [1:229] op=41 i=791 w=14 D=372 O=status z=30
+    local p=(80);
+    (d[14])[30]="status";
+-- [1:230] op=94 i=0 w=0 D=287
+    G=287;
+-- [1:231] op=94 i=0 w=0 D=52
+    G=52;
+-- [1:232] op=160 i=15 w=14 D=292 O=174
+    d[14][174]=d[15];
+-- [1:233] op=63 i=50 w=15 D=215
+    K=d;q=15;n=(Z);
+-- [1:234] op=46 i=1211 w=175 D=230 z=error
+    local p=(80);
+    g="error";
+-- [1:235] op=6 i=236 w=179 D=14
+    local p=(114);
+    n=n[g];(K)[q]=n;
+-- [1:236] op=160 i=15 w=14 D=26 O=17
+    d[14][17]=d[15];
+-- [1:237] op=94 i=0 w=0 D=320
+    G=320;
+-- [1:238] op=160 i=15 w=14 D=930 O=85
+    d[14][85]=d[15];
+-- [1:239] op=188 i=15 w=98 D=0 f=table: 0x0000021c9435e600
+    K=table: 0x0000021c9435e600;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:240] op=160 i=15 w=14 D=1144 O=226
+    d[14][226]=d[15];
+-- [1:241] op=94 i=0 w=0 D=69
+    G=69;
+-- [1:242] op=124 i=10 w=0 D=25
+    (d)[25]=A[4][10];
+    end
+    end
+-- [1:243] op=17 i=0 w=361 D=26 f==   I1 >c72<J=c209>
+    (d)[26]="=   I1 >c72<J=c209>";
+    end
+-- [1:244] op=117 i=0 w=0 D=25
+    K=25;d[K]=d[K](d[K+1.0]);T=K;
+-- [1:245] op=94 i=0 w=0 D=219
+    G=219;
+-- [1:246] op=188 i=15 w=124 D=0 f=table: 0x0000021c9454c700
+    K=table: 0x0000021c9454c700;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:247] op=160 i=15 w=14 D=640 O=142
+    d[14][142]=d[15];
+-- [1:248] op=41 i=1170 w=14 D=283 O=function z=44
+    local p=(80);
+    (d[14])[44]="function";
+-- [1:249] op=188 i=15 w=105 D=0 f=table: 0x0000021c943e95e0
+    K=table: 0x0000021c943e95e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:250] op=160 i=15 w=14 D=348 O=210
+    d[14][210]=d[15];
+-- [1:251] op=94 i=0 w=0 D=532
+    G=532;
+-- [1:252] op=160 i=15 w=14 D=559 O=205
+    d[14][205]=d[15];
+-- [1:253] op=41 i=121 w=14 D=810 O=sub z=13
+    local p=(80);
+    (d[14])[13]="sub";
+-- [1:254] op=188 i=15 w=6 D=0 f=table: 0x0000021c93e26e50
+    K=table: 0x0000021c93e26e50;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:255] op=160 i=15 w=14 D=737 O=129
+    d[14][129]=d[15];
+-- [1:256] op=188 i=15 w=18 D=0 f=table: 0x0000021c941741f0
+    K=table: 0x0000021c941741f0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:257] op=160 i=15 w=14 D=1179 O=203
+    d[14][203]=d[15];
+-- [1:258] op=94 i=0 w=0 D=151
+    G=151;
+-- [1:259] op=25 i=22 w=0 D=0
+    local p=(80);
+    (d)[22]=(D);
+-- [1:260] op=33 i=18 w=0 D=0
+    local p=(80);
+    d[18]=(t);
+-- [1:261] op=124 i=8 w=0 D=25
+    (d)[25]=A[4][8];
+    end
+    end
+-- [1:262] op=17 i=0 w=564 D=26 f=62
+    (d)[26]=62;
+    end
+-- [1:263] op=150 i=54 w=105 D=27
+    K=(d);q=27;
+-- [1:264] op=28 i=172 w=85 D=142 f=12
+    local p=(80);
+    n=12;
+    ;K[q]=(n);
+-- [1:265] op=118 i=25 w=0 D=0
+    K=(25);d[K]=d[K](d[K+1.0],d[K+2.0]);T=K;
+-- [1:266] op=124 i=7 w=0 D=26
+    (d)[26]=A[4][7];
+    end
+    end
+-- [1:267] op=17 i=0 w=244 D=27 f=� ���
+    (d)[27]="� ���";
+    end
+-- [1:268] op=17 i=0 w=38 D=28 f=3
+    (d)[28]=3;
+    end
+-- [1:269] op=122 i=0 w=29 D=0
+    (d)[29]=nil;
+    end
+    end
+-- [1:270] op=126 i=4 w=0 D=26
+    K=26;T=(K+4-1.0);d[K]=d[K](A[25](K+1.0,T,d));T=K;
+    end
+    end
+-- [1:271] op=60 i=25 w=25 D=26
+    d[25]=d[25]-d[26];
+-- [1:272] op=140 i=25 w=236 D=25 f=-230833
+    (d)[25]=(-230833+d[25]);
+-- [1:273] op=10 i=25 w=768 D=25 f=-22817
+    local p=(114);
+    (d)[25]=(d[25]+-22817);
+-- [1:274] op=160 i=25 w=18 D=1033 O=576
+    d[18][576]=d[25];
+-- [1:275] op=41 i=1154 w=22 D=459 O=572 z=645
+    local p=(80);
+    (d[22])[645]=572;
+-- [1:276] op=152 i=0 w=17 D=29
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=17,29,1 do d[H]=(nil);end;
+-- [1:277] op=94 i=0 w=0 D=319
+    G=319;
+-- [1:278] op=160 i=15 w=14 D=1147 O=222
+    d[14][222]=d[15];
+-- [1:279] op=188 i=15 w=30 D=0 f=table: 0x0000021c93ca9310
+    K=table: 0x0000021c93ca9310;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:280] op=160 i=15 w=14 D=371 O=165
+    d[14][165]=d[15];
+-- [1:281] op=94 i=0 w=0 D=16
+    G=16;
+-- [1:282] op=41 i=314 w=14 D=1202 O=namewhat z=58
+    local p=(80);
+    (d[14])[58]="namewhat";
+-- [1:283] op=188 i=15 w=93 D=0 f=table: 0x0000021c942e16b0
+    K=table: 0x0000021c942e16b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:284] op=160 i=15 w=14 D=154 O=225
+    d[14][225]=d[15];
+-- [1:285] op=188 i=15 w=29 D=0 f=table: 0x0000021c93cab7a0
+    K=table: 0x0000021c93cab7a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:286] op=94 i=0 w=0 D=208
+    G=208;
+-- [1:287] op=94 i=0 w=0 D=537
+    G=537;
+-- [1:288] op=95 i=661 w=15 D=0 z=math
+    d[15]=(Z["math"]);
+-- [1:289] op=160 i=15 w=14 D=38 O=3
+    d[14][3]=d[15];
+-- [1:290] op=188 i=15 w=132 D=0 f=table: 0x0000021c94615f90
+    K=table: 0x0000021c94615f90;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:291] op=94 i=0 w=0 D=47
+    G=47;
+-- [1:292] op=95 i=424 w=15 D=0 z=debug
+    d[15]=(Z["debug"]);
+-- [1:293] op=160 i=15 w=14 D=821 O=35
+    d[14][35]=d[15];
+-- [1:294] op=188 i=15 w=111 D=0 f=table: 0x0000021c94463270
+    K=table: 0x0000021c94463270;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:295] op=94 i=0 w=0 D=425
+    G=425;
+-- [1:296] op=129 i=384 w=354 D=260
+    T=260;(d[T])();T-=1.0;
+-- [1:297] op=43 i=330 w=391 D=168
+    -- no leaf for opcode 43
+-- [1:298] op=184 i=486 w=429 D=54
+    (A)[32]=(A[44]);
+    (d[486])[d[429]]=(nil);
+    end
+    end
+-- [1:299] op=136 i=0 w=36 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[36]=(w);
+    end
+-- [1:300] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:301] op=176 i=0 w=37 D=0
+    while A[35]do return J;end;
+    (d)[37]=i;
+    end
+    end
+-- [1:302] op=41 i=152 w=36 D=46 O=0 z=542
+    local p=(80);
+    (d[36])[542]=0;
+-- [1:303] op=41 i=152 w=37 D=46 O=0 z=542
+    local p=(80);
+    (d[37])[542]=0;
+-- [1:304] op=41 i=716 w=35 D=235 O=537 z=287
+    local p=(80);
+    (d[35])[287]=537;
+-- [1:305] op=156 i=121 w=30 D=52
+    K=30;
+-- [1:306] op=87 i=59 w=20 D=37
+    q=37;
+    end
+-- [1:307] op=111 i=84 w=211 D=139
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [1:308] op=94 i=0 w=0 D=537
+    G=537;
+-- [1:309] op=188 i=15 w=13 D=0 f=table: 0x0000021c940fbd70
+    K=table: 0x0000021c940fbd70;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:310] op=160 i=15 w=14 D=708 O=161
+    d[14][161]=d[15];
+-- [1:311] op=95 i=598 w=15 D=0 z=getmetatable
+    d[15]=(Z["getmetatable"]);
+-- [1:312] op=94 i=0 w=0 D=509
+    G=509;
+-- [1:313] op=94 i=0 w=0 D=411
+    G=411;
+-- [1:314] op=41 i=817 w=14 D=1063 O=xpcall z=65
+    local p=(80);
+    (d[14])[65]="xpcall";
+-- [1:315] op=188 i=15 w=149 D=0 f=table: 0x0000021c947ab180
+    K=table: 0x0000021c947ab180;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:316] op=160 i=15 w=14 D=147 O=150
+    d[14][150]=d[15];
+-- [1:317] op=41 i=401 w=14 D=521 O=number z=86
+    local p=(80);
+    (d[14])[86]="number";
+-- [1:318] op=41 i=1208 w=14 D=1142 O=:(%d+)[:\r
+] z=82
+    local p=(80);
+    (d[14])[82]=":(%d+)[:\r
+]";
+-- [1:319] op=94 i=0 w=0 D=618
+    G=618;
+-- [1:320] op=94 i=0 w=0 D=572
+    G=572;
+-- [1:321] op=188 i=15 w=27 D=0 f=table: 0x0000021c93c95740
+    K=table: 0x0000021c93c95740;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:322] op=160 i=15 w=14 D=665 O=143
+    d[14][143]=d[15];
+-- [1:323] op=188 i=15 w=60 D=0 f=table: 0x0000021c93f71240
+    K=table: 0x0000021c93f71240;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:324] op=94 i=0 w=0 D=364
+    G=364;
+-- [1:325] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:326] op=136 i=0 w=36 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[36]=(w);
+    end
+-- [1:327] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:328] op=41 i=540 w=36 D=46 O=0 z=450
+    local p=(80);
+    (d[36])[450]=0;
+-- [1:329] op=41 i=540 w=31 D=91 O=94 z=450
+    local p=(80);
+    (d[31])[450]=94;
+-- [1:330] op=41 i=1167 w=35 D=923 O=508 z=189
+    local p=(80);
+    (d[35])[189]=508;
+-- [1:331] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:332] op=94 i=0 w=0 D=508
+    G=508;
+-- [1:333] op=160 i=15 w=14 D=1172 O=208
+    d[14][208]=d[15];
+-- [1:334] op=41 i=876 w=14 D=1016 O=running z=25
+    local p=(80);
+    (d[14])[25]="running";
+-- [1:335] op=188 i=15 w=15 D=0 f=table: 0x0000021c9412bd40
+    K=table: 0x0000021c9412bd40;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:336] op=160 i=15 w=14 D=507 O=206
+    d[14][206]=d[15];
+-- [1:337] op=188 i=15 w=77 D=0 f=table: 0x0000021c940833a0
+    K=table: 0x0000021c940833a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:338] op=160 i=15 w=14 D=1217 O=154
+    d[14][154]=d[15];
+-- [1:339] op=95 i=1063 w=15 D=0 z=xpcall
+    d[15]=(Z["xpcall"]);
+-- [1:340] op=94 i=0 w=0 D=58
+    G=58;
+-- [1:341] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:342] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:343] op=41 i=282 w=31 D=270 O=188 z=315
+    local p=(80);
+    (d[31])[315]=188;
+-- [1:344] op=41 i=1151 w=35 D=707 O=411 z=313
+    local p=(80);
+    (d[35])[313]=411;
+-- [1:345] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:346] op=94 i=0 w=0 D=411
+    G=411;
+-- [1:347] op=160 i=15 w=14 D=836 O=19
+    d[14][19]=d[15];
+-- [1:348] op=115 i=132 w=14 D=75
+    K=(d);q=14;
+-- [1:349] op=84 i=134 w=2 D=93
+    K=(K[q]);
+    end
+-- [1:350] op=130 i=436 w=40 D=856 O=typeof z=74
+    q=(74);n="typeof";K[q]=n;
+-- [1:351] op=188 i=15 w=113 D=0 f=table: 0x0000021c94460630
+    K=table: 0x0000021c94460630;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:352] op=94 i=0 w=0 D=194
+    G=194;
+-- [1:353] op=160 i=15 w=14 D=432 O=104
+    d[14][104]=d[15];
+-- [1:354] op=95 i=878 w=15 D=0 z=string
+    d[15]=(Z["string"]);
+-- [1:355] op=160 i=15 w=14 D=95 O=7
+    d[14][7]=d[15];
+-- [1:356] op=94 i=0 w=0 D=193
+    G=193;
+-- [1:357] op=188 i=15 w=10 D=0 f=table: 0x0000021c93e515a0
+    K=table: 0x0000021c93e515a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:358] op=160 i=15 w=14 D=381 O=185
+    d[14][185]=d[15];
+-- [1:359] op=188 i=15 w=28 D=0 f=table: 0x0000021c93cabc50
+    K=table: 0x0000021c93cabc50;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:360] op=94 i=0 w=0 D=418
+    G=418;
+-- [1:361] op=41 i=497 w=14 D=471 O=tonumber z=61
+    local p=(80);
+    (d[14])[61]="tonumber";
+-- [1:362] op=188 i=15 w=32 D=0 f=table: 0x0000021c93cd6dd0
+    K=table: 0x0000021c93cd6dd0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:363] op=160 i=15 w=14 D=1188 O=216
+    d[14][216]=d[15];
+-- [1:364] op=94 i=0 w=0 D=308
+    G=308;
+-- [1:365] op=160 i=15 w=14 D=1186 O=130
+    d[14][130]=d[15];
+-- [1:366] op=188 i=15 w=14 D=0 f=table: 0x0000021c940fb800
+    K=table: 0x0000021c940fb800;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:367] op=160 i=15 w=14 D=637 O=178
+    d[14][178]=d[15];
+-- [1:368] op=188 i=15 w=109 D=0 f=table: 0x0000021c9441fbd0
+    K=table: 0x0000021c9441fbd0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:369] op=160 i=15 w=14 D=468 O=157
+    d[14][157]=d[15];
+-- [1:370] op=188 i=15 w=119 D=0 f=table: 0x0000021c944ed350
+    K=table: 0x0000021c944ed350;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:371] op=160 i=15 w=14 D=162 O=199
+    d[14][199]=d[15];
+-- [1:372] op=94 i=0 w=0 D=130
+    G=130;
+-- [1:373] op=17 i=0 w=729 D=25 f=259
+    (d)[25]=259;
+    end
+-- [1:374] op=94 i=0 w=0 D=560
+    G=560;
+-- [1:375] op=41 i=265 w=14 D=556 O=table z=42
+    local p=(80);
+    (d[14])[42]="table";
+-- [1:376] op=41 i=1191 w=14 D=463 O=getfenv z=72
+    local p=(80);
+    (d[14])[72]="getfenv";
+-- [1:377] op=188 i=15 w=68 D=0 f=table: 0x0000021c93fea270
+    K=table: 0x0000021c93fea270;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:378] op=160 i=15 w=14 D=671 O=218
+    d[14][218]=d[15];
+-- [1:379] op=95 i=150 w=15 D=0 z=rawset
+    d[15]=(Z["rawset"]);
+-- [1:380] op=160 i=15 w=14 D=481 O=31
+    d[14][31]=d[15];
+-- [1:381] op=41 i=52 w=14 D=1069 O=true z=15
+    local p=(80);
+    (d[14])[15]="true";
+-- [1:382] op=94 i=0 w=0 D=576
+    G=576;
+-- [1:383] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:384] op=41 i=831 w=35 D=46 O=0 z=434
+    local p=(80);
+    (d[35])[434]=0;
+-- [1:385] op=41 i=1039 w=35 D=830 O=406 z=549
+    local p=(80);
+    (d[35])[549]=406;
+-- [1:386] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:387] op=94 i=0 w=0 D=406
+    G=406;
+-- [1:388] op=41 i=1062 w=14 D=731 O=pack z=60
+    local p=(80);
+    (d[14])[60]="pack";
+-- [1:389] op=41 i=379 w=14 D=806 O==[C] z=57
+    local p=(80);
+    (d[14])[57]="=[C]";
+-- [1:390] op=188 i=15 w=53 D=0 f=table: 0x0000021c93ef6250
+    K=table: 0x0000021c93ef6250;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:391] op=94 i=0 w=0 D=277
+    G=277;
+-- [1:392] op=188 i=15 w=137 D=0 f=table: 0x0000021c946d1d00
+    K=table: 0x0000021c946d1d00;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:393] op=160 i=15 w=14 D=1000 O=187
+    d[14][187]=d[15];
+-- [1:394] op=95 i=471 w=15 D=0 z=tonumber
+    d[15]=(Z["tonumber"]);
+-- [1:395] op=160 i=15 w=14 D=641 O=41
+    d[14][41]=d[15];
+-- [1:396] op=94 i=0 w=0 D=548
+    G=548;
+-- [1:397] op=41 i=460 w=14 D=1137 O=byte z=11
+    local p=(80);
+    (d[14])[11]="byte";
+-- [1:398] op=95 i=916 w=15 D=0 z=type
+    d[15]=(Z["type"]);
+-- [1:399] op=160 i=15 w=14 D=30 O=23
+    d[14][23]=d[15];
+-- [1:400] op=188 i=15 w=88 D=0 f=table: 0x0000021c94257420
+    K=table: 0x0000021c94257420;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:401] op=94 i=0 w=0 D=90
+    G=90;
+-- [1:402] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:403] op=174 i=1027 w=15 D=15 z=countlz
+    d[15]=d[15]["countlz"];
+    end
+-- [1:404] op=160 i=15 w=14 D=968 O=83
+    d[14][83]=d[15];
+-- [1:405] op=41 i=349 w=14 D=690 O=create z=26
+    local p=(80);
+    (d[14])[26]="create";
+-- [1:406] op=94 i=0 w=0 D=100
+    G=100;
+-- [1:407] op=41 i=619 w=14 D=877 O=unpack z=24
+    local p=(80);
+    (d[14])[24]="unpack";
+-- [1:408] op=188 i=15 w=136 D=0 f=table: 0x0000021c946d48b0
+    K=table: 0x0000021c946d48b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:409] op=160 i=15 w=14 D=765 O=117
+    d[14][117]=d[15];
+-- [1:410] op=41 i=1009 w=14 D=624 O=lastlinedefined z=48
+    local p=(80);
+    (d[14])[48]="lastlinedefined";
+-- [1:411] op=94 i=0 w=0 D=141
+    G=141;
+-- [1:412] op=160 i=15 w=14 D=825 O=169
+    d[14][169]=d[15];
+-- [1:413] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:414] op=174 i=815 w=15 D=15 z=bnot
+    d[15]=d[15]["bnot"];
+    end
+-- [1:415] op=160 i=15 w=14 D=984 O=84
+    d[14][84]=d[15];
+-- [1:416] op=188 i=15 w=134 D=0 f=table: 0x0000021c9468b6c0
+    K=table: 0x0000021c9468b6c0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:417] op=160 i=15 w=14 D=700 O=164
+    d[14][164]=d[15];
+-- [1:418] op=94 i=0 w=0 D=313
+    G=313;
+-- [1:419] op=160 i=15 w=14 D=504 O=116
+    d[14][116]=d[15];
+-- [1:420] op=188 i=15 w=87 D=0 f=table: 0x0000021c94215d00
+    K=table: 0x0000021c94215d00;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:421] op=160 i=15 w=14 D=514 O=122
+    d[14][122]=d[15];
+-- [1:422] op=188 i=15 w=122 D=0 f=table: 0x0000021c944feca0
+    K=table: 0x0000021c944feca0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:423] op=160 i=15 w=14 D=388 O=221
+    d[14][221]=d[15];
+-- [1:424] op=188 i=15 w=63 D=0 f=table: 0x0000021c93f929e0
+    K=table: 0x0000021c93f929e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:425] op=94 i=0 w=0 D=107
+    G=107;
+-- [1:426] op=160 i=15 w=14 D=332 O=184
+    d[14][184]=d[15];
+-- [1:427] op=188 i=15 w=104 D=0 f=table: 0x0000021c943e9af0
+    K=table: 0x0000021c943e9af0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:428] op=160 i=15 w=14 D=589 O=151
+    d[14][151]=d[15];
+-- [1:429] op=188 i=15 w=7 D=0 f=table: 0x0000021c93e3c2e0
+    K=table: 0x0000021c93e3c2e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:430] op=160 i=15 w=14 D=541 O=200
+    d[14][200]=d[15];
+-- [1:431] op=94 i=0 w=0 D=396
+    G=396;
+-- [1:432] op=94 i=0 w=0 D=164
+    G=164;
+-- [1:433] op=160 i=15 w=14 D=592 O=101
+    d[14][101]=d[15];
+-- [1:434] op=188 i=15 w=135 D=0 f=table: 0x0000021c946b1f10
+    K=table: 0x0000021c946b1f10;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:435] op=161 i=140 w=5 D=6
+    K=d;
+-- [1:436] op=134 i=201 w=14 D=1173 O=175
+    return;
+    if A[35]==A[26] then
+    else
+    q=14;K=(K[q]);q=175;
+    end
+-- [1:437] op=137 i=15 w=124 D=193
+    return;
+    n=(d);g=15;
+-- [1:438] op=6 i=194 w=176 D=227
+    local p=(114);
+    n=n[g];(K)[q]=n;
+-- [1:439] op=41 i=669 w=14 D=533 O=close z=32
+    local p=(80);
+    (d[14])[32]="close";
+-- [1:440] op=188 i=15 w=162 D=0 f=table: 0x0000021c9488dd80
+    K=table: 0x0000021c9488dd80;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:441] op=160 i=15 w=14 D=903 O=207
+    d[14][207]=d[15];
+-- [1:442] op=188 i=15 w=144 D=0 f=table: 0x0000021c94726f20
+    K=table: 0x0000021c94726f20;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:443] op=94 i=0 w=0 D=480
+    G=480;
+-- [1:444] op=188 i=15 w=8 D=0 f=table: 0x0000021c93e398b0
+    K=table: 0x0000021c93e398b0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:445] op=160 i=15 w=14 D=505 O=215
+    d[14][215]=d[15];
+-- [1:446] op=188 i=15 w=16 D=0 f=table: 0x0000021c94141ac0
+    K=table: 0x0000021c94141ac0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:447] op=160 i=15 w=14 D=1159 O=204
+    d[14][204]=d[15];
+-- [1:448] op=41 i=925 w=14 D=829 O=linedefined z=55
+    local p=(80);
+    (d[14])[55]="linedefined";
+-- [1:449] op=188 i=15 w=36 D=0 f=table: 0x0000021c93cf3da0
+    K=table: 0x0000021c93cf3da0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:450] op=94 i=0 w=0 D=231
+    G=231;
+-- [1:451] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:452] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:453] op=41 i=699 w=31 D=48 O=95 z=402
+    local p=(80);
+    (d[31])[402]=95;
+-- [1:454] op=41 i=699 w=35 D=46 O=0 z=402
+    local p=(80);
+    (d[35])[402]=0;
+-- [1:455] op=41 i=627 w=35 D=214 O=164 z=432
+    local p=(80);
+    (d[35])[432]=164;
+-- [1:456] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:457] op=94 i=0 w=0 D=164
+    G=164;
+-- [1:458] op=188 i=15 w=40 D=0 f=table: 0x0000021c93d136e0
+    K=table: 0x0000021c93d136e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:459] op=160 i=15 w=14 D=849 O=183
+    d[14][183]=d[15];
+-- [1:460] op=188 i=15 w=33 D=0 f=table: 0x0000021c93cd5840
+    K=table: 0x0000021c93cd5840;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:461] op=160 i=15 w=14 D=634 O=158
+    d[14][158]=d[15];
+-- [1:462] op=41 i=602 w=14 D=527 O=traceback z=79
+    local p=(80);
+    (d[14])[79]="traceback";
+-- [1:463] op=188 i=15 w=112 D=0 f=table: 0x0000021c94462ca0
+    K=table: 0x0000021c94462ca0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:464] op=160 i=15 w=14 D=473 O=102
+    d[14][102]=d[15];
+-- [1:465] op=94 i=0 w=0 D=207
+    G=207;
+-- [1:466] op=160 i=15 w=14 D=212 O=97
+    d[14][97]=d[15];
+-- [1:467] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:468] op=160 i=15 w=14 D=904 O=87
+    d[14][87]=d[15];
+-- [1:469] op=94 i=0 w=0 D=214
+    G=214;
+-- [1:470] op=160 i=15 w=14 D=259 O=217
+    d[14][217]=d[15];
+-- [1:471] op=188 i=15 w=148 D=0 f=table: 0x0000021c9478a3e0
+    K=table: 0x0000021c9478a3e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:472] op=160 i=15 w=14 D=758 O=192
+    d[14][192]=d[15];
+-- [1:473] op=94 i=0 w=0 D=520
+    G=520;
+-- [1:474] op=160 i=15 w=14 D=795 O=34
+    d[14][34]=d[15];
+-- [1:475] op=188 i=15 w=46 D=0 f=table: 0x0000021c93dc0aa0
+    K=table: 0x0000021c93dc0aa0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:476] op=160 i=15 w=14 D=205 O=115
+    d[14][115]=d[15];
+-- [1:477] op=188 i=15 w=114 D=0 f=table: 0x0000021c9445ff40
+    K=table: 0x0000021c9445ff40;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:478] op=160 i=15 w=14 D=532 O=159
+    d[14][159]=d[15];
+-- [1:479] op=188 i=15 w=64 D=0 f=table: 0x0000021c93fbb860
+    K=table: 0x0000021c93fbb860;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:480] op=94 i=0 w=0 D=465
+    G=465;
+-- [1:481] op=160 i=15 w=14 D=682 O=180
+    d[14][180]=d[15];
+-- [1:482] op=188 i=15 w=160 D=0 f=table: 0x0000021c94885850
+    K=table: 0x0000021c94885850;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:483] op=160 i=15 w=14 D=327 O=179
+    d[14][179]=d[15];
+-- [1:484] op=188 i=15 w=140 D=0 f=table: 0x0000021c947071e0
+    K=table: 0x0000021c947071e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:485] op=160 i=15 w=14 D=828 O=197
+    d[14][197]=d[15];
+-- [1:486] op=94 i=0 w=0 D=114
+    G=114;
+-- [1:487] op=188 i=15 w=21 D=0 f=table: 0x0000021c9417b610
+    K=table: 0x0000021c9417b610;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:488] op=160 i=15 w=14 D=1128 O=123
+    d[14][123]=d[15];
+-- [1:489] op=41 i=1216 w=14 D=837 O=assert z=66
+    local p=(80);
+    (d[14])[66]="assert";
+-- [1:490] op=94 i=0 w=0 D=118
+    G=118;
+-- [1:491] op=41 i=202 w=14 D=1002 O=nparams z=52
+    local p=(80);
+    (d[14])[52]="nparams";
+-- [1:492] op=188 i=15 w=125 D=0 f=table: 0x0000021c9456e8f0
+    K=table: 0x0000021c9456e8f0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:493] op=160 i=15 w=14 D=905 O=211
+    d[14][211]=d[15];
+-- [1:494] op=41 i=207 w=14 D=867 O=next z=71
+    local p=(80);
+    (d[14])[71]="next";
+-- [1:495] op=188 i=15 w=43 D=0 f=table: 0x0000021c93d68f10
+    K=table: 0x0000021c93d68f10;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:496] op=94 i=0 w=0 D=36
+    G=36;
+-- [1:497] op=188 i=15 w=51 D=0 f=table: 0x0000021c93ef9850
+    K=table: 0x0000021c93ef9850;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:498] op=160 i=15 w=14 D=386 O=176
+    d[14][176]=d[15];
+-- [1:499] op=41 i=345 w=14 D=566 O=wrap z=39
+    local p=(80);
+    (d[14])[39]="wrap";
+-- [1:500] op=188 i=15 w=11 D=0 f=table: 0x0000021c93e81ae0
+    K=table: 0x0000021c93e81ae0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:501] op=160 i=15 w=14 D=1221 O=196
+    d[14][196]=d[15];
+-- [1:502] op=94 i=0 w=0 D=281
+    G=281;
+-- [1:503] op=94 i=0 w=0 D=189
+    G=189;
+-- [1:504] op=41 i=844 w=14 D=164 O=__index z=90
+    local p=(80);
+    (d[14])[90]="__index";
+-- [1:505] op=41 i=344 w=14 D=100 O= z=59
+    local p=(80);
+    (d[14])[59]="";
+-- [1:506] op=188 i=15 w=94 D=0 f=table: 0x0000021c942df760
+    K=table: 0x0000021c942df760;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:507] op=160 i=15 w=14 D=375 O=127
+    d[14][127]=d[15];
+-- [1:508] op=94 i=0 w=0 D=374
+    G=374;
+-- [1:509] op=94 i=0 w=0 D=629
+    G=629;
+-- [1:510] op=94 i=0 w=0 D=346
+    G=346;
+-- [1:511] op=160 i=15 w=14 D=741 O=88
+    d[14][88]=d[15];
+-- [1:512] op=41 i=50 w=14 D=518 O=yield z=28
+    local p=(80);
+    (d[14])[28]="yield";
+-- [1:513] op=188 i=15 w=103 D=0 f=table: 0x0000021c943eaae0
+    K=table: 0x0000021c943eaae0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:514] op=94 i=0 w=0 D=70
+    G=70;
+-- [1:515] op=188 i=15 w=146 D=0 f=table: 0x0000021c94724ac0
+    K=table: 0x0000021c94724ac0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:516] op=160 i=15 w=14 D=492 O=107
+    d[14][107]=d[15];
+-- [1:517] op=188 i=15 w=157 D=0 f=table: 0x0000021c94855af0
+    K=table: 0x0000021c94855af0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:518] op=160 i=15 w=14 D=871 O=209
+    d[14][209]=d[15];
+-- [1:519] op=188 i=15 w=142 D=0 f=table: 0x0000021c9472f330
+    K=table: 0x0000021c9472f330;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:520] op=94 i=0 w=0 D=432
+    G=432;
+-- [1:521] op=188 i=15 w=158 D=0 f=table: 0x0000021c948555e0
+    K=table: 0x0000021c948555e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:522] op=161 i=67 w=36 D=246
+    K=d;
+-- [1:523] op=134 i=43 w=14 D=1049 O=125
+    return;
+    if A[35]==A[26] then
+    else
+    q=14;K=(K[q]);q=125;
+    end
+-- [1:524] op=137 i=15 w=133 D=183
+    return;
+    n=(d);g=15;
+-- [1:525] op=6 i=165 w=99 D=5
+    local p=(114);
+    n=n[g];(K)[q]=n;
+-- [1:526] op=188 i=15 w=147 D=0 f=table: 0x0000021c9478b850
+    K=table: 0x0000021c9478b850;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:527] op=160 i=15 w=14 D=1021 O=134
+    d[14][134]=d[15];
+-- [1:528] op=94 i=0 w=0 D=391
+    G=391;
+-- [1:529] op=174 i=1193 w=15 D=15 z=countrz
+    d[15]=d[15]["countrz"];
+    end
+-- [1:530] op=160 i=15 w=14 D=767 O=89
+    d[14][89]=d[15];
+-- [1:531] op=188 i=15 w=5 D=0 f=table: 0x0000021c93e275a0
+    K=table: 0x0000021c93e275a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:532] op=94 i=0 w=0 D=638
+    G=638;
+-- [1:533] op=188 i=15 w=99 D=0 f=table: 0x0000021c943d77e0
+    K=table: 0x0000021c943d77e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:534] op=160 i=15 w=14 D=489 O=214
+    d[14][214]=d[15];
+-- [1:535] op=41 i=192 w=14 D=1050 O=concat z=16
+    local p=(80);
+    (d[14])[16]="concat";
+-- [1:536] op=188 i=15 w=55 D=0 f=table: 0x0000021c93f344a0
+    K=table: 0x0000021c93f344a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:537] op=94 i=0 w=0 D=1
+    G=1;
+-- [1:538] op=33 i=18 w=0 D=0
+    local p=(80);
+    d[18]=(t);
+-- [1:539] op=25 i=22 w=0 D=0
+    local p=(80);
+    (d)[22]=(D);
+-- [1:540] op=124 i=14 w=0 D=25
+    (d)[25]=A[4][14];
+    end
+    end
+-- [1:541] op=157 i=613 w=26 D=1022 O=410 z=0
+    d[26]=(0+410);
+-- [1:542] op=117 i=0 w=0 D=25
+    K=25;d[K]=d[K](d[K+1.0]);T=K;
+-- [1:543] op=140 i=25 w=476 D=25 f=21455
+    (d)[25]=(21455+d[25]);
+-- [1:544] op=10 i=25 w=365 D=25 f=-21290
+    local p=(114);
+    (d)[25]=(d[25]+-21290);
+-- [1:545] op=160 i=25 w=18 D=1197 O=449
+    d[18][449]=d[25];
+-- [1:546] op=41 i=266 w=22 D=998 O=629 z=509
+    local p=(80);
+    (d[22])[509]=629;
+-- [1:547] op=152 i=0 w=17 D=29
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=17,29,1 do d[H]=(nil);end;
+-- [1:548] op=94 i=0 w=0 D=629
+    G=629;
+-- [1:549] op=94 i=0 w=0 D=406
+    G=406;
+-- [1:550] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:551] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:552] op=41 i=41 w=31 D=189 O=132 z=53
+    local p=(80);
+    (d[31])[53]=132;
+-- [1:553] op=41 i=484 w=35 D=34 O=52 z=231
+    local p=(80);
+    (d[35])[231]=52;
+-- [1:554] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:555] op=94 i=0 w=0 D=52
+    G=52;
+-- [1:556] op=188 i=15 w=34 D=0 f=table: 0x0000021c93ce1c90
+    K=table: 0x0000021c93ce1c90;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:557] op=160 i=15 w=14 D=693 O=191
+    d[14][191]=d[15];
+-- [1:558] op=95 i=1085 w=15 D=0 z=bit32
+    d[15]=(Z["bit32"]);
+-- [1:559] op=174 i=784 w=15 D=15 z=bxor
+    d[15]=d[15]["bxor"];
+    end
+-- [1:560] op=94 i=0 w=0 D=510
+    G=510;
+-- [1:561] op=140 i=25 w=1156 D=25 f=19953
+    (d)[25]=(19953+d[25]);
+-- [1:562] op=10 i=25 w=753 D=25 f=-20024
+    local p=(114);
+    (d)[25]=(d[25]+-20024);
+-- [1:563] op=160 i=25 w=18 D=534 O=191
+    d[18][191]=d[25];
+-- [1:564] op=41 i=760 w=22 D=1167 O=189 z=503
+    local p=(80);
+    (d[22])[503]=189;
+-- [1:565] op=152 i=0 w=17 D=29
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=17,29,1 do d[H]=(nil);end;
+-- [1:566] op=94 i=0 w=0 D=189
+    G=189;
+-- [1:567] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:568] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:569] op=41 i=1141 w=31 D=895 O=160 z=195
+    local p=(80);
+    (d[31])[195]=160;
+-- [1:570] op=41 i=585 w=35 D=735 O=346 z=510
+    local p=(80);
+    (d[35])[510]=346;
+-- [1:571] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:572] op=94 i=0 w=0 D=346
+    G=346;
+-- [1:573] op=188 i=15 w=90 D=0 f=table: 0x0000021c9425a800
+    K=table: 0x0000021c9425a800;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:574] op=160 i=15 w=14 D=385 O=137
+    d[14][137]=d[15];
+-- [1:575] op=41 i=612 w=14 D=1066 O= --[[%s]] return setfenv(function(...) return %s(...) end, setmetatable({ ["%s"] = ... }, { __index = getfenv((...)) }))  z=91
+    local p=(80);
+    (d[14])[91]=" --[[%s]] return setfenv(function(...) return %s(...) end, setmetatable({ ["%s"] = ... }, { __index = getfenv((...)) })) ";
+-- [1:576] op=94 i=0 w=0 D=431
+    G=431;
+-- [1:577] op=188 i=15 w=73 D=0 f=table: 0x0000021c94049160
+    K=table: 0x0000021c94049160;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:578] op=160 i=15 w=14 D=378 O=156
+    d[14][156]=d[15];
+-- [1:579] op=188 i=15 w=100 D=0 f=table: 0x0000021c943d7390
+    K=table: 0x0000021c943d7390;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:580] op=160 i=15 w=14 D=882 O=141
+    d[14][141]=d[15];
+-- [1:581] op=94 i=0 w=0 D=245
+    G=245;
+-- [1:582] op=25 i=35 w=0 D=0
+    local p=(80);
+    (d)[35]=(D);
+-- [1:583] op=33 i=31 w=0 D=0
+    local p=(80);
+    d[31]=(t);
+-- [1:584] op=41 i=1077 w=31 D=270 O=188 z=390
+    local p=(80);
+    (d[31])[390]=188;
+-- [1:585] op=41 i=1153 w=35 D=459 O=572 z=320
+    local p=(80);
+    (d[35])[320]=572;
+-- [1:586] op=152 i=0 w=30 D=37
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=30,37,1 do d[H]=(nil);end;
+-- [1:587] op=94 i=0 w=0 D=572
+    G=572;
+-- [1:588] op=95 i=440 w=15 D=0 z=pcall
+    d[15]=(Z["pcall"]);
+-- [1:589] op=160 i=15 w=14 D=827 O=40
+    d[14][40]=d[15];
+-- [1:590] op=188 i=15 w=118 D=0 f=table: 0x0000021c944dc590
+    K=table: 0x0000021c944dc590;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:591] op=160 i=15 w=14 D=995 O=166
+    d[14][166]=d[15];
+-- [1:592] op=188 i=15 w=59 D=0 f=table: 0x0000021c93f736d0
+    K=table: 0x0000021c93f736d0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:593] op=160 i=15 w=14 D=1187 O=139
+    d[14][139]=d[15];
+-- [1:594] op=188 i=15 w=128 D=0 f=table: 0x0000021c945c1ff0
+    K=table: 0x0000021c945c1ff0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:595] op=160 i=15 w=14 D=628 O=100
+    d[14][100]=d[15];
+-- [1:596] op=188 i=15 w=110 D=0 f=table: 0x0000021c9441f720
+    K=table: 0x0000021c9441f720;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:597] op=160 i=15 w=14 D=613 O=0
+    d[14][0]=d[15];
+-- [1:598] op=41 i=740 w=14 D=617 O=match z=75
+    local p=(80);
+    (d[14])[75]="match";
+-- [1:599] op=41 i=1200 w=14 D=300 O=Luraph z=93
+    local p=(80);
+    (d[14])[93]="Luraph";
+-- [1:600] op=41 i=850 w=14 D=583 O=select z=67
+    local p=(80);
+    (d[14])[67]="select";
+-- [1:601] op=188 i=15 w=85 D=0 f=table: 0x0000021c94222360
+    K=table: 0x0000021c94222360;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:602] op=160 i=15 w=14 D=406 O=163
+    d[14][163]=d[15];
+-- [1:603] op=95 i=363 w=15 D=0 z=rawget
+    d[15]=(Z["rawget"]);
+-- [1:604] op=94 i=0 w=0 D=473
+    G=473;
+-- [1:605] op=25 i=22 w=0 D=0
+    local p=(80);
+    (d)[22]=(D);
+-- [1:606] op=33 i=18 w=0 D=0
+    local p=(80);
+    d[18]=(t);
+-- [1:607] op=193 i=25 w=407 D=1105 f=354 O=295
+    d[25]=(295-354);
+    end
+-- [1:608] op=37 i=323 w=25 D=25 z=311
+    local p=(80);
+    d[25]=d[25]>311;
+-- [1:609] op=15 i=219 w=25 D=0
+    G=219;
+-- [1:610] op=94 i=0 w=0 D=241
+    G=241;
+-- [1:611] op=188 i=15 w=1 D=0 f=table: 0x0000021c91e3a770
+    K=table: 0x0000021c91e3a770;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:612] op=160 i=15 w=14 D=1122 O=112
+    d[14][112]=d[15];
+-- [1:613] op=188 i=15 w=108 D=0 f=table: 0x0000021c943ec5d0
+    K=table: 0x0000021c943ec5d0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:614] op=94 i=0 w=0 D=352
+    G=352;
+-- [1:615] op=160 i=15 w=14 D=1171 O=212
+    d[14][212]=d[15];
+-- [1:616] op=188 i=15 w=91 D=0 f=table: 0x0000021c94259570
+    K=table: 0x0000021c94259570;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:617] op=160 i=15 w=14 D=813 O=124
+    d[14][124]=d[15];
+-- [1:618] op=94 i=0 w=0 D=502
+    G=502;
+-- [1:619] op=188 i=15 w=152 D=0 f=table: 0x0000021c947e0200
+    K=table: 0x0000021c947e0200;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:620] op=160 i=15 w=14 D=972 O=106
+    d[14][106]=d[15];
+-- [1:621] op=188 i=15 w=129 D=0 f=table: 0x0000021c945c1ae0
+    K=table: 0x0000021c945c1ae0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:622] op=160 i=15 w=14 D=357 O=167
+    d[14][167]=d[15];
+-- [1:623] op=94 i=0 w=0 D=221
+    G=221;
+-- [1:624] op=160 i=15 w=14 D=1138 O=76
+    d[14][76]=d[15];
+-- [1:625] op=95 i=837 w=15 D=0 z=assert
+    d[15]=(Z["assert"]);
+-- [1:626] op=160 i=15 w=14 D=776 O=8
+    d[14][8]=d[15];
+-- [1:627] op=41 i=130 w=14 D=975 O=Your Lua environment does not support load or loadstring, therefore you are unable to use Luraph's 'LPH_NO_UPVALUES' macro. z=94
+    local p=(80);
+    (d[14])[94]="Your Lua environment does not support load or loadstring, therefore you are unable to use Luraph's 'LPH_NO_UPVALUES' macro.";
+-- [1:628] op=41 i=470 w=14 D=1176 O=short_src z=50
+    local p=(80);
+    (d[14])[50]="short_src";
+-- [1:629] op=94 i=0 w=0 D=30
+    G=30;
+-- [1:630] op=160 i=15 w=14 D=203 O=136
+    d[14][136]=d[15];
+-- [1:631] op=41 i=677 w=14 D=363 O=rawget z=64
+    local p=(80);
+    (d[14])[64]="rawget";
+-- [1:632] op=188 i=15 w=38 D=0 f=table: 0x0000021c93d15840
+    K=table: 0x0000021c93d15840;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:633] op=160 i=15 w=14 D=636 O=132
+    d[14][132]=d[15];
+-- [1:634] op=94 i=0 w=0 D=443
+    G=443;
+-- [1:635] op=188 i=15 w=35 D=0 f=table: 0x0000021c93ce03a0
+    K=table: 0x0000021c93ce03a0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:636] op=160 i=15 w=14 D=616 O=194
+    d[14][194]=d[15];
+-- [1:637] op=188 i=15 w=82 D=0 f=table: 0x0000021c9420b680
+    K=table: 0x0000021c9420b680;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:638] op=94 i=0 w=0 D=202
+    G=202;
+-- [1:639] op=160 i=15 w=14 D=962 O=148
+    d[14][148]=d[15];
+-- [1:640] op=41 i=221 w=14 D=1211 O=error z=68
+    local p=(80);
+    (d[14])[68]="error";
+-- [1:641] op=188 i=15 w=69 D=0 f=table: 0x0000021c940022e0
+    K=table: 0x0000021c940022e0;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:642] op=160 i=15 w=14 D=1178 O=113
+    d[14][113]=d[15];
+-- [1:643] op=188 i=15 w=123 D=0 f=table: 0x0000021c94516e90
+    K=table: 0x0000021c94516e90;q=K[10];n=#q;g=(n>0.0 and{});b=A[49](K,g);(A[12])(b,Z);(d)[15]=b;
+    for v=1.0,n do K=(q[v]);b=(K[1]);o=K[3];
+    if b==0.0 then if not I then I={};end;
+    e=(I[o]);
+    if not(not e)then else e=({[3]=o,[1]=d});(I)[o]=e;end;
+    if A[34]~=A[26]then else while-70<=J do return;end;
+    end;
+    (g)[v-1.0]=e;else if b~=1.0 then g[v-1.0]=(j[o]);else(g)[v-1.0]=(d[o]);end;
+    end;
+    end;
+    end
+    end
+    end
+-- [1:644] op=94 i=0 w=0 D=332
+    G=332;
+-- [1:645] op=94 i=0 w=0 D=572
+    G=572;
+===== chain 90 (7 slots)
+-- [90:1] op=94 i=0 w=0 D=2
+    G=2;
+-- [90:2] op=7 i=250 w=466 D=460
+    local p=(114);
+    if not(d[460]) then
+    else
+    G=466;
+    end
+-- [90:3] op=94 i=0 w=0 D=3
+    G=3;
+-- [90:4] op=97 i=0 w=0 D=3
+    K=({...});
+    for p=1.0,3,1 do d[p]=K[p];end;
+-- [90:5] op=149 i=2 w=3 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[3]=(d[2]);
+-- [90:6] op=149 i=3 w=4 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[4]=(d[3]);
+-- [90:7] op=78 i=0 w=4 D=0
+    if A[10]~=A[4] then
+    else
+    (A)[36],A[42]=M,142 or 240-120;
+    end
+    for p,y,s in I do if A[14]~=A[32]then else while M do return-102;end;
+    if M then(A)[44]=-128;X=(M);end;
+    end;
+    if p>=1.0 then y[1]=y;y[2]=d[p];(y)[3]=(2);I[p]=nil;end;
+    end;
+    return d[4];
+===== chain 65 (127 slots)
+-- [65:1] op=94 i=0 w=0 D=50
+    G=50;
+-- [65:2] op=17 i=0 w=32 D=3 f=10
+    (d)[3]=10;
+    end
+-- [65:3] op=149 i=3 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[3]);
+-- [65:4] op=78 i=0 w=8 D=0
+    if A[10]~=A[4] then
+    else
+    (A)[36],A[42]=M,142 or 240-120;
+    end
+    for p,y,s in I do if A[14]~=A[32]then else while M do return-102;end;
+    if M then(A)[44]=-128;X=(M);end;
+    end;
+    if p>=1.0 then y[1]=y;y[2]=d[p];(y)[3]=(2);I[p]=nil;end;
+    end;
+    return d[8];
+-- [65:5] op=33 i=12 w=0 D=0
+    local p=(80);
+    d[12]=(t);
+-- [65:6] op=25 i=16 w=0 D=0
+    local p=(80);
+    (d)[16]=(D);
+-- [65:7] op=124 i=15 w=0 D=19
+    (d)[19]=A[4][15];
+    end
+    end
+-- [65:8] op=178 i=20 w=589 D=143 f=151 O=51
+    (d)[20]=(151<51);
+    end
+-- [65:9] op=15 i=73 w=20 D=0
+    G=73;
+-- [65:10] op=94 i=0 w=0 D=123
+    G=123;
+-- [65:11] op=41 i=1215 w=4 D=1049 O=125 z=33
+    local p=(80);
+    (d[4])[33]=125;
+-- [65:12] op=94 i=0 w=0 D=102
+    G=102;
+-- [65:13] op=149 i=2 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[2]);
+-- [65:14] op=149 i=7 w=9 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[9]=(d[7]);
+-- [65:15] op=174 i=850 w=1 D=10 z=67
+    d[10]=d[1][67];
+    end
+-- [65:16] op=119 i=0 w=8 D=0
+    K=(8);(d[K])(d[K+1.0],d[K+2.0]);T=(K-1.0);
+-- [65:17] op=17 i=0 w=777 D=3 f=69
+    (d)[3]=69;
+    end
+-- [65:18] op=94 i=0 w=0 D=74
+    G=74;
+-- [65:19] op=94 i=0 w=0 D=82
+    G=82;
+-- [65:20] op=149 i=2 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[2]);
+-- [65:21] op=174 i=85 w=4 D=9 z=12
+    d[9]=d[4][12];
+    end
+-- [65:22] op=174 i=817 w=1 D=10 z=65
+    d[10]=d[1][65];
+    end
+-- [65:23] op=94 i=0 w=0 D=24
+    G=24;
+-- [65:24] op=51 i=454 w=112 D=237
+    K=(112);q=237;
+-- [65:25] op=119 i=0 w=8 D=0
+    K=(8);(d[K])(d[K+1.0],d[K+2.0]);T=(K-1.0);
+-- [65:26] op=149 i=2 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[2]);
+-- [65:27] op=149 i=6 w=9 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[9]=(d[6]);
+-- [65:28] op=174 i=1216 w=1 D=10 z=66
+    d[10]=d[1][66];
+    end
+-- [65:29] op=119 i=0 w=8 D=0
+    K=(8);(d[K])(d[K+1.0],d[K+2.0]);T=(K-1.0);
+-- [65:30] op=17 i=0 w=1175 D=3 f=96
+    (d)[3]=96;
+    end
+-- [65:31] op=94 i=0 w=0 D=100
+    G=100;
+-- [65:32] op=94 i=0 w=0 D=32
+    G=32;
+-- [65:33] op=124 i=10 w=0 D=20
+    (d)[20]=A[4][10];
+    end
+    end
+-- [65:34] op=150 i=179 w=200 D=21
+    K=(d);q=21;
+-- [65:35] op=28 i=244 w=743 D=114 f=Bj 
+    local p=(80);
+    n="Bj ";
+    ;K[q]=(n);
+-- [65:36] op=117 i=0 w=0 D=20
+    K=20;d[K]=d[K](d[K+1.0]);T=K;
+-- [65:37] op=94 i=0 w=0 D=47
+    G=47;
+-- [65:38] op=136 i=0 w=28 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[28]=(w);
+    end
+-- [65:39] op=25 i=27 w=0 D=0
+    local p=(80);
+    (d)[27]=(D);
+-- [65:40] op=33 i=23 w=0 D=0
+    local p=(80);
+    d[23]=(t);
+-- [65:41] op=41 i=5 w=28 D=120 O=20 z=9
+    local p=(80);
+    (d[28])[9]=20;
+-- [65:42] op=41 i=127 w=23 D=478 O=178 z=8
+    local p=(80);
+    (d[23])[8]=178;
+-- [65:43] op=41 i=90 w=27 D=82 O=10 z=83
+    local p=(80);
+    (d[27])[83]=10;
+-- [65:44] op=156 i=79 w=22 D=31
+    K=22;
+-- [65:45] op=87 i=75 w=15 D=29
+    q=29;
+    end
+-- [65:46] op=111 i=154 w=160 D=240
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [65:47] op=94 i=0 w=0 D=10
+    G=10;
+-- [65:48] op=94 i=0 w=0 D=109
+    G=109;
+-- [65:49] op=7 i=0 w=47 D=20
+    local p=(114);
+    if not(d[20]) then
+    else
+    G=47;
+    end
+-- [65:50] op=94 i=0 w=0 D=31
+    G=31;
+-- [65:51] op=97 i=0 w=0 D=7
+    K=({...});
+    for p=1.0,7,1 do d[p]=K[p];end;
+-- [65:52] op=149 i=2 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[2]);
+-- [65:53] op=149 i=5 w=9 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[9]=(d[5]);
+-- [65:54] op=174 i=677 w=1 D=10 z=64
+    d[10]=d[1][64];
+    end
+-- [65:55] op=119 i=0 w=8 D=0
+    K=(8);(d[K])(d[K+1.0],d[K+2.0]);T=(K-1.0);
+-- [65:56] op=160 i=0 w=4 D=1215 O=33
+    d[4][33]=d[0];
+-- [65:57] op=17 i=0 w=163 D=3 f=126
+    (d)[3]=126;
+    end
+-- [65:58] op=94 i=0 w=0 D=80
+    G=80;
+-- [65:59] op=136 i=0 w=28 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[28]=(w);
+    end
+-- [65:60] op=176 i=0 w=29 D=0
+    while A[35]do return J;end;
+    (d)[29]=i;
+    end
+    end
+-- [65:61] op=25 i=27 w=0 D=0
+    local p=(80);
+    (d)[27]=(D);
+-- [65:62] op=33 i=23 w=0 D=0
+    local p=(80);
+    d[23]=(t);
+-- [65:63] op=41 i=44 w=23 D=106 O=117 z=126
+    local p=(80);
+    (d[23])[126]=117;
+-- [65:64] op=41 i=44 w=29 D=46 O=0 z=126
+    local p=(80);
+    (d[29])[126]=0;
+-- [65:65] op=41 i=44 w=28 D=46 O=0 z=126
+    local p=(80);
+    (d[28])[126]=0;
+-- [65:66] op=41 i=1207 w=23 D=111 O=17 z=125
+    local p=(80);
+    (d[23])[125]=17;
+-- [65:67] op=41 i=1207 w=27 D=13 O=21 z=125
+    local p=(80);
+    (d[27])[125]=21;
+-- [65:68] op=41 i=45 w=27 D=53 O=121 z=73
+    local p=(80);
+    (d[27])[73]=121;
+-- [65:69] op=156 i=162 w=22 D=179
+    K=22;
+-- [65:70] op=87 i=194 w=66 D=29
+    q=29;
+    end
+-- [65:71] op=111 i=80 w=211 D=138
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [65:72] op=94 i=0 w=0 D=121
+    G=121;
+-- [65:73] op=94 i=0 w=0 D=121
+    G=121;
+-- [65:74] op=94 i=0 w=0 D=48
+    G=48;
+-- [65:75] op=94 i=0 w=0 D=80
+    G=80;
+-- [65:76] op=149 i=2 w=8 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[8]=(d[2]);
+-- [65:77] op=174 i=460 w=4 D=9 z=11
+    d[9]=d[4][11];
+    end
+-- [65:78] op=174 i=221 w=1 D=10 z=68
+    d[10]=d[1][68];
+    end
+-- [65:79] op=119 i=0 w=8 D=0
+    K=(8);(d[K])(d[K+1.0],d[K+2.0]);T=(K-1.0);
+-- [65:80] op=94 i=0 w=0 D=1
+    G=1;
+-- [65:81] op=38 i=72 w=18 D=3 f=69
+    local p=(80);
+    G=(72);
+-- [65:82] op=94 i=0 w=0 D=19
+    G=19;
+-- [65:83] op=94 i=0 w=0 D=10
+    G=10;
+-- [65:84] op=33 i=23 w=0 D=0
+    local p=(80);
+    d[23]=(t);
+-- [65:85] op=25 i=27 w=0 D=0
+    local p=(80);
+    (d)[27]=(D);
+-- [65:86] op=41 i=14 w=23 D=91 O=94 z=80
+    local p=(80);
+    (d[23])[80]=94;
+-- [65:87] op=41 i=7 w=27 D=94 O=75 z=102
+    local p=(80);
+    (d[27])[102]=75;
+-- [65:88] op=156 i=52 w=22 D=62
+    K=22;
+-- [65:89] op=87 i=200 w=112 D=29
+    q=29;
+    end
+-- [65:90] op=111 i=220 w=151 D=211
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [65:91] op=94 i=0 w=0 D=75
+    G=75;
+-- [65:92] op=176 i=0 w=29 D=0
+    while A[35]do return J;end;
+    (d)[29]=i;
+    end
+    end
+-- [65:93] op=25 i=27 w=0 D=0
+    local p=(80);
+    (d)[27]=(D);
+-- [65:94] op=41 i=10 w=27 D=120 O=20 z=49
+    local p=(80);
+    (d[27])[49]=20;
+-- [65:95] op=41 i=10 w=29 D=46 O=0 z=49
+    local p=(80);
+    (d[29])[49]=0;
+-- [65:96] op=41 i=39 w=27 D=76 O=48 z=74
+    local p=(80);
+    (d[27])[74]=48;
+-- [65:97] op=156 i=196 w=22 D=210
+    K=22;
+-- [65:98] op=87 i=84 w=87 D=29
+    q=29;
+    end
+-- [65:99] op=111 i=98 w=226 D=120
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [65:100] op=94 i=0 w=0 D=48
+    G=48;
+-- [65:101] op=94 i=0 w=0 D=80
+    G=80;
+-- [65:102] op=94 i=0 w=0 D=75
+    G=75;
+-- [65:103] op=94 i=0 w=0 D=75
+    G=75;
+-- [65:104] op=176 i=0 w=29 D=0
+    while A[35]do return J;end;
+    (d)[29]=i;
+    end
+    end
+-- [65:105] op=25 i=27 w=0 D=0
+    local p=(80);
+    (d)[27]=(D);
+-- [65:106] op=41 i=89 w=29 D=46 O=0 z=110
+    local p=(80);
+    (d[29])[110]=0;
+-- [65:107] op=41 i=76 w=27 D=22 O=109 z=48
+    local p=(80);
+    (d[27])[48]=109;
+-- [65:108] op=152 i=0 w=22 D=29
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=22,29,1 do d[H]=(nil);end;
+-- [65:109] op=94 i=0 w=0 D=109
+    G=109;
+-- [65:110] op=17 i=0 w=876 D=21 f=25
+    (d)[21]=25;
+    end
+-- [65:111] op=118 i=19 w=0 D=0
+    K=(19);d[K]=d[K](d[K+1.0],d[K+2.0]);T=K;
+-- [65:112] op=161 i=193 w=80 D=234
+    K=d;
+-- [65:113] op=87 i=77 w=150 D=19
+    q=19;
+    end
+-- [65:114] op=191 i=196 w=1115 D=45 f=-167754702
+    n=-167754702;
+    end
+-- [65:115] op=23 i=19 w=77 D=104
+    local p=(253);
+    g=(d);b=(19);g=g[b];
+-- [65:116] op=146 i=237 w=52 D=22
+    n+=g;K[q]=n;
+-- [65:117] op=10 i=19 w=773 D=19 f=-17339
+    local p=(114);
+    (d)[19]=(d[19]+-17339);
+-- [65:118] op=160 i=19 w=12 D=114 O=79
+    d[12][79]=d[19];
+-- [65:119] op=41 i=342 w=16 D=94 O=75 z=103
+    local p=(80);
+    (d[16])[103]=75;
+-- [65:120] op=152 i=0 w=11 D=21
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=11,21,1 do d[H]=(nil);end;
+-- [65:121] op=94 i=0 w=0 D=101
+    G=101;
+-- [65:122] op=80 i=3 w=12 D=51 O=96
+    if d[3]==96 then
+    else
+    G=12;
+    end
+-- [65:123] op=94 i=0 w=0 D=18
+    G=18;
+-- [65:124] op=124 i=10 w=0 D=20
+    (d)[20]=A[4][10];
+    end
+    end
+-- [65:125] op=17 i=0 w=728 D=21 f=f H> B<
+    (d)[21]="f H> B<";
+    end
+-- [65:126] op=117 i=0 w=0 D=20
+    K=20;d[K]=d[K](d[K+1.0]);T=K;
+-- [65:127] op=94 i=0 w=0 D=73
+    G=73;
+===== chain 73 (192 slots)
+-- [73:1] op=94 i=0 w=0 D=26
+    G=26;
+-- [73:2] op=73 i=24 w=6 D=19 O=70
+    G=24;
+-- [73:3] op=94 i=0 w=0 D=147
+    G=147;
+-- [73:4] op=33 i=38 w=0 D=0
+    local p=(80);
+    d[38]=(t);
+-- [73:5] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:6] op=41 i=69 w=38 D=45 O=73 z=2
+    local p=(80);
+    (d[38])[2]=73;
+-- [73:7] op=41 i=42 w=42 D=47 O=1 z=32
+    local p=(80);
+    (d[42])[32]=1;
+-- [73:8] op=156 i=93 w=37 D=202
+    K=37;
+-- [73:9] op=87 i=87 w=173 D=44
+    q=44;
+    end
+-- [73:10] op=111 i=29 w=70 D=117
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:11] op=94 i=0 w=0 D=1
+    G=1;
+-- [73:12] op=94 i=0 w=0 D=74
+    G=74;
+-- [73:13] op=149 i=10 w=15 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[15]=(d[10]);
+-- [73:14] op=174 i=821 w=1 D=16 z=35
+    d[16]=d[1][35];
+    end
+-- [73:15] op=174 i=922 w=1 D=17 z=36
+    d[17]=d[1][36];
+    end
+-- [73:16] op=94 i=0 w=0 D=159
+    G=159;
+-- [73:17] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:18] op=136 i=0 w=43 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[43]=(w);
+    end
+-- [73:19] op=41 i=43 w=43 D=33 O=6 z=149
+    local p=(80);
+    (d[43])[149]=6;
+-- [73:20] op=41 i=888 w=42 D=80 O=66 z=105
+    local p=(80);
+    (d[42])[105]=66;
+-- [73:21] op=152 i=0 w=37 D=44
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=37,44,1 do d[H]=(nil);end;
+-- [73:22] op=94 i=0 w=0 D=66
+    G=66;
+-- [73:23] op=73 i=31 w=6 D=22 O=109
+    G=31;
+-- [73:24] op=94 i=0 w=0 D=79
+    G=79;
+-- [73:25] op=155 i=104 w=6 D=149 O=104
+    if not(not(d[6]<104)) then
+    else
+    G=(104);
+    end
+-- [73:26] op=94 i=0 w=0 D=150
+    G=150;
+-- [73:27] op=97 i=0 w=0 D=14
+    K=({...});
+    for p=1.0,14,1 do d[p]=K[p];end;
+-- [73:28] op=174 i=59 w=1 D=4 z=1
+    d[4]=d[1][1];
+    end
+-- [73:29] op=17 i=0 w=504 D=6 f=116
+    (d)[6]=116;
+    end
+-- [73:30] op=94 i=0 w=0 D=104
+    G=104;
+-- [73:31] op=94 i=0 w=0 D=68
+    G=68;
+-- [73:32] op=94 i=0 w=0 D=1
+    G=1;
+-- [73:33] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:34] op=41 i=342 w=42 D=33 O=6 z=103
+    local p=(80);
+    (d[42])[103]=6;
+-- [73:35] op=41 i=40 w=42 D=39 O=74 z=12
+    local p=(80);
+    (d[42])[12]=74;
+-- [73:36] op=152 i=0 w=37 D=44
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=37,44,1 do d[H]=(nil);end;
+-- [73:37] op=94 i=0 w=0 D=74
+    G=74;
+-- [73:38] op=94 i=0 w=0 D=169
+    G=169;
+-- [73:39] op=149 i=7 w=19 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[19]=(d[7]);
+-- [73:40] op=149 i=2 w=20 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[20]=(d[2]);
+-- [73:41] op=161 i=70 w=176 D=60
+    K=d;
+-- [73:42] op=74 i=14 w=21 D=20
+    q=21;n=(d);g=14;
+-- [73:43] op=6 i=212 w=240 D=51
+    local p=(114);
+    n=n[g];(K)[q]=n;
+-- [73:44] op=149 i=6 w=22 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[22]=(d[6]);
+-- [73:45] op=149 i=9 w=23 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[23]=(d[9]);
+-- [73:46] op=90 i=0 w=15 D=10
+    for p,y,s in I do if M==102 then if not(M>=169+238)then else(A)[43]=(S-250);
+    return A[42];end;
+    A[35],A[10]=-(120-138),(-A[44]);elseif M==184 then return;elseif not(p>=1.0)then else if M~=192 then else while-M do(A)[35],A[17]=M,(-7);end;
+    end;
+    y[1]=(y);y[2]=d[p];(y)[3]=(2);(I)[p]=(nil);end;
+    end;
+    ;K=15;
+    return A[25](K,K+10-2.0,d);
+    end
+-- [73:47] op=118 i=15 w=0 D=0
+    K=(15);d[K]=d[K](d[K+1.0],d[K+2.0]);T=K;
+-- [73:48] op=149 i=15 w=12 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[12]=(d[15]);
+-- [73:49] op=174 i=59 w=1 D=15 z=1
+    d[15]=d[1][1];
+    end
+-- [73:50] op=160 i=15 w=5 D=26 O=17
+    d[5][17]=d[15];
+-- [73:51] op=149 i=8 w=15 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[15]=(d[8]);
+-- [73:52] op=149 i=12 w=16 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[16]=(d[12]);
+-- [73:53] op=149 i=4 w=17 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[17]=(d[4]);
+-- [73:54] op=149 i=3 w=18 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[18]=(d[3]);
+-- [73:55] op=94 i=0 w=0 D=38
+    G=38;
+-- [73:56] op=94 i=0 w=0 D=134
+    G=134;
+-- [73:57] op=94 i=0 w=0 D=143
+    G=143;
+-- [73:58] op=155 i=22 w=6 D=1075 O=116
+    if not(not(d[6]<116)) then
+    else
+    G=(22);
+    end
+-- [73:59] op=94 i=0 w=0 D=191
+    G=191;
+-- [73:60] op=94 i=0 w=0 D=55
+    G=55;
+-- [73:61] op=174 i=1215 w=1 D=15 z=33
+    d[15]=d[1][33];
+    end
+-- [73:62] op=167 i=15 w=3 D=13
+    while A[39]do return;end;
+    (A)[26]=(93);
+    d[3]=(d[13][d[15]]);
+-- [73:63] op=94 i=0 w=0 D=12
+    G=12;
+-- [73:64] op=149 i=15 w=6 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[6]=(d[15]);
+-- [73:65] op=94 i=0 w=0 D=104
+    G=104;
+-- [73:66] op=94 i=0 w=0 D=137
+    G=137;
+-- [73:67] op=155 i=57 w=6 D=19 O=70
+    if not(not(d[6]<70)) then
+    else
+    G=(57);
+    end
+-- [73:68] op=94 i=0 w=0 D=59
+    G=59;
+-- [73:69] op=65 i=15 w=1 D=1178 O=113
+    if not(-A[31]) then
+    else
+    N,r=M,230/-180;
+    return 232;
+    end
+    K=(15);q=(d[1]);d[K+1.0]=(q);(d)[K]=(q[113]);
+    end
+-- [73:70] op=149 i=6 w=17 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[17]=(d[6]);
+-- [73:71] op=149 i=11 w=18 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[18]=(d[11]);
+-- [73:72] op=149 i=5 w=19 D=0
+    if A[26]~=A[17] then
+    else
+    A[40],A[24]=A[40],(A[17]);
+    A[41],J=A[1],(212%181-A[36]);(A)[30]=(A[44]%-29);
+    end
+    A[4],A[43]=A[35],A[36]-(62-65);
+    (d)[19]=(d[5]);
+-- [73:73] op=126 i=5 w=0 D=15
+    K=15;T=(K+5-1.0);d[K]=d[K](A[25](K+1.0,T,d));T=K;
+    end
+    end
+-- [73:74] op=94 i=0 w=0 D=63
+    G=63;
+-- [73:75] op=174 i=59 w=1 D=4 z=1
+    d[4]=d[1][1];
+    end
+-- [73:76] op=94 i=0 w=0 D=100
+    G=100;
+-- [73:77] op=94 i=0 w=0 D=65
+    G=65;
+-- [73:78] op=73 i=104 w=6 D=6 O=67
+    G=104;
+-- [73:79] op=94 i=0 w=0 D=56
+    G=56;
+-- [73:80] op=174 i=791 w=1 D=15 z=30
+    d[15]=d[1][30];
+    end
+-- [73:81] op=167 i=15 w=7 D=11
+    while A[39]do return;end;
+    (A)[26]=(93);
+    d[7]=(d[11][d[15]]);
+-- [73:82] op=174 i=481 w=1 D=14 z=31
+    d[14]=d[1][31];
+    end
+-- [73:83] op=17 i=0 w=850 D=6 f=67
+    (d)[6]=67;
+    end
+-- [73:84] op=94 i=0 w=0 D=104
+    G=104;
+-- [73:85] op=33 i=38 w=0 D=0
+    local p=(80);
+    d[38]=(t);
+-- [73:86] op=176 i=0 w=44 D=0
+    while A[35]do return J;end;
+    (d)[44]=i;
+    end
+    end
+-- [73:87] op=136 i=0 w=43 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[43]=(w);
+    end
+-- [73:88] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:89] op=41 i=1059 w=43 D=46 O=0 z=113
+    local p=(80);
+    (d[43])[113]=0;
+-- [73:90] op=41 i=1059 w=44 D=46 O=0 z=113
+    local p=(80);
+    (d[44])[113]=0;
+-- [73:91] op=41 i=56 w=44 D=46 O=0 z=114
+    local p=(80);
+    (d[44])[114]=0;
+-- [73:92] op=41 i=56 w=42 D=62 O=36 z=114
+    local p=(80);
+    (d[42])[114]=36;
+-- [73:93] op=41 i=56 w=38 D=111 O=17 z=114
+    local p=(80);
+    (d[38])[114]=17;
+-- [73:94] op=41 i=70 w=42 D=816 O=134 z=56
+    local p=(80);
+    (d[42])[56]=134;
+-- [73:95] op=156 i=106 w=37 D=207
+    K=37;
+-- [73:96] op=87 i=108 w=216 D=44
+    q=44;
+    end
+-- [73:97] op=111 i=118 w=146 D=4
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:98] op=94 i=0 w=0 D=134
+    G=134;
+-- [73:99] op=26 i=6 w=71 D=177 f=60
+    local p=(80);
+    G=(177);
+-- [73:100] op=94 i=0 w=0 D=37
+    G=37;
+-- [73:101] op=174 i=59 w=1 D=8 z=1
+    d[8]=d[1][1];
+    end
+-- [73:102] op=174 i=59 w=1 D=3 z=1
+    d[3]=d[1][1];
+    end
+-- [73:103] op=17 i=0 w=1062 D=6 f=60
+    (d)[6]=60;
+    end
+-- [73:104] op=94 i=0 w=0 D=168
+    G=168;
+-- [73:105] op=94 i=0 w=0 D=66
+    G=66;
+-- [73:106] op=127 i=448 w=322 D=260
+    K=(448);(d[K])(d[K+1.0]);T=K-1.0;
+    end
+    end
+-- [73:107] op=176 i=0 w=32 D=0
+    while A[35]do return J;end;
+    (d)[32]=i;
+    end
+    end
+-- [73:108] op=25 i=30 w=0 D=0
+    local p=(80);
+    (d)[30]=(D);
+-- [73:109] op=124 i=5 w=0 D=33
+    (d)[33]=A[4][5];
+    end
+    end
+-- [73:110] op=124 i=8 w=0 D=34
+    (d)[34]=A[4][8];
+    end
+    end
+-- [73:111] op=124 i=18 w=0 D=35
+    (d)[35]=A[4][18];
+    end
+    end
+-- [73:112] op=17 i=0 w=100 D=36 f=
+    (d)[36]="";
+    end
+-- [73:113] op=117 i=0 w=0 D=35
+    K=35;d[K]=d[K](d[K+1.0]);T=K;
+-- [73:114] op=17 i=0 w=78 D=36 f=20
+    (d)[36]=20;
+    end
+-- [73:115] op=118 i=34 w=0 D=0
+    K=(34);d[K]=d[K](d[K+1.0],d[K+2.0]);T=K;
+-- [73:116] op=117 i=0 w=0 D=33
+    K=33;d[K]=d[K](d[K+1.0]);T=K;
+-- [73:117] op=161 i=138 w=42 D=52
+    K=d;
+-- [73:118] op=87 i=45 w=59 D=33
+    q=33;
+    end
+-- [73:119] op=191 i=67 w=1051 D=173 f=9148
+    n=9148;
+    end
+-- [73:120] op=23 i=33 w=203 D=104
+    local p=(253);
+    g=(d);b=(33);g=g[b];
+-- [73:121] op=146 i=20 w=196 D=194
+    n+=g;K[q]=n;
+-- [73:122] op=10 i=33 w=667 D=33 f=-9133
+    local p=(114);
+    (d)[33]=(d[33]+-9133);
+-- [73:123] op=160 i=33 w=32 D=18 O=69
+    d[32][69]=d[33];
+-- [73:124] op=41 i=210 w=30 D=67 O=30 z=135
+    local p=(80);
+    (d[30])[135]=30;
+-- [73:125] op=152 i=0 w=25 D=36
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=25,36,1 do d[H]=(nil);end;
+-- [73:126] op=94 i=0 w=0 D=30
+    G=30;
+-- [73:127] op=33 i=38 w=0 D=0
+    local p=(80);
+    d[38]=(t);
+-- [73:128] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:129] op=41 i=1020 w=38 D=91 O=94 z=147
+    local p=(80);
+    (d[38])[147]=94;
+-- [73:130] op=41 i=572 w=42 D=911 O=77 z=151
+    local p=(80);
+    (d[42])[151]=77;
+-- [73:131] op=156 i=160 w=37 D=233
+    K=37;
+-- [73:132] op=87 i=120 w=7 D=44
+    q=44;
+    end
+-- [73:133] op=111 i=69 w=154 D=31
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:134] op=94 i=0 w=0 D=77
+    G=77;
+-- [73:135] op=94 i=0 w=0 D=30
+    G=30;
+-- [73:136] op=73 i=22 w=6 D=149 O=104
+    G=22;
+-- [73:137] op=94 i=0 w=0 D=76
+    G=76;
+-- [73:138] op=2 i=0 w=0 D=15
+    local p=(114);
+    (d)[15]=({});
+-- [73:139] op=41 i=92 w=15 D=776 O=8 z=6
+    local p=(80);
+    (d[15])[6]=8;
+-- [73:140] op=41 i=59 w=15 D=460 O=11 z=1
+    local p=(80);
+    (d[15])[1]=11;
+-- [73:141] op=41 i=27 w=15 D=74 O=9 z=2
+    local p=(80);
+    (d[15])[2]=9;
+-- [73:142] op=160 i=15 w=5 D=192 O=16
+    d[5][16]=d[15];
+-- [73:143] op=94 i=0 w=0 D=188
+    G=188;
+-- [73:144] op=174 i=669 w=1 D=15 z=32
+    d[15]=d[1][32];
+    end
+-- [73:145] op=167 i=15 w=2 D=11
+    while A[39]do return;end;
+    (A)[26]=(93);
+    d[2]=(d[11][d[15]]);
+-- [73:146] op=17 i=0 w=973 D=6 f=109
+    (d)[6]=109;
+    end
+-- [73:147] op=94 i=0 w=0 D=104
+    G=104;
+-- [73:148] op=94 i=0 w=0 D=148
+    G=148;
+-- [73:149] op=155 i=24 w=6 D=22 O=109
+    if not(not(d[6]<109)) then
+    else
+    G=(24);
+    end
+-- [73:150] op=94 i=0 w=0 D=11
+    G=11;
+-- [73:151] op=94 i=0 w=0 D=77
+    G=77;
+-- [73:152] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:153] op=136 i=0 w=43 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[43]=(w);
+    end
+-- [73:154] op=41 i=75 w=43 D=120 O=20 z=40
+    local p=(80);
+    (d[43])[40]=20;
+-- [73:155] op=41 i=895 w=42 D=11 O=46 z=160
+    local p=(80);
+    (d[42])[160]=46;
+-- [73:156] op=156 i=10 w=37 D=86
+    K=37;
+-- [73:157] op=87 i=124 w=177 D=44
+    q=44;
+    end
+-- [73:158] op=111 i=219 w=194 D=253
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:159] op=94 i=0 w=0 D=46
+    G=46;
+-- [73:160] op=94 i=0 w=0 D=46
+    G=46;
+-- [73:161] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:162] op=136 i=0 w=43 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[43]=(w);
+    end
+-- [73:163] op=41 i=679 w=43 D=12 O=15 z=139
+    local p=(80);
+    (d[43])[139]=15;
+-- [73:164] op=41 i=399 w=42 D=210 O=135 z=192
+    local p=(80);
+    (d[42])[192]=135;
+-- [73:165] op=156 i=197 w=37 D=87
+    K=37;
+-- [73:166] op=87 i=27 w=66 D=44
+    q=44;
+    end
+-- [73:167] op=111 i=140 w=13 D=240
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:168] op=94 i=0 w=0 D=135
+    G=135;
+-- [73:169] op=94 i=0 w=0 D=98
+    G=98;
+-- [73:170] op=94 i=0 w=0 D=60
+    G=60;
+-- [73:171] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:172] op=41 i=478 w=42 D=127 O=8 z=178
+    local p=(80);
+    (d[42])[178]=8;
+-- [73:173] op=41 i=747 w=42 D=141 O=98 z=169
+    local p=(80);
+    (d[42])[169]=98;
+-- [73:174] op=156 i=117 w=37 D=135
+    K=37;
+-- [73:175] op=87 i=55 w=94 D=44
+    q=44;
+    end
+-- [73:176] op=111 i=28 w=8 D=160
+    for M=K,q,1 do n=(d);g=(M);M=nil;(n)[g]=(M);end;
+-- [73:177] op=94 i=0 w=0 D=98
+    G=98;
+-- [73:178] op=174 i=795 w=1 D=8 z=34
+    d[8]=d[1][34];
+    end
+-- [73:179] op=17 i=0 w=492 D=6 f=107
+    (d)[6]=107;
+    end
+-- [73:180] op=94 i=0 w=0 D=168
+    G=168;
+-- [73:181] op=136 i=0 w=43 D=0
+    return;
+    if A[17]==A[1] then
+    else
+    (d)[43]=(w);
+    end
+-- [73:182] op=25 i=42 w=0 D=0
+    local p=(80);
+    (d)[42]=(D);
+-- [73:183] op=176 i=0 w=44 D=0
+    while A[35]do return J;end;
+    (d)[44]=i;
+    end
+    end
+-- [73:184] op=41 i=57 w=43 D=46 O=0 z=47
+    local p=(80);
+    (d[43])[47]=0;
+-- [73:185] op=41 i=76 w=44 D=12 O=15 z=48
+    local p=(80);
+    (d[44])[48]=15;
+-- [73:186] op=41 i=196 w=42 D=71 O=60 z=170
+    local p=(80);
+    (d[42])[170]=60;
+-- [73:187] op=152 i=0 w=37 D=44
+    if A[44]~=A[14] then
+    else
+    return;
+    end
+    for H=37,44,1 do d[H]=(nil);end;
+-- [73:188] op=94 i=0 w=0 D=60
+    G=60;
+-- [73:189] op=174 i=418 w=1 D=9 z=29
+    d[9]=d[1][29];
+    end
+-- [73:190] op=17 i=0 w=432 D=6 f=104
+    (d)[6]=104;
+    end
+-- [73:191] op=94 i=0 w=0 D=104
+    G=104;
+-- [73:192] op=94 i=0 w=0 D=135
+    G=135;

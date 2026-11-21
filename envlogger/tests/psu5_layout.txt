@@ -1,0 +1,39 @@
+V4.5 vs V5 DESERIALIZER COMPARISON (key structural differences):
+
+v4.5 m():  W = i(l)                  — 1 byte header
+           for e=0, a(l)-1, 1 do C[e]=m(); end   — NESTED chunks (m calls itself!)
+           for d=0, a(l)-1, 1 do ... constants via i/a/d ...
+
+v5    _():  M = d(n)                 — 2 bytes first
+            for d=0, a(n)-1, 1 ...   — flat constants loop
+
+IMPORTANT: v4.5's m() reads 2 header fields (i + a) before the const loop;
+v5 reads d() first (M). Both are consistent formats — just evolved.
+
+CRITICAL REALIZATION: v4.5's LZW varint reader r() uses
+    e = v(sub(o,l,l), D)     — 1 char, base D=36
+    l += 1
+    o = v(sub(o,l,l+e-1), D) — e chars, base 36
+    l += e
+    return o
+So a code = [len][len digits] in base36. First v5 char 'R'=27 (len 27) =>
+27-digit code => impossible for an LZW over a 256+ dict UNLESS v5's dict is
+bigger OR the alphabet/base differs OR v5 seeds the dict with MANY entries.
+
+v5 envtable has: 16777216 (2^24), 5000, 2047, 1023-like values... v4 also had
+499453372 etc for the bit decoder. The LZW dict seed size a = #R+P:
+  v4: a = 91+165 = 256 (dict chars 0..255, codes 0..255 + LZW additions)
+For v5, if a = 91+P5 with a different P5, the dict may seed MORE entries
+(e.g. 512 or 4096), letting first codes be 4-6 base36 digits.
+Test: if first code (len 27, 27 base36 digits) must be < a+LZW-growth and codes
+are added sequentially, huge first codes are impossible. => v5's varint scheme
+itself differs (maybe [len] is in base62, or LSB-first, or fixed 4-char codes).
+
+NEXT OPTIONS (pick in order):
+A. Brute-force varint schemes: for each (base in {36,62}, lenFirst in {len,data},
+   fixed width 1..4) try decode + deserializer first reads (d=2 bytes, a=4 bytes)
+   => accept when M small, count plausible, and first tags in {0..19}.
+B. The seed G: XOR state n0 = #R-G or #S-94 style. If the scheme is right, n0
+   falls out of the deserializer constraints.
+C. Look for v5's actual obfuscator JS (public PSU v5 releases) to copy the
+   encoder — decode by reimplementation.

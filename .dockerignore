@@ -1,0 +1,20 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+Samples
+*.log
+.freebuff
+# Test harnesses and scratch output. Nothing in the app reads the repo's tmp/ (the
+# engines use os.tmpdir(), i.e. the container's /tmp), and tmp/clyde-src is the
+# obfuscator's own source — Clyde is deliberately not part of the deployment yet.
+tmp
+
+# Python bytecode and the engine's scratch output. The Luau runtime under
+# deobfuscators/luraph_v15/deobf/bin/ is NOT ignored: the
+# Dockerfile overwrites it with the Linux build, and keeping the Windows one
+# out avoids shipping a binary the container cannot execute.
+__pycache__
+*.pyc
+deobfuscators/luraph_v15/deobf/bin/
+deobfuscators/luraph_v15/deobf/output/

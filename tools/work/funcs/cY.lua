@@ -1,0 +1,1 @@
+function(Y,c,F,l,A,C)local Q,H=(22);while true do if Q<125.0 then(c)[10]=C;Q=(125);continue;else if not(Q>22.0)then else for Q=1.0,F do H=Y:tY(A,Q,l,C,c);if H~=-1 then else return-1;end;end;break;end;end;end;return nil;end

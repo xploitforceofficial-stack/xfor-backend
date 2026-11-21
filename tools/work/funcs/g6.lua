@@ -1,0 +1,1 @@
+function(Y,Y,c,F,l,A,C,Q,H)A=nil;Y=nil;c=(nil);for j=59,85,13 do if j<72.0 then A=l[41]();continue;elseif j>72.0 then c=Y%8;else if not(j<85.0 and j>59.0)then else Y=l[41]();end;end;end;H=l[41]();C=nil;F=nil;Q=nil;return H,A,Y,Q,c,F,C;end

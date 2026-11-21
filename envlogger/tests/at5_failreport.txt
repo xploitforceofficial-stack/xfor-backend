@@ -1,0 +1,35 @@
+STAGEPROBE rung=full bytes=44480
+STAGEPROBE rung=loops bytes=44689
+STAGEPROBE rung=raw bytes=18
+ok: true err: nil
+OUT|DBG65	WaitForChild	WaitForChild	[C]	-1
+OUT|FAIL	Random:NextNumber:1
+OUT|FAIL	Random:NextInteger:2
+OUT|FAIL	Random:NextNumber:3
+OUT|FAIL	Random:NextNumber:4
+OUT|FAIL	Random:NextInteger:5
+OUT|FAIL	Random:NextInteger:7
+OUT|FAIL	Random:NextNumber:8
+OUT|FAIL	Random:NextNumber:10
+OUT|FAIL	Random:NextNumber:11
+OUT|FAIL	Random:NextNumber:13
+OUT|FAIL	Random:NextInteger:14
+OUT|FAIL	Random:NextNumber:15
+OUT|FAIL	Random:NextInteger:16
+OUT|FAIL	Random:NextInteger:17
+OUT|FAILCOUNT	14
+OUT|FAIL	Random:NextNumber:1
+OUT|FAIL	Random:NextInteger:2
+OUT|FAIL	Random:NextNumber:3
+OUT|FAIL	Random:NextNumber:4
+OUT|FAIL	Random:NextInteger:5
+OUT|FAIL	Random:NextInteger:7
+OUT|FAIL	Random:NextNumber:8
+OUT|FAIL	Random:NextNumber:10
+OUT|FAIL	Random:NextNumber:11
+OUT|FAIL	Random:NextNumber:13
+OUT|FAIL	Random:NextInteger:14
+OUT|FAIL	Random:NextNumber:15
+OUT|FAIL	Random:NextInteger:16
+OUT|FAIL	Random:NextInteger:17
+OUT|Be A Good Boy And Dont Skid

@@ -1,0 +1,26 @@
+V4.5 wrapper (COMPLETE, parses fine):
+
+for l,e in pairs({(function(e,...)
+  <VM body — references e[...] for env lookups>
+end)(({ ...ENV TABLE... }),...)}) do return e end;
+
+v5 tail glue: }),...])})do return e end;
+                        ^^^ the ']' belongs to junk inserted before the real tail —
+                            actual glue is '}),...)})' which matches v4.5 EXACTLY.
+
+So v5's real wrapper = for l,e in pairs({(function(e,...) <BODY> end)(ENVTABLE,...) }) do return e end
+
+The v5 sample's wrapper head (for l,e in pairs({(function(e,...)) was replaced by
+~500 KB of filler. The body itself is intact (VM at 1000524..EOF + env table tail).
+
+RECONSTRUCTION PLAN:
+  'for l,e in pairs({' + '(function(e,...)' + region[2:] (skip broken 'P-(90);' first stmt?)
+  ... wait — the 'P-(90));' fragment at region start is part of the ORIGINAL body
+  (P is a VM local assigned from the wrapper). Need to check what P was.
+
+Body first stmt: 'P-(90));local function o(n,e,...)' — this is the TAIL of a
+statement like 'local X = something - P-(90));' no... more likely the wrapper
+ended with '...local P=...-(90);' and the junk ate 'local P=' part. P is likely
+the watermark seed (like v4's t=(#R-G)).
+
+Action: find P's uses in the body to reconstruct its init.

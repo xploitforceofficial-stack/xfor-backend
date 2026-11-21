@@ -1,0 +1,25 @@
+1	call	print	"SETENV fn=function: 0x000001a637e2e300 UDim=proxy:UDim Instance=proxy:Instance game=proxy:game task=proxy:task require=function: 0x000001a6"
+2	get	UDim	"new"
+3	get	UDim2	"new"
+4	call	print	"[run] post-run debug type=table"
+5	call	print	"[run] stage/program error:\
+stage2:1: attempt to index nil with 'new'\
+stage2:1\
+stage2:1 function H\
+stage2:1\
+C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools/dump_s2:276\
+C:\\Users\\Sandr\\OneDrive\\Desktop\\Omn"...
+6	call	print	"[run] dispatches=0"
+7	call	print	"[run] pre-fallback MKENTRY=table: 0x000001a637e26fa0 n=1"
+8	call	print	"[run] pre-fallback ok=false res=stage2:1: attempt to index nil with 'new'\
+\
+stage2:1\
+stage2:1 function H\
+stage2:1"
+9	call	print	"[run] pre-fallback ent=table: 0x000001a639b5b170 og=table: 0x000001a639b5b230"
+10	call	print	"[run] harvested dispatches=753 chains=177"
+11	call	print	"[run] MKENTRY-direct=1"
+12	call	print	"[run] chain slots=16574 chains=177"
+13	call	print	"[run] entry chains=1"
+14	call	print	"[run] jlinks=176"
+15	call	print	"[run] zstate=80"

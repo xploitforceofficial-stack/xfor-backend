@@ -1,0 +1,3 @@
+-- fuhed at OmniDBF
+-- damn, this script was generated on runtime and its output will be trash
+-- analyzer error: attempt to call a nil value

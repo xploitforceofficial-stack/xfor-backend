@@ -1,0 +1,64 @@
+{
+ "family": "s2",
+ "workdir": "C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work_s2",
+ "grade": "user-level",
+ "lifted": true,
+ "simple": {
+  "chains": {
+   "complete": 1,
+   "approx": 77,
+   "partial": 99
+  },
+  "statements": 296
+ },
+ "validate": {
+  "jumps": {
+   "tested": 4,
+   "match": 4,
+   "rate": 1.0
+  },
+  "fallthrough": {
+   "tested": 636,
+   "advance": 560,
+   "rate": 0.8805
+  }
+ },
+ "steps": [
+  {
+   "step": "a49_dispatch",
+   "rc": 0,
+   "out": "ambiguous: [] | unbalanced: none",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "join",
+   "rc": 0,
+   "out": "chains=177 called=1 slots post=1361 pre=15204 closures-mapped=177 cmap=176 modes={'3': 177}",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "lift14",
+   "rc": 0,
+   "out": "chains=177 slots=16565 leaves=243 | wrote C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work_s2\\lifted.lua (3512508 chars)",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "simplify14",
+   "rc": 0,
+   "out": "chains=177 slots=16565 leaves=243 | wrote C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work_s2\\simple.lua (1 chains complete, 77 approx, 99 partial, 296 statements)",
+   "err": "",
+   "critical": false
+  },
+  {
+   "step": "validate14",
+   "rc": 0,
+   "out": "jump transitions: 4 match: 4 rate: 1.0000 | fallthrough: 636 advance: 560 rate: 0.8805 (rest = call/return boundaries) | executed opcodes without leaf: none",
+   "err": "",
+   "critical": false
+  }
+ ],
+ "summary": "grade=user-level family=s2 chains complete=1 approx=77 partial=99 statements=296"
+}

@@ -1,0 +1,5 @@
+local Sandbox = require("../src/core/sandbox")
+local fs = require("@lune/fs")
+local source = fs.readFile("C:/Users/Sandr/OneDrive/Desktop/OmniDBF/envlogger/tests/_polsec_a.lua")
+local ok, res = pcall(function() return Sandbox.run(source, { timeout = 35 }) end)
+print("done ok=", tostring(ok), "err=", tostring(res.err))

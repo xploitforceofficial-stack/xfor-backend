@@ -1,0 +1,5 @@
+local Instrument = require("../src/core/instrument")
+local out = Instrument.apply('return foo', { checkBudget = function() return false end })
+print("[INS] instrumented:", tostring(out))
+local out2 = Instrument.apply('local fn = loadstring("return foo")', { checkBudget = function() return false end })
+print("[INS] outer:", tostring(out2))

@@ -1,0 +1,28 @@
+PSU v5 BOOT TRACE (running _recon5.lua):
+
+- The wrapper prelude was destroyed, but the body defines its own helpers:
+  L34 i() reads u,c,n  — u = the PAYLOAD string (500k base62 chars)
+  L36 d() reads u,c,n  — c = stream position, n = state
+- These are the LZW-style decoder reading the payload directly. In v4 the
+  payload came through the LZW IIFE into local u; in v5 the decoder reads
+  `u` (the payload string) and `c` (position) — so the destroyed prelude had:
+      local u = <the 500k payload string>
+      local c = 1 (or a seed)
+      local n = <seed>
+  Wait — the IIFE call tail passes ONLY (ENVTABLE, ...). The `...` at the
+  call site is the ORIGINAL script's varargs (the executor's script args).
+  So u/c/n must be declared in the destroyed prelude BETWEEN
+  'for l,e in pairs({(function(e,...)' and 'local function o(n,e,...)'.
+
+- The payload string in the original file sits at [439..500439) INSIDE the
+  junk — preceded by '{"PSU|' and followed by ', PSU|...'. The prelude likely
+  had: local u="PSU|<500000 chars>";local c=4;n=SEED  etc.
+
+NEXT STEP: reconstruct prelude as
+  local u="<payload>";local c=5;n=0? — but n is assigned from e[..] lookups?
+  No: n is read in i() as a free local too. Get exact first-uses order from
+  the VM code and bind:
+      u = payload string
+      c = initial position (find: first statement reading c before assign?)
+      n = seed (v4 analog: (#R-G) watermark len arithmetic)
+  Compare with v4 harness prelude (_v4_harness.lua) for the seed formula.

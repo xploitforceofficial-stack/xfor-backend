@@ -1,0 +1,66 @@
+-- fuhed at OmniDBF
+-- run id 344fb913
+-- damn, this script was generated on runtime and its output will be trash
+-- runtime error: tamper
+
+local guardedSource = "do\n    local function detected(reason)\n        print(\"GET TF OUT BITCH SKID\", reason)\n        error(\"GET TF OUT BITCH SKID\", 0)\n    end\n\n    local function check(value, reason)\n        if not value then\n            detected(reason)\n        end\n    end\n\n    local function normalizeError(value)\n        if type(value) ~= \"string\" then\n            return value\n        end\n\n        return (string.gsub(value, \" to '[^']+'\", \"\"))\n    end\n\n    local function checkError(ok, actual, expected, reason)\n        check(ok == false, reason .. \":status\")\n        check(\n            normalizeError(actual) == normalizeError(expected),\n            reason .. \":error\"\n        )\n    end\n\n    local function checkErrorSuffix(\n        ok, actual, expected, reason\n    )\n        check(ok == false, reason .. \":status\")\n        local actualText = normalizeError(actual)\n        local expectedText = normalizeError(expected)\n        check(type(actualText) == \"string\" and\n            string.sub(actualText, -#expectedText) ==\n                expectedText, reason .. \":error\")\n    end\n\n    local function runChecks()\n        local refs = {\n            assert = assert,\n            error = error,\n            getmetatable = getmetatable,\n            next = next,\n            pairs = pairs,\n            pcall = pcall,\n            rawequal = rawequal,\n            rawget = rawget,\n            rawset = rawset,\n            select = select,\n            setmetatable = setmetatable,\n            tonumber = tonumber,\n            tostring = tostring,\n            type = type,\n            xpcall = xpcall,\n            stringByte = string.byte,\n            stringChar = string.char,\n            stringSub = string.sub,\n            tableInsert = table.insert,\n            tableRemove = table.remove,\n            mathFloor = math.floor,\n            coroutineResume = coroutine.resume,\n            debugInfo = debug.info,\n            taskSpawn = task.spawn,\n            loadstring = loadstring,\n            instanceNew = Instance.new,\n            typeof = typeof,\n            buffer" --[[ +43702 bytes truncated ]]
+hash = 5381
+if checksum(guardedSource) ~= 4191847112 then --did ran
+
+--[[ explored branch: checksum(guardedSource) ~= 4191847112 (primary took truthy, forced opposite) --]]
+game:GetService("HttpService")
+game:GetService("RunService")
+Instance.new("Folder")
+Instance.new("Folder", Instance.new("Folder"))
+local _ = game.Name
+local _ = game.ClassName
+local _ = game.AttributeChanged
+local _ = game.ChildRemoved
+local _ = game:GetService("Workspace").Name
+local _ = game:GetService("Workspace").ClassName
+local _ = game:GetService("Workspace").AttributeChanged
+local _ = game:GetService("Workspace").ChildRemoved
+local folder = Instance.new("Folder")
+local _ = folder.Name
+local _ = folder.ClassName
+local _ = folder.AttributeChanged
+folder.ChildRemoved:Connect(function() ... end)
+local folder2 = Instance.new("Folder")
+local _ = folder2.Name
+local _ = folder2.ClassName
+local _ = folder2.AttributeChanged
+folder2.ChildRemoved:Connect(function() ... end)
+local _ = game:GetService("HttpService").Name
+local _ = game:GetService("HttpService").ClassName
+local _ = game:GetService("HttpService").AttributeChanged
+local _ = game:GetService("HttpService").ChildRemoved
+local _ = game:GetService("RunService").Name
+local _ = game:GetService("RunService").ClassName
+local _ = game:GetService("RunService").AttributeChanged
+local _ = game:GetService("RunService").ChildRemoved
+local _ = folder.WaitForChild
+local _ = game:GetService("RunService").IsStudio
+local _ = game:GetService("RunService").IsClient
+local _ = game:GetService("RunService").IsServer
+local _ = game.GetChildren
+game:GetService("RunService"):IsServer()
+Instance.new("Folder"):GetChildren()
+folder2.Name = "847283502"
+Instance.new("Folder"):WaitForChild("847283502")
+Instance.new("Folder"):Destroy()
+847283502:Destroy()
+folder2.Parent = folder
+Instance.new("ScreenGui")
+Instance.new("Frame")
+Instance.new("Frame").Parent = Instance.new("ScreenGui")
+Parent.Position = UDim2.new(0, 0, 0, 0)
+Parent.Size = UDim2.new(0, 130, 0, 231)
+Instance.new("Path2D")
+local path2D = Instance.new("Path2D")
+local _ = path2D.SetControlPoints
+
+-- anti-env detection: 4 pattern(s) found
+--   [!!] IsStudio repeated check: IsStudio called 8 times - likely an anti-tamper loop verifying false negatives
+--   [!] Closure type detection: Script checks C vs Lua closure types - tests executor fidelity
+--   [!] Raw metatable access: Script probes raw metatables - tests executor capabilities
+--   [!] Anti-debug instrumentation: Script uses debug library in error-checking context - anti-tamper probe

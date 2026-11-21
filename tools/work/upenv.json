@@ -1,0 +1,6730 @@
+{
+ "147": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "1.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "1.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "1.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "1.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "1.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "1.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "1.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "1.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "1.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "1.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "1.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "1.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "1.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "1.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "1.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "1.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "1.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "1.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "1.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "1.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "1.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "1.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "1.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "1.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "1.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "1.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "1.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "1.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "1.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "1.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "1.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "1.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "1.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "1.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "1.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "1.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "1.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "1.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "1.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "1.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "1.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "1.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "1.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "1.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "1.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "1.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "1.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "1.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "1.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "1.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "1.66": {
+   "tp": "string",
+   "v": "assert"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  }
+ },
+ "134": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "141": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "140": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "139": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "135": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "143": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "138": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "148": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  }
+ },
+ "150": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  }
+ },
+ "181": {
+  "1": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11840"
+  },
+  "2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  }
+ },
+ "149": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  }
+ },
+ "142": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "1.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "1.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "1.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "1.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "1.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "1.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "88": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c11b0"
+  },
+  "0[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d76250"
+  },
+  "0.1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c11b0"
+  },
+  "0.1[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d76250"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d76250"
+  },
+  "0.3": {
+   "tp": "number",
+   "v": 2.0
+  }
+ },
+ "145": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "1.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "1.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "1.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "1.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "1.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "1.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "1.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "1.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "1.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "1.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "1.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "1.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "1.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "1.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "1.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "1.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "1.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "1.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "1.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "1.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "1.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "1.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "101": {
+  "1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54fb0"
+  },
+  "2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a9e15840"
+  },
+  "0": {
+   "tp": "function",
+   "v": "function: 0x000001b0a9e175c0"
+  }
+ },
+ "182": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "1.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "1.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "1.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "1.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "1.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "1.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "1.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "1.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "1.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "1.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "1.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "1.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "1.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "1.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "1.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "1.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "1.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "1.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "1.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "1.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "1.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "1.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "1.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "1.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "1.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "1.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "1.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "1.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "1.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "1.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "1.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "1.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "1.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "1.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "1.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "1.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "1.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "1.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "1.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "1.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "1.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "1.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "1.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "1.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "1.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "1.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "1.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "1.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "1.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "1.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "1.66": {
+   "tp": "string",
+   "v": "assert"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  }
+ },
+ "185": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aafed8e0"
+  },
+  "1.1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "1.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "0.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "0.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "0.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "0.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "0.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "0.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "0.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "0.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "0.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "0.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "0.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "0.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "0.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "0.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "0.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "0.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "0.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "0.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "0.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "0.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "0.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "0.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "0.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "0.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "0.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "0.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "0.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "0.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "0.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "0.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "0.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "0.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "0.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "0.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "0.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "0.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "0.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "0.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "0.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "0.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "0.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "0.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "0.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "0.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "0.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "0.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "0.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "0.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "0.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "0.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "0.66": {
+   "tp": "string",
+   "v": "assert"
+  }
+ },
+ "144": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "1.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "1.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "1.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "1.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "1.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "1.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "1.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "1.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "1.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "1.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "1.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "1.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "1.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "1.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "1.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "1.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "1.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "1.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "1.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "1.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "1.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "1.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "1.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "1.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "1.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "1.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "1.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "1.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "1.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "1.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "1.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "1.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "1.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "1.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "1.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "1.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "1.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "1.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "1.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "1.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "1.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "1.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "1.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "1.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "1.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "1.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "1.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "1.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "1.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "1.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "1.66": {
+   "tp": "string",
+   "v": "assert"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  }
+ },
+ "137": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  }
+ },
+ "79": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1210"
+  },
+  "1[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72490"
+  },
+  "1.1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1210"
+  },
+  "1.1[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72490"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72490"
+  },
+  "1.3": {
+   "tp": "number",
+   "v": 2.0
+  },
+  "2": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1240"
+  },
+  "2[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72590"
+  },
+  "2.1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1240"
+  },
+  "2.1[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72590"
+  },
+  "2.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72590"
+  },
+  "2.3": {
+   "tp": "number",
+   "v": 2.0
+  },
+  "3": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c12a0"
+  },
+  "3[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72690"
+  },
+  "3.1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c12a0"
+  },
+  "3.1[box]": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72690"
+  },
+  "3.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d72690"
+  },
+  "3.3": {
+   "tp": "number",
+   "v": 2.0
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0a9e1c650"
+  },
+  "0.1": {
+   "tp": "number",
+   "v": 19110.0
+  },
+  "0.2": {
+   "tp": "number",
+   "v": 1447136193.0
+  },
+  "0.3": {
+   "tp": "number",
+   "v": 1384124852.0
+  },
+  "0.4": {
+   "tp": "number",
+   "v": 4046554082.0
+  },
+  "0.5": {
+   "tp": "number",
+   "v": 3300908851.0
+  },
+  "0.6": {
+   "tp": "number",
+   "v": 3868228902.0
+  },
+  "0.7": {
+   "tp": "number",
+   "v": 526130887.0
+  },
+  "0.8": {
+   "tp": "number",
+   "v": 3598021700.0
+  },
+  "0.9": {
+   "tp": "number",
+   "v": 1161317337.0
+  }
+ },
+ "187": {
+  "1": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9c1de0"
+  },
+  "1.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f40"
+  },
+  "1.3": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d52c70"
+  },
+  "1.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "1.5": {
+   "tp": "string",
+   "v": "format"
+  },
+  "1.6": {
+   "tp": "string",
+   "v": "gmatch"
+  },
+  "1.7": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d53f30"
+  },
+  "1.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56240"
+  },
+  "1.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d544d0"
+  },
+  "1.10": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d54710"
+  },
+  "1.11": {
+   "tp": "string",
+   "v": "byte"
+  },
+  "1.12": {
+   "tp": "string",
+   "v": "gsub"
+  },
+  "1.13": {
+   "tp": "string",
+   "v": "sub"
+  },
+  "1.14": {
+   "tp": "boolean",
+   "v": false
+  },
+  "1.15": {
+   "tp": "boolean",
+   "v": true
+  },
+  "1.16": {
+   "tp": "string",
+   "v": "concat"
+  },
+  "1.17": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "1.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "1.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "1.20": {
+   "tp": "string",
+   "v": "isyieldable"
+  },
+  "1.21": {
+   "tp": "string",
+   "v": "rep"
+  },
+  "1.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55ee0"
+  },
+  "1.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "1.24": {
+   "tp": "string",
+   "v": "unpack"
+  },
+  "1.25": {
+   "tp": "string",
+   "v": "running"
+  },
+  "1.26": {
+   "tp": "string",
+   "v": "create"
+  },
+  "1.27": {
+   "tp": "string",
+   "v": "resume"
+  },
+  "1.28": {
+   "tp": "string",
+   "v": "yield"
+  },
+  "1.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56000"
+  },
+  "1.30": {
+   "tp": "string",
+   "v": "status"
+  },
+  "1.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56060"
+  },
+  "1.32": {
+   "tp": "string",
+   "v": "close"
+  },
+  "1.33": {
+   "tp": "string",
+   "v": "insert"
+  },
+  "1.34": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56090"
+  },
+  "1.35": {
+   "tp": "table",
+   "v": "table: 0x000001b0a7d524c0"
+  },
+  "1.36": {
+   "tp": "string",
+   "v": "The debug library is required on Luau platforms. Please open a support ticket."
+  },
+  "1.37": {
+   "tp": "string",
+   "v": "info"
+  },
+  "1.38": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d561b0"
+  },
+  "1.39": {
+   "tp": "string",
+   "v": "wrap"
+  },
+  "1.40": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "1.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f70"
+  },
+  "1.42": {
+   "tp": "string",
+   "v": "table"
+  },
+  "1.43": {
+   "tp": "string",
+   "v": "setmetatable"
+  },
+  "1.44": {
+   "tp": "string",
+   "v": "function"
+  },
+  "1.45": {
+   "tp": "string",
+   "v": "slnaf"
+  },
+  "1.46": {
+   "tp": "string",
+   "v": "[C]"
+  },
+  "1.47": {
+   "tp": "string",
+   "v": "getmetatable"
+  },
+  "1.48": {
+   "tp": "string",
+   "v": "lastlinedefined"
+  },
+  "1.49": {
+   "tp": "string",
+   "v": "currentline"
+  },
+  "1.50": {
+   "tp": "string",
+   "v": "short_src"
+  },
+  "1.51": {
+   "tp": "string",
+   "v": "isvararg"
+  },
+  "1.52": {
+   "tp": "string",
+   "v": "nparams"
+  },
+  "1.53": {
+   "tp": "string",
+   "v": "what"
+  },
+  "1.54": {
+   "tp": "string",
+   "v": "C"
+  },
+  "1.55": {
+   "tp": "string",
+   "v": "linedefined"
+  },
+  "1.56": {
+   "tp": "string",
+   "v": "source"
+  },
+  "1.57": {
+   "tp": "string",
+   "v": "=[C]"
+  },
+  "1.58": {
+   "tp": "string",
+   "v": "namewhat"
+  },
+  "1.59": {
+   "tp": "string",
+   "v": ""
+  },
+  "1.60": {
+   "tp": "string",
+   "v": "pack"
+  },
+  "1.61": {
+   "tp": "string",
+   "v": "tonumber"
+  },
+  "1.62": {
+   "tp": "string",
+   "v": "tostring"
+  },
+  "1.63": {
+   "tp": "string",
+   "v": "rawset"
+  },
+  "1.64": {
+   "tp": "string",
+   "v": "rawget"
+  },
+  "1.65": {
+   "tp": "string",
+   "v": "xpcall"
+  },
+  "1.66": {
+   "tp": "string",
+   "v": "assert"
+  },
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.34": {
+   "tp": "table",
+   "v": "table: 0x000001b0ab099130"
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa0f770"
+  }
+ },
+ "186": {
+  "0": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ffd00"
+  },
+  "0.1": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56150"
+  },
+  "0.2": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e40"
+  },
+  "0.3": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53d80"
+  },
+  "0.4": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ea0"
+  },
+  "0.5": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53ed0"
+  },
+  "0.6": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53f00"
+  },
+  "0.7": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53e10"
+  },
+  "0.8": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d53cf0"
+  },
+  "0.9": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9ff4c0"
+  },
+  "0.10": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56180"
+  },
+  "0.11": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d56210"
+  },
+  "0.12": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e20"
+  },
+  "0.13": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55f10"
+  },
+  "0.14": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fa0"
+  },
+  "0.15": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d54620"
+  },
+  "0.16": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fee00"
+  },
+  "0.17": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9fed10"
+  },
+  "0.18": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d52490"
+  },
+  "0.19": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55fd0"
+  },
+  "0.20": {
+   "tp": "function",
+   "v": "function: 0x000001b0aa9fa910"
+  },
+  "0.21": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12740"
+  },
+  "0.22": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12650"
+  },
+  "0.23": {
+   "tp": "function",
+   "v": "function: 0x000001b0a7d55e50"
+  },
+  "0.24": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12560"
+  },
+  "0.25": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12470"
+  },
+  "0.26": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12380"
+  },
+  "0.27": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa12290"
+  },
+  "0.28": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa121a0"
+  },
+  "0.29": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa120b0"
+  },
+  "0.30": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11fc0"
+  },
+  "0.31": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11de0"
+  },
+  "0.32": {
+   "tp": "table",
+   "v": "table: 0x000001b0aa9f5bc0"
+  },
+  "0.33": {
+   "tp": "number",
+   "v": 125.0
+  },
+  "0.34": {
+   "tp": "table",
+   "v": "table: 0x000001b0ab099130"
+  },
+  "0.35": {
+   "tp": "number",
+   "v": 109.0
+  },
+  "0.36": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11a20"
+  },
+  "0.37": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa11930"
+  },
+  "0.38": {
+   "tp": "number",
+   "v": 1458848878.0
+  },
+  "0.39": {
+   "tp": "number",
+   "v": 355840223.0
+  },
+  "0.40": {
+   "tp": "table",
+   "v": "table: 0x000001b0aacb2cd0"
+  },
+  "0.41": {
+   "tp": "function",
+   "v": "function: 0x000001b0aaa0f770"
+  }
+ },
+ "190": {
+  "1": {
+   "tp": "string",
+   "v": "Connecting to Server... Verifying Signature."
+  },
+  "0": {
+   "tp": "string",
+   "v": "onion13"
+  }
+ }
+}

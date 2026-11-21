@@ -1,0 +1,182 @@
+
+--------------------------------------------------------------------------------
+-- driver
+--------------------------------------------------------------------------------
+
+-- Called by validateEnvironment, absent from the extract. Its use there
+-- (36 chars, "-" at position 9) makes it GenerateGUID with braces off.
+validateUUID = function(gameServices, ...)
+	return gameServices.HttpService:GenerateGUID(false)
+end
+
+local gameServices = {
+	AnimationClipProvider = game:GetService("AnimationClipProvider"),
+	HttpService = game:GetService("HttpService"),
+	Players = game:GetService("Players"),
+	RunService = game:GetService("RunService"),
+	Workspace = game:GetService("Workspace"),
+}
+
+local fired = 0
+local function callback()
+	fired += 1
+end
+
+--- Runs one validator. A validator passes when it neither raises nor calls the
+--- callback it was handed: those are its two ways of reporting tampering.
+local function check(name, fn, ...)
+	fired = 0
+	local ok, err = pcall(fn, ...)
+	if not ok then
+		print("RAISED " .. name .. " [" .. tostring(err) .. "]")
+	elseif fired > 0 then
+		print("FIRED " .. name .. " x" .. tostring(fired))
+	else
+		print("ok " .. name)
+	end
+end
+
+--- A fact the fixture computes and then throws away. Asserted here so a gap
+--- cannot pass by being discarded.
+local function fact(name, value)
+	print((value and "ok " or "FACT ") .. name .. " = " .. tostring(value))
+end
+
+-- Validators that report by raising -------------------------------------------
+check("verifyScriptContext", verifyScriptContext)
+check("validateMemStats", validateMemStats, gameServices)
+check("validateGameId", validateGameId)
+check("checkNaN", checkNaN)
+
+-- Validators that report through a callback -----------------------------------
+check("validateExecutionTime", validateExecutionTime, callback)
+check("checkGlobalEnv", checkGlobalEnv, callback)
+check("checkDebugHook", checkDebugHook, callback)
+check("checkFunctionHooks", checkFunctionHooks, callback)
+check("verifyFunctionHooks", verifyFunctionHooks, callback)
+check("scanForCanary", scanForCanary, callback)
+check("inspectMetatables", inspectMetatables, callback)
+check("verifyMetatableIntegrity(_G)", verifyMetatableIntegrity, _G, callback)
+check("verifyMetatableIntegrity(genv)", verifyMetatableIntegrity, getgenv(), callback)
+check("checkEnvironmentIsolation", checkEnvironmentIsolation, callback)
+check("validateCharacterAppearance", validateCharacterAppearance, gameServices, callback)
+check("validateCharacterInstance", validateCharacterInstance, gameServices, callback)
+check("validateHttpUrlEncoding", validateHttpUrlEncoding, gameServices, callback)
+
+-- Validators whose verdict goes into a parameter (cannot fail; run for crashes)
+check("validateEnvironment", validateEnvironment, gameServices)
+check("checkExecutorIdentity", checkExecutorIdentity, false)
+check("setupMetatableHooks", setupMetatableHooks, false, false)
+check("validateStreamingEnabled", validateStreamingEnabled, gameServices, false, false)
+check("validateHttpEnabled", validateHttpEnabled, gameServices, false)
+check("validateTableStructure", validateTableStructure, _G, type, rawget, false)
+
+-- Broken by the obfuscator: fire on a live client too -------------------------
+check("validateTraceback", validateTraceback, callback)
+check("verifyDebugTraceback", verifyDebugTraceback, callback)
+
+--------------------------------------------------------------------------------
+-- The facts the fixture discards
+--------------------------------------------------------------------------------
+
+-- validateEnvironment's 14 checks, in its order.
+fact("game.ClassName == DataModel", game.ClassName == "DataModel")
+fact("workspace.ClassName == Workspace", workspace.ClassName == "Workspace")
+fact("typeof(Enum.Material.Plastic) == EnumItem", typeof(Enum.Material.Plastic) == "EnumItem")
+fact("Enum.Material.Plastic.Value == 256", Enum.Material.Plastic.Value == 256)
+fact("typeof(game.Changed) == RBXScriptSignal", typeof(game.Changed) == "RBXScriptSignal")
+fact("typeof(workspace.Changed) == RBXScriptSignal", typeof(workspace.Changed) == "RBXScriptSignal")
+fact("RunService.ClassName == RunService", gameServices.RunService.ClassName == "RunService")
+fact("typeof(RunService.Heartbeat) == RBXScriptSignal", typeof(gameServices.RunService.Heartbeat) == "RBXScriptSignal")
+fact("IsClient or IsServer", gameServices.RunService:IsClient() or gameServices.RunService:IsServer())
+do
+	local part = Instance.new("Part")
+	fact("typeof(Instance.new'Part') == Instance", typeof(part) == "Instance")
+	fact("part.ClassName == Part", part.ClassName == "Part")
+	part:Destroy()
+end
+fact("gameServices.Workspace.ClassName == Workspace", gameServices.Workspace.ClassName == "Workspace")
+do
+	local cf = CFrame.new(1, 2, 3)
+	fact("CFrame.new(1,2,3) components", cf.X == 1 and cf.Y == 2 and cf.Z == 3)
+end
+do
+	local before = workspace.DistributedGameTime
+	task.wait()
+	local after = workspace.DistributedGameTime
+	fact("DistributedGameTime advances", (after - before) > 0)
+end
+do
+	local guid = gameServices.HttpService:GenerateGUID(false)
+	fact("GUID is 36 chars", #guid == 36)
+	fact("GUID has - at 9", guid:sub(9, 9) == "-")
+end
+
+-- setupMetatableHooks' four, all of which land in locals.
+do
+	local proxy = setmetatable({}, { __index = function() return 42 end })
+	fact("script __index fires", proxy.zzz == 42)
+	local callable = setmetatable({}, { __call = function() return 7 end })
+	fact("script __call fires", callable() == 7)
+	local locked = setmetatable({}, { __newindex = function() end })
+	locked.q = 1
+	fact("script __newindex intercepts", rawget(locked, "q") == nil)
+	fact("string.format('%d', {}) fails", not pcall(string.format, "%d", {}))
+end
+
+-- What validateTraceback and verifyDebugTraceback meant to test, before the
+-- parameter-mutation bug made their verdict unreachable: a traceback taken
+-- inside an xpcall handler has to name the C function that raised.
+do
+	local seen = nil
+	xpcall(function()
+		math.abs(nil)
+	end, function()
+		seen = debug.traceback()
+	end)
+	fact("handler traceback is a string", type(seen) == "string")
+	fact("handler traceback names [C]", type(seen) == "string" and (seen:find("C function") ~= nil or seen:find("%[C%]") ~= nil))
+end
+
+-- checkTableMetatable's requirements on the two global tables.
+do
+	local function clean(label, mt)
+		if type(mt) ~= "table" then
+			fact(label .. " metatable not a table (skipped by fixture)", true)
+			return
+		end
+		fact(label .. " no __newindex", rawget(mt, "__newindex") == nil)
+		fact(label .. " no __index", rawget(mt, "__index") == nil)
+		fact(label .. " no __call", rawget(mt, "__call") == nil)
+		fact(label .. " no __pairs", rawget(mt, "__pairs") == nil)
+	end
+	clean("getmetatable(_G)", getmetatable(_G))
+	clean("getrawmetatable(_G)", getrawmetatable(_G))
+	clean("getrawmetatable(genv)", getrawmetatable(getgenv()))
+end
+
+-- checkExecutorIdentity's other branch: with identifyexecutor absent it demands
+-- DebuggerManager be an Instance, so both halves have to hold.
+fact("identifyexecutor present", identifyexecutor ~= nil)
+fact("DebuggerManager is an Instance", typeof(game:GetService("DebuggerManager")) == "Instance")
+fact("isfunctionhooked absent", isfunctionhooked == nil)
+
+-- Proof that the environment is not what makes the two above fire: repair the
+-- one-line bug (the handler assigns to captureTraceback's upvalue instead of to
+-- its own parameter) and re-run them unchanged. Both go quiet.
+captureTraceback = function(...)
+	local argData = ...
+	local successFlag = false
+	xpcall(function(...)
+		return executeTracebackWrapper(argData, ...)
+	end, function()
+		local stackTrace = debug.traceback()
+		if type(stackTrace) == "string" and (stackTrace:find("C function") ~= nil or stackTrace:find("%[C%]") ~= nil) then
+			successFlag = true
+		end
+	end)
+	return successFlag
+end
+check("validateTraceback (bug repaired)", validateTraceback, callback)
+check("verifyDebugTraceback (bug repaired)", verifyDebugTraceback, callback)
+print("done")

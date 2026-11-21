@@ -1,0 +1,7 @@
+local fs = require("@lune/fs")
+local serde = require("@lune/serde")
+local Sandbox = require("../src/core/sandbox")
+local source = fs.readFile("tests/at5_fixture_all.lua")
+local result = Sandbox.run(source, { timeout = 180, maxExplored = 0 })
+print("err:", result.err)
+print("trace:", serde.encode(result.trace or {}):sub(1, 2000))

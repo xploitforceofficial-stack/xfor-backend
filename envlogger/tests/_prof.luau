@@ -1,0 +1,5 @@
+local process = require("@lune/process")
+print("sethook type:", type(debug.sethook), "traceback:", type(debug.traceback))
+local ok, err = pcall(debug.sethook, function() end, "", 100000)
+print("count hook ok=", ok, tostring(err))
+pcall(debug.sethook)

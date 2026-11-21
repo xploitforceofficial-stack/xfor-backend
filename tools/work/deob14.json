@@ -1,0 +1,64 @@
+{
+ "family": "canonical",
+ "workdir": "C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work",
+ "grade": "user-level",
+ "lifted": true,
+ "simple": {
+  "chains": {
+   "complete": 21,
+   "approx": 85,
+   "partial": 86
+  },
+  "statements": 436
+ },
+ "validate": {
+  "jumps": {
+   "tested": 723,
+   "match": 709,
+   "rate": 0.9806
+  },
+  "fallthrough": {
+   "tested": 122519,
+   "advance": 83235,
+   "rate": 0.6794
+  }
+ },
+ "steps": [
+  {
+   "step": "a49_dispatch",
+   "rc": 0,
+   "out": "ambiguous: [5, 43, 57, 64, 65, 66, 77, 78, 98, 113, 134, 136, 141, 142, 144, 147, 148, 149, 151, 152, 158, 169, 179, 183, 196] | unbalanced: none",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "join",
+   "rc": 0,
+   "out": "upenv chains=24 rows=1670 cmap=190 | wrote chains_post.tsv, post_meta.json, f2chain.json, upenv.json, cmap.json",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "lift14",
+   "rc": 0,
+   "out": "chains=192 slots=19172 leaves=208 | wrote C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work\\lifted.lua (3312379 chars)",
+   "err": "",
+   "critical": true
+  },
+  {
+   "step": "simplify14",
+   "rc": 0,
+   "out": "chains=192 slots=19172 leaves=208 | wrote C:\\Users\\Sandr\\OneDrive\\Desktop\\OmniDBF\\tools\\work\\simple.lua (21 chains complete, 85 approx, 86 partial, 436 statements)",
+   "err": "",
+   "critical": false
+  },
+  {
+   "step": "validate14",
+   "rc": 0,
+   "out": "  miss x1 ('313', '94', 'D', '411', '341') | fallthrough: 122519 advance: 83235 rate: 0.6794 (rest = call/return boundaries) | executed opcodes without leaf: none",
+   "err": "",
+   "critical": false
+  }
+ ],
+ "summary": "grade=user-level family=canonical chains complete=21 approx=85 partial=86 statements=436"
+}

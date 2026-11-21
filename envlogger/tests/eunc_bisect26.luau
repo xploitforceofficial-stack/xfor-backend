@@ -1,0 +1,7 @@
+local Instrument = require("../src/core/instrument")
+local out = Instrument.apply('print(foo); return foo', { operators = true })
+print("[INS] out:", tostring(out))
+local out2 = Instrument.apply('return foo', { operators = true })
+print("[INS] ret-only:", tostring(out2))
+local out3 = Instrument.apply('local x = 5\nreturn x', { operators = true })
+print("[INS] local:", tostring(out3))

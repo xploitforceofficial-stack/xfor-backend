@@ -1,0 +1,328 @@
+ok: true err: nil
+Welcome to eUNC, your go-to utility benchmark for environment loggers (aka runtime loggers) - If you need questions or help dm @rxlumz on dc!~
+[eUNC] running: game integrity checks
+[eUNC]   check: game cannot be cloned
+[eUNC] running: game & workspace & services type etc correct
+[eUNC]   check: type(game) is userdata
+[eUNC] running: Heartbeat:Connect returns RBXScriptConnection
+[eUNC] running: Heartbeat not writable
+[eUNC] running: Heartbeat.Once exists
+[eUNC] running: Heartbeat.Wait exists
+[eUNC] running: RunService signals are RBXScriptSignal
+[eUNC] running: RunService client checks
+[eUNC]   check: RunService:IsClient returns true
+[eUNC] running: ServiceAdded gives unique connections
+[eUNC] running: task is table
+[eUNC] running: task.wait returns positive number
+[eUNC] running: task.spawn runs immediately
+[eUNC] running: task.spawn returns thread
+[eUNC] running: task.defer runs after yield
+[eUNC] running: task.cancel exists
+[eUNC] running: task.cancel prevents deferred thread from running
+[eUNC] running: task.cancel prevents delayed thread from running
+[eUNC] running: task.wait respects minimum duration
+[eUNC] running: task.delay does not fire immediately
+[eUNC] running: task.cancel on already-ran thread does not error
+[eUNC] running: getfenv and setfenv correctness
+[eUNC]   check: getfenv exists
+[eUNC]   check: setfenv exists
+[eUNC]   check: setfenv on loadstring function works
+[eUNC] running: utf8 graphemes and math.nan
+[eUNC]   check: utf8.graphemes exists
+[eUNC] running: task scheduling order ACBD
+[eUNC] running: Pass Gold.cc Anti Env V3 on Scriptblox!
+[eUNC] running: Instance.new Part
+[eUNC]   check: Instance.new error is not runtime error (anti-fake check)
+[eUNC] running: Part.ClassName == Part
+[eUNC] running: New Part parent is nil
+[eUNC] running: Part is userdata not table
+[eUNC] running: Destroyed part parent is nil
+[eUNC] running: CFrame.Position sub-property is frozen
+[eUNC] running: Clone returns different reference
+[eUNC] running: Archivable false clone returns nil
+[eUNC] running: ClearAllChildren works
+[eUNC] running: ClassName is not writable
+[eUNC] running: Instance parenting works
+[eUNC] running: Instance parent cant be table
+[eUNC] running: FindFirstChild not recursive by default
+[eUNC] running: game.IsLoaded not writable
+[eUNC] running: BindableEvent fires
+[eUNC] running: BindableEvent signal type
+[eUNC] running: Heartbeat dt is valid
+[eUNC] running: Heartbeat fires within reasonable time
+[eUNC] running: Stepped fires within reasonable time
+[eUNC] running: RenderStepped fires within reasonable time
+[eUNC] running: Heartbeat delta is consistent
+[eUNC] running: Heartbeat timestamps differ
+[eUNC] running: debug is table
+[eUNC] running: debug.getinfo exists
+[eUNC] running: debug.getinfo returns Lua what
+[eUNC] running: pcall, xpcall, ypcall
+[eUNC]   check: pcall is function
+[eUNC]   check: xpcall is function
+[eUNC]   check: pcall catches errors
+[eUNC]   check: pcall returns values on success
+[eUNC]   check: ypcall is function
+[eUNC]   check: ypcall catches errors like pcall
+[eUNC]   check: ypcall returns values on success
+[eUNC] running: tostring is stable
+[eUNC] running: _G rawget consistency
+[eUNC] running: roblox globals & legacy funcs
+[eUNC]   check: _VERSION is string
+[eUNC]   check: _VERSION is Luau
+[eUNC]   check: shared is table
+[eUNC] running: os.clock non-negative
+[eUNC] running: coroutine.create status suspended
+[eUNC] running: buffer.create exists
+[eUNC] running: buffer read/write string
+[eUNC] running: newproxy returns userdata
+[eUNC] running: C functions do not trigger proxy metatables
+[eUNC] running: standard libraries are frozen (readonly)
+[eUNC] running: getgenv returns consistent table
+[eUNC] running: getgenv contains _G
+[eUNC] running: string.dump errors on C function
+[eUNC] running: EncodingService Zstd compress/decompress
+[eUNC] running: setmetatable __index works
+[eUNC] running: _G has no __index or __newindex
+[eUNC] running: workspace default instances exist
+[eUNC]   check: Baseplate exists
+[eUNC] running: camera properties and methods
+[eUNC]   check: workspace.CurrentCamera exists
+[eUNC] running: PostFX & Atmosphere properties
+[eUNC]   check: BloomEffect.ClassName is BloomEffect
+[eUNC]   check: BloomEffect.Intensity is number
+[eUNC] running: Lighting Properties
+[eUNC]   check: Lighting.Ambient is Color3
+[eUNC] running: GetProductInfo (skidded check 100% of obfs have this)
+[eUNC]   check: MarketplaceService exists
+[eUNC]   check: MarketplaceService.GetProductInfo is function
+[eUNC] running: TweenService
+[eUNC]   check: TweenService exists
+[eUNC]   check: TweenService.ClassName correct
+[eUNC]   check: TweenService rejects bad goal types
+[eUNC] running: ContextActionService
+[eUNC]   check: ContextActionService exists
+[eUNC]   check: ContextActionService.ClassName correct
+[eUNC]   check: ContextActionService:BindAction works
+[eUNC] running: UserInputService
+[eUNC]   check: UIS.TouchEnabled is boolean
+[eUNC] running: PathfindingService
+[eUNC]   check: PathfindingService exists
+[eUNC]   check: PathfindingService.ClassName correct
+[eUNC]   check: PathfindingService:CreatePath returns object
+[eUNC] running: Humanoid signals are RBXScriptSignal
+[eUNC]   check: Humanoid.StateChanged is RBXScriptSignal
+[eUNC] running: Humanoid properties
+[eUNC]   check: Humanoid.JumpHeight is number
+[eUNC] running: Instance methods
+[eUNC]   check: WaitForChild returns correct child
+[eUNC] running: Humanoid jump physics using HumanoidStateType.Jumping 
+[eUNC]   check: LocalPlayer exists
+[eUNC] running: particle effects
+[eUNC]   check: ForceField.ClassName correct
+[eUNC]   check: ForceField.Visible is boolean
+[eUNC] running: constraints and forces
+[eUNC]   check: NoCollisionConstraint.ClassName correct
+[eUNC]   check: HingeConstraint.ClassName correct
+[eUNC]   check: HingeConstraint.ActuatorType is EnumItem
+[eUNC] running: GUI textlabel properties
+[eUNC]   check: TextLabel.TextTruncate is EnumItem
+[eUNC] running: GUI frame properties
+[eUNC]   check: Frame.Position is UDim2
+[eUNC] running: Workspace properties and functions work
+[eUNC]   check: workspace.DistributedGameTime is number
+[eUNC] running: Part properties and signals
+[eUNC]   check: Part.Massless is boolean
+[eUNC] running: LocalPlayer & Players service(s)
+[eUNC]   check: Players.LocalPlayer exists
+[eUNC] running: StarterPlayer
+[eUNC]   check: StarterPlayer.ClassName correct
+[eUNC]   check: StarterPlayer has StarterPlayerScripts
+[eUNC] running: Vector3 properties and methods
+[eUNC]   check: Vector3.X Y Z correct
+[eUNC] running: coroutine suspend correctness
+[eUNC]   check: coroutine status is suspended after yield
+[eUNC] running: Property clamping and validation
+[eUNC]   check: Color3 out of range is clamped or rejected
+[eUNC] running: GetChildren mutation correctness
+[eUNC]   check: GetChildren snapshot is immutable to parent changes
+[eUNC] running: LogService.MessageOut signal
+[eUNC]   check: LogService.MessageOut is RBXScriptSignal
+[eUNC] running: Enum structural integrity
+[eUNC]   check: EnumItem.EnumType points back to parent Enum
+[eUNC] running: task.defer and coroutine ordering
+[eUNC]   check: deferred tasks across folders resolve correctly
+[eUNC]   check: deferred value accumulation is deterministic
+[eUNC] running: coroutine and task interleaving
+[eUNC]   check: ClearAllChildren during deferred parent chain
+[eUNC] running: Vector2 properties and methods
+[eUNC]   check: Vector2.X Y correct
+[eUNC] running: SharedTable
+[eUNC]   check: SharedTable.new empty returns correct type
+[eUNC] running: Vector2int16
+[eUNC]   check: Vector2int16.new returns correct type
+[eUNC] running: Vector3int16
+[eUNC]   check: Vector3int16.new returns correct type
+[eUNC] running: ValueCurveKey
+[eUNC]   check: ValueCurveKey.new returns correct type
+[eUNC] running: CFrame properties and methods
+[eUNC]   check: CFrame.X Y Z correct
+[eUNC] running: Color3 properties and methods
+[eUNC]   check: Color3.new R G B correct
+[eUNC] running: UDim and UDim2
+[eUNC]   check: UDim.Scale and Offset correct
+[eUNC] running: BrickColor
+[eUNC]   check: BrickColor.new by name correct
+[eUNC] running: TweenInfo
+[eUNC]   check: TweenInfo.Time correct
+[eUNC] running: NumberRange, NumberSequence, ColorSequence
+[eUNC]   check: NumberRange.Min and Max correct
+[eUNC] running: Ray and RaycastParams and OverlapParams
+[eUNC]   check: Ray.Origin correct
+[eUNC] running: Region3
+[eUNC]   check: Region3.Size correct
+[eUNC] running: Random
+[eUNC]   check: Random:NextInteger in range
+[eUNC] running: FloatCurveKey
+[eUNC]   check: FloatCurveKey.new returns correct type
+[eUNC] running: CatalogSearchParams
+[eUNC]   check: CatalogSearchParams.new returns correct type
+[eUNC] running: Core functions [C]
+[eUNC]   check: math.abs is C function
+[eUNC]   check: math.abs logic correct
+[eUNC]   check: math.abs errors on string
+[eUNC]   check: math.random is C function
+[eUNC]   check: math.random logic correct
+[eUNC]   check: math.random errors on empty interval
+[eUNC]   check: math.clamp is C function
+[eUNC]   check: math.clamp logic correct
+[eUNC]   check: math.floor is C function
+[eUNC]   check: math.floor logic correct
+[eUNC]   check: math.sign is C function
+[eUNC]   check: math.sign logic correct
+[eUNC]   check: math.rad is C function
+[eUNC]   check: math.rad logic correct
+[eUNC]   check: math.deg is C function
+[eUNC]   check: math.deg logic correct
+[eUNC]   check: table.insert is C function
+[eUNC]   check: table.insert logic correct
+[eUNC]   check: table.insert errors on non-table
+[eUNC]   check: table.find is C function
+[eUNC]   check: table.find logic correct
+[eUNC]   check: table.concat is C function
+[eUNC]   check: table.concat logic correct
+[eUNC]   check: table.remove is C function
+[eUNC]   check: table.remove logic correct
+[eUNC]   check: table.sort is C function
+[eUNC]   check: table.sort logic correct
+[eUNC]   check: tostring is C function
+[eUNC]   check: tostring logic correct
+[eUNC]   check: tonumber is C function
+[eUNC]   check: tonumber logic correct
+[eUNC]   check: tonumber errors on bad base
+[eUNC]   check: string.len is C function
+[eUNC]   check: string.len logic correct
+[eUNC]   check: pairs is C function
+[eUNC]   check: pairs logic correct
+[eUNC]   check: ipairs is C function
+[eUNC]   check: ipairs logic correct
+[eUNC]   check: next is C function
+[eUNC]   check: next logic correct
+[eUNC]   check: type is C function
+[eUNC]   check: type logic correct
+[eUNC]   check: typeof is C function
+[eUNC]   check: typeof logic correct
+[eUNC] running: Faces
+[eUNC]   check: Faces.new returns correct type
+[eUNC] running: Secret
+[eUNC]   check: HttpService:GetSecret exists
+[eUNC] running: PhysicalProperties
+[eUNC]   check: PhysicalProperties.Density correct
+[eUNC] running: Font
+[eUNC]   check: Font.new returns Font
+[eUNC] running: Axes
+[eUNC]   check: Axes.new returns correct type
+[eUNC] running: PathWaypoint
+[eUNC]   check: PathWaypoint.new returns correct type
+[eUNC] running: RBXScriptConnection
+[eUNC]   check: RBXScriptConnection.Connected is true after connect
+[eUNC] running: RBXScriptSignal
+[eUNC]   check: RBXScriptSignal:Connect returns RBXScriptConnection
+[eUNC] running: Rect
+[eUNC]   check: Rect.new empty returns correct type
+[eUNC] running: Region3int16
+[eUNC]   check: Region3int16.new returns correct type
+[eUNC] running: RotationCurveKey
+[eUNC]   check: RotationCurveKey.new returns correct type
+[eUNC] running: SecurityCapabilities
+[eUNC]   check: SecurityCapabilities.new returns correct type
+[eUNC] running: eDateTimes
+[eUNC]   check: DateTime.now returns DateTime
+[eUNC] running: workspace raycasting
+[eUNC]   check: workspace:Raycast returns RaycastResult or nil
+[eUNC] running: loadstring executes code (using an url)
+[eUNC] running: loadstring cannot load Luau bytecode
+[eUNC] running: Vector3 components are frozen
+[eUNC] running: Color3 components are frozen
+[eUNC] running: rawlen works on string and table
+[eUNC] running: Instance SetAttribute and GetAttribute
+[eUNC] running: CollectionService AddTag and HasTag
+[eUNC] running: Humanoid.MoveDirection is Vector3
+[eUNC] running: Camera.FieldOfView is writable
+[eUNC] running: Enum
+[eUNC]   check: Enum.EasingStyle.Linear is EnumItem
+[eUNC] running: buffer operations
+[eUNC]   check: buffer.len correct
+[eUNC]   check: buffer.writeu8 and readu8 correct
+[eUNC]   check: buffer.writef32 and readf32 correct
+[eUNC]   check: buffer.fill correct
+[eUNC]   check: buffer.copy correct
+[eUNC]   check: buffer.writestring and readstring correct
+[eUNC] running: UI Library logging 
+[eUNC] running: Enum singleton
+[eUNC] running: Vector3 arithmetic is correct
+[eUNC] running: GetService returns singleton
+[eUNC] running: loadstring syntax error returns error
+[eUNC] running: GetService matches property access
+[eUNC] running: require is not callable from global env
+[eUNC] running: RunService extended properties
+[eUNC]   check: RunService.ClientGitHash is string
+[eUNC] running: game properties
+[eUNC]   check: game.CreatorType is valid
+[eUNC] running: Players async methods
+[eUNC]   check: GetNameFromUserIdAsync matches LocalPlayer
+[eUNC] running: CollectionService extended
+[eUNC]   check: GetTags returns correct tags
+[eUNC] running: Instance property type enforcement
+[eUNC]   check: Orientation rejects string assignment
+[eUNC] running: Instance signals fire on property change
+[eUNC]   check: Changed fires on Name change
+[eUNC] running: gcinfo
+[eUNC]   check: gcinfo returns positive number
+[eUNC] running: HttpService.GetSecret
+[eUNC]   check: GetSecret errors on invalid key
+[eUNC] running: Teams service
+[eUNC]   check: Teams:GetTeams returns table
+[eUNC] running: LogService
+[eUNC]   check: LogService:GetLogHistory returns table
+[eUNC] running: Stats service properties
+[eUNC]   check: Stats.ContactsCount is number
+[eUNC] running: ENV LOGGER SHOULD BE REGULAR LUAU (not lune or anything else)
+[eUNC] running: All Enums.
+[eUNC]   check: AccessModifierType exists
+[eUNC] running: tostring changes on rename
+[eUNC] running: IsDescendantOf works after parenting
+[eUNC] running: child parent is nil after destroy
+[eUNC] running: Instance and table edge cases
+[eUNC]   check: random numeric index on Part does not succeed
+[eUNC] running: Physics work under a Part
+[eUNC]   check: LocalPlayer exists for physics test
+[eUNC] Score : 145 / 163  (89%)
+[eUNC] Executor: Potassium (ENV)
+[eUNC] Passed: 145  |  Failed: 17
+[ FAIL ] - getfenv and setfenv correctness ~ setfenv on loadstring function works failed
+[ FAIL ] - TweenService ~ TweenService rejects bad goal types failed
+[ FAIL ] - constraints and forces ~ HingeConstraint.ActuatorType is EnumItem failed
+[ FAIL ] - HttpService.GetSecret ~ GetSecret errors on invalid key failed
+[eUNC] Results URL (shareable permalink):
+full output -> tests/eunc_out.txt (15587 bytes)
